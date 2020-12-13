@@ -1,6 +1,6 @@
 # CQI-coffee-tableau
-A tool to help identify which coffee origin has the best score and which processing method you would prefer, for when you select your next cup of coffee!
-A project done in fufilment for Smartcademy's Data Analytics course.
+A tool to help identify which coffee origin has the best score and which processing method you would prefer, for when you select your next cup of coffee!<br />
+_A project done in fufilment for Smartcademy's Data Analytics course._
 
 ## Data
 This coffee review dataset is obtained from https://github.com/jldbc/coffee-quality-database.
