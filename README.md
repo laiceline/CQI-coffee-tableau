@@ -12,10 +12,10 @@ The dataset is cleaned using Python in Jupyter Notebook.
 
 ##  Exploratory Data Analysis (EDA)
 * Correlations between Acidity, Sweetness, Total Cup Points and Mean Altitude
-  *Acidity is more correlated with higher Total Cup Points, compared to sweetness.
-  *Altitude is not correlated to acidity or sweetness of the coffee.
+     * Acidity is more correlated with higher Total Cup Points, compared to sweetness.
+     * Altitude is not correlated to acidity or sweetness of the coffee.
 * Scatter plot with regression line of Acidity versus Total Cup Points
-  *Positive correlation: Higher Total Cup Points tend to have higher Acidity
+     * Positive correlation: Higher Total Cup Points tend to have higher Acidity
 
 ## Data Visualisation
 Dataset is visualised in Tableau. Take a look [here](https://public.tableau.com/profile/celine4997#!/vizhome/CapstoneCoffee_Tableaudashbd/Dashboard1?publish=yes).
