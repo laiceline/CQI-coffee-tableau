@@ -1,0 +1,1310 @@
+,Species,Color,Processing Method,Country of Origin,Region,Producer,Harvest Year,Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Uniformity,Clean Cup,Sweetness,Cupper Points,Total Cup Points,Moisture,Category One Defects,Quakers,Category Two Defects,unit_of_measurement,altitude_low_meters,altitude_high_meters,altitude_mean_meters
+1,Arabica,Green,Washed / Wet,Ethiopia,guji-hambela,METAD PLC,2014,8.67,8.83,8.67,8.75,8.5,8.42,10,10,10,8.75,90.58,0.12,0,0,0,m,1950,2200,2075
+2,Arabica,Green,Washed / Wet,Ethiopia,guji-hambela,METAD PLC,2014,8.75,8.67,8.5,8.58,8.42,8.42,10,10,10,8.58,89.92,0.12,0,0,1,m,1950,2200,2075
+3,Arabica,,,Guatemala,,,,8.42,8.5,8.42,8.42,8.33,8.42,10,10,10,9.25,89.75,0,0,0,0,m,1600,1800,1700
+4,Arabica,Green,Natural / Dry,Ethiopia,oromia,Yidnekachew Dabessa Coffee Plantation,2014,8.17,8.58,8.42,8.42,8.5,8.25,10,10,10,8.67,89,0.11,0,0,2,m,1800,2200,2000
+5,Arabica,Green,Washed / Wet,Ethiopia,guji-hambela,METAD PLC,2014,8.25,8.5,8.25,8.5,8.42,8.33,10,10,10,8.58,88.83,0.12,0,0,2,m,1950,2200,2075
+6,Arabica,Bluish-Green,Natural / Dry,Brazil,,,2013,8.58,8.42,8.42,8.5,8.25,8.33,10,10,10,8.33,88.83,0.11,0,0,1,m,NA,NA,NA
+7,Arabica,Bluish-Green,Washed / Wet,Peru,,HVC,2012,8.42,8.5,8.33,8.5,8.25,8.25,10,10,10,8.5,88.75,0.11,0,0,0,m,NA,NA,NA
+8,Arabica,,,Ethiopia,oromia,Bazen Agricultural & Industrial Dev't Plc,1905,8.25,8.33,8.5,8.42,8.33,8.5,10,10,9.33,9,88.67,0.03,0,0,0,m,1570,1700,1635
+9,Arabica,,,Ethiopia,oromiya,Bazen Agricultural & Industrial Dev't Plc,2010,8.67,8.67,8.58,8.42,8.33,8.42,9.33,10,9.33,8.67,88.42,0.03,0,0,0,m,1570,1700,1635
+10,Arabica,Green,Natural / Dry,Ethiopia,"snnp/kaffa zone,gimbowereda",Diamond Enterprise Plc,2014,8.08,8.58,8.5,8.5,7.67,8.42,10,10,10,8.5,88.25,0.1,0,0,4,m,1795,1850,1822.5
+11,Arabica,,Natural / Dry,Ethiopia,oromia,Fahem Coffee Plantation,2014,8.17,8.67,8.25,8.5,7.75,8.17,10,10,10,8.58,88.08,0.1,0,0,1,m,1855,1955,1905
+12,Arabica,,Washed / Wet,United States,antioquia,Alfredo De Jesús López Pérez,2014,8.25,8.42,8.17,8.33,8.08,8.17,10,10,10,8.5,87.92,0,0,0,0,m,1872,1872,1872
+13,Arabica,,Washed / Wet,United States,antioquia,Jorge Walter Restrepo,2014,8.08,8.67,8.33,8.42,8,8.08,10,10,10,8.33,87.92,0,0,0,0,m,1943,1943,1943
+14,Arabica,,,United States (Hawaii),kona,"Robert, Sharon, Arianna Wood",2009,8.33,8.42,8.08,8.25,8.25,8,10,10,10,8.58,87.92,0,0,0,2,ft,609.6,609.6,609.6
+15,Arabica,,,Ethiopia,oromiya,Bazen Agricultural & Industrial Dev't Plc,,8.25,8.33,8.5,8.25,8.58,8.75,9.33,10,9.33,8.5,87.83,0.05,0,0,2,m,1570,1700,1635
+16,Arabica,,Washed / Wet,United States,antioquia,María Leticia Diosa,2014,8,8.5,8.58,8.17,8.17,8,10,10,10,8.17,87.58,0,0,0,0,m,2080,2080,2080
+17,Arabica,,,Indonesia,sulawesi,P.T. Toarco Jaya,2010,8.33,8.25,7.83,7.75,8.5,8.42,10,10,10,8.33,87.42,0.03,0,0,0,m,1200,1800,1500
+18,Arabica,,,Ethiopia,yirgacheffe,Green Gold Ethiopia | Phone: 0114342032,2009,8.17,8.33,8.25,8.33,8.42,8.33,9.33,10,9.33,8.83,87.33,0.05,0,0,2,m,NA,NA,NA
+19,Arabica,Green,Washed / Wet,China,yunnan,Echo Coffee,2015,8.42,8.25,8.08,8.17,7.92,8,10,10,10,8.42,87.25,0.1,0,0,0,m,1450,1450,1450
+20,Arabica,,Natural / Dry,Ethiopia,gedio,LevelUp,2014,8.17,8.17,8,8.17,8.08,8.33,10,10,10,8.33,87.25,0,0,0,8,m,1700,2000,1850
+21,Arabica,None,Washed / Wet,United States,antioquia,Nicolás Rueda Urrego,2014,8,8.25,8.08,8.5,8.25,8,10,10,10,8.17,87.25,0,0,0,0,m,2019,2019,2019
+22,Arabica,Green,Washed / Wet,Costa Rica,san ramon,SEVERAL,2014,8.08,8.25,8,8.17,8,8.33,10,10,10,8.33,87.17,0.11,0,0,2,m,1300,1300,1300
+23,Arabica,Green,Washed / Wet,Mexico,xalapa,ROBERTO LICONA FRANCO,2012,8.17,8.25,8.17,8,7.83,8.17,10,10,10,8.58,87.17,0.13,0,0,0,m,1320,1320,1320
+24,Arabica,,Washed / Wet,United States,antioquia,Silvia Elena Higuita,2014,8.25,8.33,8.17,8.17,7.83,8.17,10,10,10,8.17,87.08,0,0,0,0,m,2112,2112,2112
+25,Arabica,Bluish-Green,Natural / Dry,Ethiopia,sidamo,,2013,8.42,8.17,7.92,8.17,8.33,8,10,10,10,8.08,87.08,0.11,0,0,1,m,NA,NA,NA
+26,Arabica,Green,Natural / Dry,Brazil,south of minas,Ralph Junqueira,2011,8.5,8.5,8,8,8,8,10,10,10,7.92,86.92,0.12,0,0,2,m,1250,1250,1250
+27,Arabica,,,Ethiopia,sidamo,Green Gold Ethiopia | Phone: 0114342032,2010,7.83,8.25,8.08,8.17,8.17,8.17,10,10,10,8.25,86.92,0.05,0,0,2,m,NA,NA,NA
+28,Arabica,Green,Washed / Wet,Uganda,kapchorwa eastern,Kabum trading company,2013,8.42,8.17,8.17,8.17,7.83,7.92,10,10,10,8.17,86.83,0.12,0,0,1,m,1950,1950,1950
+29,Arabica,Green,,Honduras,comayagua,Reinerio Zepeda,2016,8.17,8.08,8.08,8,8.08,8,10,10,10,8.25,86.67,0.1,0,0,3,m,1400,1400,1400
+30,Arabica,Green,Pulped natural / honey,Taiwan,"leye, alishan township, chiayi county","FANG,ZHENG-LUN 方政倫",2015,8,8,8,8.25,8,8.17,10,10,10,8.17,86.58,0,0,0,0,m,1200,1200,1200
+31,Arabica,,,Nicaragua,,,,7.92,8.25,8,8.33,8,8.08,10,10,10,8,86.58,0.08,0,0,2,m,NA,NA,NA
+32,Arabica,Bluish-Green,Natural / Dry,"Tanzania, United Republic Of",,,2012,8.42,8.17,8.17,8,7.58,8,10,10,10,8.17,86.5,0.11,0,0,1,m,NA,NA,NA
+33,Arabica,Green,Natural / Dry,Brazil,vale da grama,Homero Texeira de Macedo Junior,2011,8.5,8.17,8,7.75,8,8,10,10,10,8,86.42,0.12,0,0,2,m,1300,1300,1300
+34,Arabica,Blue-Green,Washed / Wet,Costa Rica,west and central valley,Exclusive Coffees S.A.,2016,8.17,7.83,8,8.08,7.83,8,10,10,10,8.42,86.33,0,0,0,0,m,1300,1300,1300
+35,Arabica,Green,Natural / Dry,Ethiopia,oromia,Haider Abamecha Abadiko,2014,8,8.08,7.92,8,8.08,8.08,10,10,10,8.08,86.25,0.1,0,0,3,m,1750,1800,1775
+36,Arabica,Blue-Green,Washed / Wet,Kenya,muranga,Kangunu,2013,8.08,8,8,8.25,7.92,7.92,10,10,10,8.08,86.25,0.12,0,0,1,m,1800,1800,1800
+37,Arabica,,Natural / Dry,United States (Hawaii),kona,,2012,8.08,8.17,8,7.92,7.92,7.83,10,10,10,8.33,86.25,0,1,0,4,ft,NA,NA,NA
+38,Arabica,,,United States (Hawaii),kona,Kona Pacific Farmers Co-Op,2010,8.25,8.42,8.08,7.75,7.67,7.83,10,10,10,8.25,86.25,0,2,0,1,ft,NA,NA,NA
+39,Arabica,,,Ethiopia,yirgacheffe,Contact name | ATO Teshome Belamo,2010,7.92,7.75,8.08,8.08,8.08,8.17,10,10,10,8.17,86.25,0.1,0,0,2,m,NA,NA,NA
+40,Arabica,,Washed / Wet,United States,antioquia,Hugo Sepúlveda Montoya,2014,7.67,8.17,8,8,8.17,8.08,10,10,10,8.08,86.17,0,0,0,0,m,1941,1941,1941
+41,Arabica,Green,Washed / Wet,Thailand,chiang rai,ITDP,2012,7.83,8.33,7.83,8.25,7.58,7.92,10,10,10,8.42,86.17,0.1,1,0,9,m,1300,1300,1300
+42,Arabica,,,Brazil,sul de minas - carmo de minas,Maria Rogeria Costa Pereira,2010,8.17,7.92,7.92,7.75,8.33,8,10,10,10,8.08,86.17,0.08,0,0,2,m,12,12,12
+43,Arabica,,,Brazil,sul de minas - carmo de minas,Maria Rogeria Costa Pereira,2010,8.42,7.92,8,7.75,7.92,8,10,10,10,8.17,86.17,0.01,0,0,3,m,12,12,12
+44,Arabica,Green,Semi-washed / Semi-pulped,Taiwan,natou county,LIN YEN CHIEN 林言謙,2015,8.08,8.17,7.75,8.08,7.75,7.83,10,10,10,8.42,86.08,0.12,0,0,0,m,1000,1000,1000
+45,Arabica,Bluish-Green,Natural / Dry,Kenya,nyeri,JUNGLE ESTATE,2014,8.08,8.08,8,8,7.83,8.08,10,10,10,8,86.08,0.11,0,0,2,m,1754,1754,1754
+46,Arabica,Blue-Green,Semi-washed / Semi-pulped,Brazil,south of minas,Ralph Junqueira,2011,8.33,8,8,8,7.75,8,10,10,10,8,86.08,0.11,0,0,2,m,1250,1250,1250
+47,Arabica,,Semi-washed / Semi-pulped,Uganda,eastern uganda,Kaasay Farmer Group,2014,8.08,8.08,7.83,7.92,8.08,7.92,10,10,10,8.08,86,0,0,0,0,m,NA,NA,NA
+48,Arabica,Green,Washed / Wet,Colombia,tolima,,2013,7.75,7.92,7.83,8.08,8.08,8.17,10,10,10,8.17,86,0.12,1,0,1,m,900,1500,1200
+49,Arabica,Green,Washed / Wet,Kenya,kiambu,,2013,7.92,8.17,7.83,8.5,7.5,7.92,10,10,10,8.17,86,0.11,0,0,1,m,1520,2200,1860
+50,Arabica,Blue-Green,Washed / Wet,Uganda,"sipi, mt elgon",Kawacom,2012,8.25,8,7.83,8.08,8,7.92,10,10,10,7.92,86,0.1,0,0,0,m,1400,1900,1650
+51,Arabica,,,Ethiopia,sidamo,Sidama Coffee Farmers Coop. Union,2009,7.75,8.08,8,8.25,8,8,10,10,10,7.92,86,0.01,0,0,4,m,1500,2000,1750
+52,Arabica,,,United States (Hawaii),kona,Hula Daddy Kona Coffee,Fall 2009,8.33,8.17,7.75,8,7.75,7.83,10,10,10,8.17,86,0,0,0,0,ft,426.72,426.72,426.72
+53,Arabica,Green,Washed / Wet,Guatemala,nuevo oriente,MARGARITA AVILA DE NUYENS,2016,7.92,8.08,7.92,8.08,8.08,7.83,10,10,10,8,85.92,0.1,0,1,3,m,NA,NA,NA
+54,Arabica,Green,Natural / Dry,Uganda,eastern,Kawacom (U)Ltd,2013,8.17,8.17,7.92,8.08,7.83,7.75,10,10,10,8,85.92,0.12,0,0,0,m,1400,1900,1650
+55,Arabica,Blue-Green,Washed / Wet,Colombia,huila,,2013,8,8,8,8.17,7.83,8,10,10,10,7.92,85.92,0,1,0,0,m,1800,1800,1800
+56,Arabica,Bluish-Green,Washed / Wet,Panama,boquete,Plinio Ruiz,2017,8,8,7.92,8.08,7.83,8,10,10,10,8,85.83,0.08,0,1,0,m,1600,1600,1600
+57,Arabica,Green,Washed / Wet,Ethiopia,oromia,Ibrahim Hussien Specialty Coffee Producer and Exporter,2014,7.83,8.08,7.92,8.08,8,7.92,10,10,10,8,85.83,0.1,0,0,4,m,1800,2000,1900
+58,Arabica,Green,Washed / Wet,Guatemala,acatenango,SERTRASA,2012,7.83,8,8,8.17,7.83,8,10,10,10,8,85.83,0.12,0,0,3,ft,1524,1524,1524
+59,Arabica,Bluish-Green,Washed / Wet,Guatemala,nuevo oriente,WILLIAM ESTUARDO MARTINEZ PACHECO,2012,8,8,7.83,8.33,7.83,7.83,10,10,10,8,85.83,0.1,0,0,1,ft,1417.32,1417.32,1417.32
+60,Arabica,None,Natural / Dry,Ethiopia,addis ababa,seid damtew coffee export and plantation,2017,7.83,8,7.83,8.17,7.92,8,10,10,10,8,85.75,0.09,0,4,7,m,NA,NA,NA
+61,Arabica,Green,Washed / Wet,Peru,cajamarca,,2013,8,8,8,8.08,7.92,7.75,10,10,10,8,85.75,0.1,4,0,6,m,NA,NA,NA
+62,Arabica,Bluish-Green,Washed / Wet,Papua New Guinea,eastern highlands province,"Colbran CoffeeLands, Ltd.",2012,8.33,8.42,7.83,8.33,8,8.25,9.33,9.33,10,7.92,85.75,0.12,0,0,1,m,1700,1700,1700
+63,Arabica,Blue-Green,Washed / Wet,El Salvador,apaneca,Aida Batlle,2013,7.92,8.17,8,7.92,7.75,7.83,10,10,10,8,85.58,0.1,0,0,3,m,1500,1500,1500
+64,Arabica,None,Semi-washed / Semi-pulped,El Salvador,"ataco, apaneca - ilamatepec mountain range",Oscar Roberto Murgas Linares,2012,7.83,8,8,7.75,7.92,8.17,10,10,10,7.92,85.58,0.11,0,0,0,m,1300,1400,1350
+65,Arabica,,Natural / Dry,United States (Hawaii),kona,,2012,7.83,8,7.92,7.75,8.08,8,10,10,10,8,85.58,0,0,0,1,ft,NA,NA,NA
+66,Arabica,,Natural / Dry,Panama,boquete,Lamastus,2014,8,7.75,7.83,7.83,7.67,8.58,10,10,10,7.83,85.5,0.09,2,0,2,m,1680,1680,1680
+67,Arabica,Green,Natural / Dry,Kenya,kirinyaga,,2014,7.92,7.92,7.83,8.08,7.83,7.92,10,10,10,8,85.5,0.1,0,0,3,m,1900,1900,1900
+68,Arabica,Green,Natural / Dry,Ethiopia,oromia,Assefa Belay Coffee Producer,2015,7.83,8,7.83,7.92,7.83,8.08,10,10,10,8,85.5,0.12,0,0,7,m,1800,2000,1900
+69,Arabica,Green,Washed / Wet,Uganda,bulambuli eastern region,Kyagalanyi coffee Ltd,2013,8.33,7.92,7.67,7.92,7.67,7.92,10,10,10,8.08,85.5,0.12,0,0,1,m,1600,1600,1600
+70,Arabica,Green,Washed / Wet,Guatemala,huehuetenango,ASOCIACION DE PERMACULTORES DE CUILCO (SANTOS LOPEZ MEJIA),2013,8,7.83,7.67,8.33,7.83,8,10,10,10,7.83,85.5,0.11,0,0,1,ft,1706.88,1755.648,1731.264
+71,Arabica,Green,Washed / Wet,Ethiopia,oromia,Assefa Belay Coffee Producer,2015,7.75,7.83,7.83,8.17,7.92,7.83,10,10,10,8.08,85.42,0.1,0,0,18,m,1800,2000,1900
+72,Arabica,Green,Washed / Wet,Uganda,kapchorwa,Chesiyo Farmer group,2013,8.08,8,7.83,7.67,8,7.83,10,10,10,8,85.42,0.12,0,0,5,m,1950,1950,1950
+73,Arabica,,Natural / Dry,United States (Hawaii),kona,,2012,7.92,7.92,7.75,7.92,7.75,7.92,10,10,10,8.25,85.42,0,4,0,6,ft,NA,NA,NA
+74,Arabica,Blue-Green,Semi-washed / Semi-pulped,Brazil,south of minas,José Vagner Ribeiro Junqueira,2011,8,8,8,7.67,7.75,8,10,10,10,8,85.42,0.11,0,0,1,m,1250,1250,1250
+75,Arabica,,,El Salvador,apaneca,J. Hill y Cia SA de CV,2009,8.08,7.83,7.83,8.08,7.83,7.83,10,10,10,7.92,85.42,0.01,0,0,0,m,1400,1400,1400
+76,Arabica,Green,Natural / Dry,China,yunnan,Pu'er City Longke Coffee Co.Ltd,2015,8,8,8,7.83,7.83,7.75,10,10,10,7.92,85.33,0.1,0,0,0,m,1700,1700,1700
+77,Arabica,Green,Natural / Dry,Guatemala,huehuetenango,Arturo Aguirre,2014,7.83,7.75,7.83,7.67,7.83,8.58,10,10,10,7.83,85.33,0.11,0,0,1,m,1770,1770,1770
+78,Arabica,Bluish-Green,Washed / Wet,Costa Rica,west valley,Cafe Altura de San Ramon,2014,7.92,8.08,8,7.92,8,8.08,10,10,9.33,8,85.33,0,0,0,0,m,1300,1300,1300
+79,Arabica,Bluish-Green,Washed / Wet,Costa Rica,san ramon,SEVERAL,2014,8,7.58,7.58,7.67,8.08,8.5,10,10,10,7.92,85.33,0.1,0,0,2,m,1300,1300,1300
+80,Arabica,Green,Washed / Wet,Kenya,central kenya,Kianjogu - Rutuma F.C.S. Ltd.,2012,7.83,8.08,7.75,8.08,7.92,7.75,10,10,10,7.92,85.33,0,0,0,2,m,1600,1600,1600
+81,Arabica,Green,Washed / Wet,Kenya,central kenya,Blend from various Producers,2012,8,7.92,7.92,8.08,7.83,7.75,10,10,10,7.83,85.33,0,0,0,6,m,1200,1200,1200
+82,Arabica,,,Ethiopia,yirgacheffe,"Contact name | Egziabhez Mezgebe, GMT Industrial Plc",2009,7.83,7.83,7.92,8.08,7.75,7.83,10,10,10,8.08,85.33,0.05,0,0,2,m,NA,NA,NA
+83,Arabica,,,Ethiopia,yirgacheffe,Contact name | Hailu Gebre Hiwot,2009,7.92,7.83,7.75,8.33,7.75,7.75,10,10,10,8,85.33,0.1,0,0,3,m,NA,NA,NA
+84,Arabica,Green,,Guatemala,oriente,MARGARITA AVILA DE NUYENS,2016,8,7.92,7.75,8,7.92,7.83,10,10,10,7.83,85.25,0.1,0,2,2,m,NA,NA,NA
+85,Arabica,Green,Washed / Wet,Colombia,santander,varios,2015,8.17,7.92,7.83,8,7.58,7.83,10,10,10,7.92,85.25,0.11,0,0,0,m,1550,1550,1550
+86,Arabica,Green,Natural / Dry,Colombia,santander,,2014,7.58,8.08,7.92,7.83,8,7.92,10,10,10,7.92,85.25,0.12,0,0,2,m,1550,1550,1550
+87,Arabica,Green,Semi-washed / Semi-pulped,Indonesia,lintong,,2012,7.75,7.83,7.67,8,8.08,7.83,10,10,10,8,85.17,0.11,0,0,3,m,1250,1400,1325
+88,Arabica,,Washed / Wet,Guatemala,huehuetenango,Coop. Hoja Blanca - Fedecocagua,2012,8.25,8,7.67,7.92,7.75,7.67,10,10,10,7.92,85.17,0,0,0,7,m,1400,1400,1400
+89,Arabica,Green,Natural / Dry,Ethiopia,"kefa zone, gimbo distict, at a place called woka araba, south west ethiopia.",SEID DAMTEW COFFEE PLANATION,2016,7.75,8,7.58,8,8,7.92,10,10,10,7.83,85.08,0.11,0,1,8,m,NA,NA,NA
+90,Arabica,,Natural / Dry,Colombia,pasto,JOSE ALBEIRO GOMEZ / LUIS JABER REALPE,2015,8.17,7.83,7.58,8.08,8,7.75,10,10,10,7.67,85.08,0,0,0,0,m,2560,2560,2560
+91,Arabica,Green,Natural / Dry,Ethiopia,aricha,BNT,2014,8.42,8,7.42,8,7.92,7.92,9.33,10,10,8.08,85.08,0.1,2,0,7,m,1700,1700,1700
+92,Arabica,Bluish-Green,Natural / Dry,United States (Hawaii),kona,,2014,7.58,7.83,7.83,7.92,7.83,8.17,10,10,10,7.92,85.08,0.11,2,0,2,ft,NA,NA,NA
+93,Arabica,Green,Natural / Dry,Colombia,cundinamarca,ORLANDO ORTIZ /WILSON ORTIZ/GILBERTO ACOSTA,2012,7.83,8,7.75,7.75,7.83,7.83,10,10,10,8.08,85.08,0.11,0,0,8,m,2136,2136,2136
+94,Arabica,,,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,2010,8.08,8.17,7.92,8,8.08,8,9.33,9.33,10,8.17,85.08,0.01,1,0,7,ft,NA,NA,NA
+95,Arabica,,,Ethiopia,sidamo,Exporter Name | Muluneh Kaka | Phone: 0114390290,2010,7.67,8,7.83,8,7.92,7.83,10,10,10,7.83,85.08,0,0,0,5,m,NA,NA,NA
+96,Arabica,,,United States (Hawaii),kona,,,7.5,7.92,8.25,7.83,7.92,7.75,10,10,10,7.92,85.08,0,0,0,0,ft,NA,NA,NA
+97,Arabica,Green,Washed / Wet,Uganda,eastern uganda,Kyagalanyi Coffee Ltd,2016,8.17,7.92,7.75,7.75,7.67,7.75,10,10,10,8,85,0.11,0,0,1,m,1800,1800,1800
+98,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2016,8,7.92,7.75,7.92,7.75,7.83,10,10,10,7.83,85,0,0,0,3,m,NA,NA,NA
+99,Arabica,Green,Washed / Wet,Costa Rica,tarrazu,Manuel Montero,2016,7.83,8,7.58,7.92,7.92,7.83,10,10,10,7.92,85,0.12,1,1,1,m,1900,1900,1900
+100,Arabica,Green,Washed / Wet,Mexico,veracruz,Varios productores minifundistas,2015,7.83,8,7.83,7.75,7.67,7.83,10,10,10,8.08,85,0.09,0,0,3,m,1300,1300,1300
+101,Arabica,Green,Washed / Wet,Kenya,,,2015,8.17,7.83,7.92,7.75,7.67,7.83,10,10,10,7.83,85,0.11,0,5,7,m,1,1,1
+102,Arabica,Green,Washed / Wet,Kenya,central kenya,,2012,7.75,7.83,7.75,8.08,8,7.75,10,10,10,7.83,85,0,0,0,5,m,1580,1580,1580
+103,Arabica,Green,Natural / Dry,Brazil,grama valley,Idalina M. De Andrade Ferreira,2012,8,8,7.83,7.83,7.67,7.67,10,10,10,8,85,0.12,0,0,3,m,1100,1100,1100
+104,Arabica,,,Mexico,mexico,Finca Kassandra,2010,7.92,8.17,7.75,8.08,7.42,7.83,10,10,10,7.83,85,0,0,0,0,m,1400,1400,1400
+105,Arabica,,,United States (Hawaii),kona,,,7.75,7.92,7.75,7.75,8,8,10,10,10,7.83,85,0,0,0,1,ft,NA,NA,NA
+106,Arabica,,,Guatemala,"chuva, san marcos",Federico Weller,2009,7.83,8.08,7.67,8,7.75,7.67,10,10,10,8,85,0.04,0,0,1,ft,1066.8,1584.96,1325.88
+107,Arabica,,Washed / Wet,Colombia,huila,La Plata,2016,7.92,7.92,7.67,7.83,7.92,7.83,10,10,10,7.83,84.92,0,1,6,2,m,NA,NA,NA
+108,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2015,7.92,7.83,7.75,7.83,7.75,8,10,10,10,7.83,84.92,0.12,0,0,1,m,1600,1950,1775
+109,Arabica,Green,Semi-washed / Semi-pulped,Taiwan,natou county,SU CHUEN SHIAN 蘇春賢,2015,7.67,7.83,8,7.58,8,7.92,10,10,10,7.92,84.92,0.11,0,0,0,m,800,800,800
+110,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",mbeya,Hasambo AMCOS,2014,8,7.83,7.83,7.92,7.75,7.75,10,10,10,7.83,84.92,0.12,0,0,2,m,1620,1620,1620
+111,Arabica,Green,Washed / Wet,Colombia,huila,LA PLATA,2012,7.75,7.92,7.83,7.75,7.75,8,10,10,10,7.92,84.92,0.11,0,0,3,m,1600,1950,1775
+112,Arabica,,Semi-washed / Semi-pulped,Mexico,coatepec,ARTEMIO ZAPATA TEJEDA,2012,7.75,8,7.75,7.83,7.5,7.92,10,10,10,8.17,84.92,0.11,0,0,0,m,1200,1200,1200
+113,Arabica,Green,Natural / Dry,Brazil,south of minas,Glaucio Carneiro Pinto,2011,8,7.92,7.75,7.75,8,7.75,10,10,10,7.75,84.92,0.11,0,0,2,m,1200,1200,1200
+114,Arabica,Green,Natural / Dry,Brazil,south of minas,Ricardo Luiz Ferreira,2011,8,8,7.75,8,7.5,7.75,10,10,10,7.92,84.92,0.12,0,0,2,m,1000,1000,1000
+115,Arabica,,,Kenya,,,2009,8,7.67,7.83,8.17,7.92,7.75,10,10,10,7.58,84.92,0.06,1,0,9,m,NA,NA,NA
+116,Arabica,Green,Natural / Dry,Taiwan,"dongshan dist., tainan city 臺南市東山區",Wang Chao Yung 王超永,2016,7.92,7.58,7.83,7.83,7.83,7.83,10,10,10,8,84.83,0,0,0,0,m,350,350,350
+117,Arabica,Green,Natural / Dry,Uganda,eastern,Sipi organic coffee project,2013,7.75,7.92,7.67,7.67,8.25,7.75,10,10,10,7.83,84.83,0.12,0,0,1,m,1400,1900,1650
+118,Arabica,,Natural / Dry,United States (Hawaii),kona,,2012,7.67,7.75,7.75,7.75,7.83,8,10,10,10,8.08,84.83,0,3,0,15,ft,NA,NA,NA
+119,Arabica,,,Ethiopia,sidamo,Sidama Coffee Farmers Coop. Union,2009,7.75,7.92,7.83,7.92,7.75,7.67,10,10,10,8,84.83,0.1,0,0,2,m,1500,2000,1750
+120,Arabica,,,Ethiopia,sidamo,Sidama Coffee Farmers Coop. Union,2009,7.42,7.92,7.92,8,7.83,7.83,10,10,10,7.92,84.83,0.1,0,0,4,m,1500,2000,1750
+121,Arabica,Green,Pulped natural / honey,Thailand,thailand,Matsuzawa Coffee,2015,7.75,7.75,7.75,7.75,8,7.75,10,10,10,8,84.75,0.12,0,0,0,m,NA,NA,NA
+122,Arabica,Green,Washed / Wet,Kenya,nyeri,KARATINA,2014,7.92,7.83,7.58,7.92,7.75,7.83,10,10,10,7.92,84.75,0.13,0,0,0,m,1800,1800,1800
+123,Arabica,Green,Washed / Wet,Honduras,marcala,Omar Acosta,2014,7.83,7.75,8,7.67,7.67,7.67,10,10,10,8.17,84.75,0.11,0,0,4,m,1450,1450,1450
+124,Arabica,,,El Salvador,santa ana,Several producers,2010,7.75,8,8,8.33,7.67,7.92,10,10,9.33,7.75,84.75,0.15,0,0,3,m,1200,1200,1200
+125,Arabica,,,Nicaragua,jinotega,Juan Alvaro Munguia,2009,7.83,7.58,7.58,7.83,7.75,7.67,10,10,10,8.5,84.75,0.18,0,0,2,m,800,1050,925
+126,Arabica,Blue-Green,Washed / Wet,El Salvador,apaneca,J.J. Borja Nathan,2016,7.83,7.83,7.5,8,7.83,7.67,10,10,10,8,84.67,0,0,0,2,m,1350,1350,1350
+127,Arabica,Green,Washed / Wet,Indonesia,"temanggung, indonesia",PT. Shriya Artha Nusantara,2016,7.92,7.83,7.75,7.75,7.75,7.75,10,10,10,7.92,84.67,0.12,0,0,7,m,1200,1200,1200
+128,Arabica,Green,Pulped natural / honey,Japan,ada okinawa japan,Taijiro TOKUDA,,7.75,7.75,7.75,7.42,8.08,7.83,10,10,10,8.08,84.67,0.12,0,0,0,m,170,170,170
+129,Arabica,Blue-Green,Washed / Wet,Costa Rica,tarrazu,Johanna,2015,8.08,7.75,7.67,7.83,7.5,7.92,10,10,10,7.92,84.67,0.1,0,0,2,m,1150,1150,1150
+130,Arabica,Green,Washed / Wet,Guatemala,acatenango,JUAN BOCK,2015,7.75,7.83,7.58,8,7.92,7.75,10,10,10,7.83,84.67,0.1,0,0,1,m,1600,1600,1600
+131,Arabica,Green,Washed / Wet,Costa Rica,tarrazu,Coopetarrazú,2014,8.17,8,7.83,7.17,7.83,7.75,10,10,10,7.92,84.67,0.12,0,0,0,m,1750,1750,1750
+132,Arabica,,Washed / Wet,Ethiopia,yirgacheffe,Moplaco,2014,8.08,7.83,7.75,7.83,7.58,7.67,10,10,10,7.92,84.67,0.1,0,0,3,m,1900,1900,1900
+133,Arabica,Green,Other,Costa Rica,costa rica,Maria Elena Castro,2014,7.67,7.58,7.75,7.75,7.67,8.58,10,10,10,7.67,84.67,0.08,0,0,1,m,1750,1750,1750
+134,Arabica,Green,Washed / Wet,Costa Rica,west valley,CORICAFE BLEND,2014,8,7.58,7.83,7.75,7.75,7.75,10,10,10,8,84.67,0.11,0,0,4,m,1200,1200,1200
+135,Arabica,Green,Washed / Wet,Costa Rica,,,2012,8.08,7.83,7.75,7.83,7.92,8,10,10,9.33,7.92,84.67,0,1,0,10,m,NA,NA,NA
+136,Arabica,Green,Washed / Wet,Taiwan,taichung xinshe 台中市新社區,Gu yong long 古永龍,2013,8,7.92,7.75,7.75,7.75,7.75,10,10,10,7.75,84.67,0.11,0,0,0,m,1000,1000,1000
+137,Arabica,Green,Washed / Wet,Colombia,santander,,2013,7.75,7.83,7.75,7.83,7.75,7.83,10,10,10,7.92,84.67,0,0,0,0,m,1550,1550,1550
+138,Arabica,Bluish-Green,Washed / Wet,Kenya,nyeri,Sasini,2012,7.75,7.92,7.83,8,7.58,7.75,10,10,10,7.83,84.67,0.11,0,0,0,m,2000,2000,2000
+139,Arabica,Green,Washed / Wet,Guatemala,oriente,AGROPECUARIA QUIAGRAL,2012,8,7.83,7.67,7.83,7.67,8,10,10,10,7.67,84.67,0.11,0,0,4,ft,1310.64,1310.64,1310.64
+140,Arabica,Green,Washed / Wet,Guatemala,acatenango,SERTRASA,2012,7.67,7.83,7.67,8,7.67,7.83,10,10,10,8,84.67,0.12,0,0,4,ft,1524,1524,1524
+141,Arabica,,Washed / Wet,Mexico,el remudadero,"JORGE TORRES BELTRAN, VICENTE HERNANDEZ OCHOA, IGNACIO TORRES",2012,7.83,7.58,7.67,7.92,7.92,7.83,10,10,10,7.92,84.67,0.13,0,0,3,m,1200,1200,1200
+142,Arabica,Blue-Green,Washed / Wet,Uganda,mbale,,2012,7.92,7.83,7.75,7.92,7.67,7.75,10,10,10,7.83,84.67,0.11,0,0,3,m,1700,1850,1775
+143,Arabica,,,Peru,"penachi, cecanor",CECANOR,,7.67,7.83,7.75,7.75,7.92,7.83,10,10,10,7.92,84.67,0,0,0,3,m,NA,NA,NA
+144,Arabica,,,Ethiopia,sidamo,Sidama Coffee Farmers Coop. Union,2009,7.42,7.75,7.75,8,8,7.92,10,10,10,7.83,84.67,0.2,0,0,3,m,1500,2000,1750
+145,Arabica,Blue-Green,Washed / Wet,Kenya,nyeri,JUNGLE ESTATE,,7.92,7.75,7.83,7.75,7.58,7.92,10,10,10,7.83,84.58,0.11,0,0,5,m,1754,1754,1754
+146,Arabica,Blue-Green,Washed / Wet,Colombia,santander,,2016,7.83,7.67,7.58,7.92,7.67,7.83,10,10,10,8.08,84.58,0,0,0,4,m,1500,1500,1500
+147,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2016,7.92,7.83,7.58,8,7.83,7.67,10,10,10,7.75,84.58,0,0,1,5,m,NA,NA,NA
+148,Arabica,Bluish-Green,Washed / Wet,Kenya,nyeri,BLEND,2013,7.83,7.83,7.83,7.75,7.58,7.83,10,10,10,7.92,84.58,0.1,0,0,2,m,1800,1800,1800
+149,Arabica,Green,Washed / Wet,Guatemala,jalapa,ROBERTO MONTERROSO,2014,7.75,7.83,7.67,7.92,7.75,7.83,10,10,10,7.83,84.58,0.11,0,0,1,ft,1524,1524,1524
+150,Arabica,Green,Washed / Wet,Guatemala,oriente,AMILCAR LAPOLA,2014,8,7.92,7.67,7.58,7.58,7.67,10,10,10,8.17,84.58,0.09,0,0,0,ft,1219.2,1219.2,1219.2
+151,Arabica,,Washed / Wet,Colombia,santander,,2013,7.67,7.67,7.58,7.75,7.58,8.5,10,10,10,7.83,84.58,0,0,0,0,m,1550,1550,1550
+152,Arabica,,Washed / Wet,Colombia,huila,La Plata,2013,7.75,7.75,7.83,7.75,7.58,8,10,10,10,7.92,84.58,0,0,0,5,m,1600,1900,1750
+153,Arabica,Green,Washed / Wet,Kenya,,changeru wet mill,2013,7.75,7.75,7.75,8.08,7.75,7.75,10,10,10,7.75,84.58,0,0,0,0,m,NA,NA,NA
+154,Arabica,Green,Washed / Wet,Colombia,huila,,2012,7.67,7.83,7.83,8,7.58,7.92,10,10,10,7.75,84.58,0,0,0,2,m,1750,1750,1750
+155,Arabica,Bluish-Green,Semi-washed / Semi-pulped,Costa Rica,tres rios,,2012,7.75,7.83,7.75,8,7.83,7.67,10,10,10,7.75,84.58,0.12,0,0,2,m,1450,1700,1575
+156,Arabica,Green,Washed / Wet,Colombia,huila,varios,2012,7.42,7.67,7.75,7.75,8.08,7.83,10,10,10,8.08,84.58,0.11,0,0,6,m,1800,1800,1800
+157,Arabica,Green,Semi-washed / Semi-pulped,Brazil,vale da grama,Homero Texeira de Macedo Junior,2011,8,8,7.75,7.75,7.58,7.75,10,10,10,7.75,84.58,0.12,0,0,2,m,1300,1300,1300
+158,Arabica,Blue-Green,Semi-washed / Semi-pulped,Brazil,mountains of minas gerais,Geraldo Paixão,2011,8.5,8,7.5,7.75,7.5,7.83,10,10,10,7.5,84.58,0.11,0,0,1,m,1100,1100,1100
+159,Arabica,Bluish-Green,Washed / Wet,Costa Rica,valle central,Various,2017,7.92,7.67,7.92,7.75,7.67,7.58,10,10,10,8,84.5,0.1,0,0,2,m,1200,1200,1200
+160,Arabica,Green,Washed / Wet,Uganda,eastern uganda,Kawacom Uganda Ltd,2016,7.92,7.75,7.67,7.75,7.83,7.75,10,10,10,7.83,84.5,0.11,0,0,1,m,1750,1750,1750
+161,Arabica,Green,Washed / Wet,China,yunnan,Menglian Ban’an Coffee Processing Factory,2015,7.75,7.92,7.67,7.83,7.75,7.67,10,10,10,7.92,84.5,0.1,0,0,1,m,1680,1680,1680
+162,Arabica,Green,Washed / Wet,Costa Rica,tarrazu,Coopetarrazú,2014,7.92,7.83,7.83,7.83,7.58,7.58,10,10,10,7.92,84.5,0.11,0,0,0,m,1700,1700,1700
+163,Arabica,Green,Washed / Wet,Colombia,cauca,,2015,8.08,7.67,7.83,7.83,7.67,7.67,10,10,10,7.75,84.5,0.12,1,0,0,m,1800,1800,1800
+164,Arabica,Green,Washed / Wet,China,yunnan,"PUER JIANGCHENG FUWANG COFFEE BIOTECHNOLOGY CO., LTD",2013,7.67,8,7.75,7.83,7.75,7.58,10,10,10,7.92,84.5,0,0,0,2,m,1100,1100,1100
+165,Arabica,Green,Washed / Wet,Guatemala,oriente,LUIS RODRIGUEZ,2013,8.17,7.83,7.67,7.83,7.67,7.83,10,10,10,7.5,84.5,0.11,0,0,2,ft,1310.64,1310.64,1310.64
+166,Arabica,Blue-Green,Washed / Wet,Kenya,nyeri,,2012,7.92,7.83,7.67,8,7.67,7.75,10,10,10,7.67,84.5,0.11,0,0,0,m,2000,2000,2000
+167,Arabica,Green,Washed / Wet,Mexico,hustusco,MARIA IMELDA USCANGA MARTINEZ,2012,8,7.92,7.42,8.08,7.5,7.67,10,10,10,7.92,84.5,0.12,0,0,0,m,1350,1350,1350
+168,Arabica,,Washed / Wet,Mexico,jaltenango,SANTIAGO JOSE ARGUELLO CAMPOS,2012,7.92,7.83,7.75,7.75,7.75,7.83,10,10,10,7.67,84.5,0.11,0,0,4,m,1500,1500,1500
+169,Arabica,Green,Washed / Wet,Guatemala,"el tumbador, san marcos","AGRICOLA NUEVA GRANADA, S.A",2012,7.67,8,7.67,8,7.5,7.83,10,10,10,7.83,84.5,0.11,0,0,2,m,NA,NA,NA
+172,Arabica,Blue-Green,Washed / Wet,Costa Rica,tarrazu,Beneficio San Diego,2016,7.58,7.83,7.83,8,7.67,7.58,10,10,10,7.92,84.42,0.1,0,0,3,m,1300,1300,1300
+173,Arabica,Blue-Green,Other,Indonesia,sumatra brastagi,Surbakti,2017,7.67,7.67,7.83,7.58,7.83,7.83,10,10,10,8,84.42,0,0,0,3,m,1400,1400,1400
+174,Arabica,Green,Natural / Dry,Colombia,pitalito,FRANKLIN DUSSAN,2015,7.92,7.83,7.75,7.67,7.92,7.67,10,10,10,7.67,84.42,0,0,0,1,m,NA,NA,NA
+175,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2014,7.92,7.75,7.67,7.92,7.67,7.75,10,10,10,7.75,84.42,0,0,0,3,m,1600,1950,1775
+176,Arabica,Blue-Green,Washed / Wet,Taiwan,"mountain ali, taiwan",Kao Ming Lee,2012,7.83,7.83,7.75,8,7.5,7.75,10,10,10,7.75,84.42,0.11,0,0,0,m,1200,1200,1200
+177,Arabica,Blue-Green,Natural / Dry,United States (Hawaii),kona,,2012,7.92,7.92,7.5,7.83,7.5,7.92,10,10,10,7.83,84.42,0.11,0,0,1,ft,NA,NA,NA
+178,Arabica,,Washed / Wet,Mexico,tapachula,MARIA AMALIA GUADALUPE TORIELLO ELORZA,2012,7.75,7.92,7.75,7.67,7.83,7.67,10,10,10,7.83,84.42,0.12,2,0,4,m,900,900,900
+179,Arabica,,,Ethiopia,limu,"Contact name | Egziabhez Mezgebe, GMT Industrial Plc",2009,7.5,7.75,7.83,7.92,7.92,7.75,10,10,10,7.75,84.42,0.2,0,0,2,m,NA,NA,NA
+180,Arabica,Green,Washed / Wet,Kenya,nyeri,mutheka,2017,7.33,7.58,7.83,7.75,7.75,7.92,10,10,10,8.17,84.33,0.11,0,0,4,m,1800,1800,1800
+181,Arabica,Green,,Honduras,comayagua,Nahun Maldonado,2016,7.92,8,7.75,7.67,7.67,7.75,10,10,10,7.58,84.33,0.1,0,0,3,m,1500,1500,1500
+182,Arabica,Green,Washed / Wet,Colombia,huila,,2016,7.58,7.75,7.5,7.83,7.67,8.5,10,10,10,7.5,84.33,0,0,3,5,m,NA,NA,NA
+183,Arabica,Green,Washed / Wet,Honduras,central region,Reinerio Zepeda,2016,7.58,7.92,7.58,7.75,7.92,7.75,10,10,10,7.83,84.33,0.11,0,1,2,m,1500,1500,1500
+184,Arabica,,,Colombia,la plata,,2016,7.67,7.67,7.75,7.83,7.75,7.83,10,10,10,7.83,84.33,0,0,2,4,m,NA,NA,NA
+185,Arabica,Green,Natural / Dry,Colombia,huila,FRANKLIN DUSSAN / ANDRES RODRIGUEZ/HIPOLITO TORRES,2015,7.75,7.67,8,7.67,8.08,7.83,10,10,10,7.33,84.33,0.11,6,0,0,m,442,442,442
+186,Arabica,Green,Washed / Wet,Colombia,huila,,2013,7.75,7.58,7.33,7.83,7.58,8.08,10,10,10,8.17,84.33,0,0,0,0,m,1800,1800,1800
+187,Arabica,Blue-Green,Washed / Wet,Mexico,tuxtla gutierrez,VICTOR HUGO MELCHOR CORDOVA,2012,8,7.75,7.75,7.83,7.5,7.67,10,10,10,7.83,84.33,0.12,0,0,1,m,1700,1700,1700
+188,Arabica,,,Brazil,vale da grama,Lucia Maria da Silva Dias,2011,8.17,8,7.5,7.75,7.5,7.67,10,10,10,7.75,84.33,0,0,0,4,m,1200,1350,1275
+189,Arabica,,,Brazil,south of minas,Antônio Pelucio,2011,8,8,7.5,7.5,7.67,7.75,10,10,10,7.92,84.33,0.02,0,0,2,m,900,1200,1050
+190,Arabica,,,Ethiopia,limu,Oromia Coffee Farmers Cooperative Union,,7.75,7.75,7.92,7.75,7.5,7.92,10,10,10,7.75,84.33,0,0,0,1,ft,1097.28,1889.76,1493.52
+191,Arabica,,,Guatemala,nuevo oriente,Miguel Hernandez,2009,7.5,7.67,7.75,7.67,7.92,7.92,10,10,10,7.92,84.33,0.04,1,0,1,ft,1341.12,1432.56,1386.84
+192,Arabica,Blue-Green,Washed / Wet,Taiwan,國姓鄉 guoshing township,黃美桃 Huang Mei Tao,2016,7.92,7.75,7.75,7.67,7.67,7.83,10,10,10,7.67,84.25,0.12,0,0,0,m,1000,1000,1000
+193,Arabica,Green,Natural / Dry,Thailand,chiang rai thailand,Matsuzawa Coffee,2015,7.83,7.75,7.75,7.42,7.83,7.67,10,10,10,8,84.25,0.12,0,0,0,m,1200,1200,1200
+194,Arabica,Green,Natural / Dry,Colombia,nariño,JOSE ALBEIRO GOMEZ,2016,7.83,7.58,7.75,7.58,7.67,8,10,10,10,7.83,84.25,0.11,0,0,2,m,2560,2560,2560
+195,Arabica,Green,Washed / Wet,Guatemala,antigua,FINCA MEDINA,2016,7.75,7.75,7.58,7.92,7.75,7.75,10,10,10,7.75,84.25,0.11,0,4,4,m,1500,1500,1500
+196,Arabica,Green,Washed / Wet,Guatemala,huehuetenango,HORACIO CIFUENTES MARTINEZ,2015,7.75,7.92,7.5,8.08,7.58,7.67,10,10,10,7.75,84.25,0.1,0,0,1,ft,1099.4136,1099.4136,1099.4136
+197,Arabica,Green,Natural / Dry,China,yunnan,Menglian County Nayun Town Mangzhang Coffee Farm,2015,7.83,7.83,7.58,7.75,7.75,7.75,10,10,10,7.75,84.25,0.1,0,0,1,m,1400,1400,1400
+198,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2015,7.67,7.67,7.75,7.75,7.67,7.92,10,10,10,7.83,84.25,0.11,0,0,3,m,1600,1950,1775
+199,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2015,7.83,7.67,7.75,7.58,7.92,7.75,10,10,10,7.75,84.25,0.12,4,0,2,m,1600,1950,1775
+200,Arabica,Green,Washed / Wet,Colombia,cauca,,2015,7.83,7.75,7.83,7.58,7.67,7.75,10,10,10,7.83,84.25,0.12,0,0,0,m,1800,1800,1800
+201,Arabica,Green,Natural / Dry,Colombia,huila,FRANKLIN DUSSAN/ANDRES RODRIGUEZ/HIPOLITO TORRES,2015,7.42,7.67,7.83,7.75,7.92,7.83,10,10,10,7.83,84.25,0.12,3,0,0,m,442,442,442
+202,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",shizingo village,Tembo Coffee Company Ltd,2014,7.83,7.67,7.75,7.83,7.67,7.67,10,10,10,7.83,84.25,0.12,0,0,7,m,1620,1620,1620
+203,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",mbeya,Taylor Winch (T) ltd,2014,7.83,7.75,7.75,7.75,7.67,7.75,10,10,10,7.75,84.25,0.12,0,0,2,m,1600,1600,1600
+204,Arabica,Green,Other,Guatemala,oriente,AMILCAR LAPOLA,2014,7.83,7.83,7.5,7.92,7.58,7.75,10,10,10,7.83,84.25,0.1,0,0,1,ft,1219.2,1219.2,1219.2
+205,Arabica,Green,Washed / Wet,Colombia,cauca,,2013,7.58,7.5,7.75,7.83,7.92,7.83,10,10,10,7.83,84.25,0.11,0,0,2,m,1700,1700,1700
+206,Arabica,Bluish-Green,Natural / Dry,United States (Hawaii),kona,,2012,7.33,7.92,7.92,7.92,7.92,8.08,10,10,9.33,7.83,84.25,0.11,1,0,1,ft,NA,NA,NA
+207,Arabica,Green,Semi-washed / Semi-pulped,Mexico,san pedro cotzilnam,JESUS SALAZAR VELASCO,2012,7.83,7.92,7.67,7.83,7.5,7.75,10,10,10,7.75,84.25,0.12,0,0,1,m,1450,1450,1450
+208,Arabica,Green,Washed / Wet,Mexico,veracruz,MANUEL HERRERA JUAREZ,2012,7.83,7.83,7.75,7.67,7.83,7.58,10,10,10,7.75,84.25,0.12,0,0,0,m,1170,1170,1170
+209,Arabica,Bluish-Green,Washed / Wet,Mexico,"la concordia, chiapas",ERNST POHLENZ AGUILAR,2012,7.83,7.92,7.67,7.75,7.5,7.75,10,10,10,7.83,84.25,0.1,0,0,4,m,1400,1400,1400
+210,Arabica,Green,Natural / Dry,Uganda,kasese,,2012,8.17,7.75,7.58,7.67,7.83,7.58,10,10,10,7.67,84.25,0.13,4,0,29,m,1700,1700,1700
+211,Arabica,Green,Washed / Wet,Guatemala,san marcos,JORGE LEAL,2017,7.75,7.83,7.58,7.83,7.67,7.75,10,10,10,7.75,84.17,0.13,0,0,1,m,1700,1700,1700
+212,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2016,7.83,7.75,7.58,7.67,7.75,7.83,10,10,10,7.75,84.17,0,0,0,2,m,NA,NA,NA
+213,Arabica,Bluish-Green,Washed / Wet,Costa Rica,tarrazu,Los Angeles Micro-Mill (Ricardo Calderón),2016,7.92,7.75,7.67,7.67,7.5,7.67,10,10,10,8,84.17,0.09,0,0,2,m,1700,1700,1700
+214,Arabica,Green,Washed / Wet,Guatemala,huehuetenango,DARY COLMAN ALVARADO VILLATORO,2016,7.75,7.75,7.58,8,7.67,7.83,10,10,10,7.58,84.17,0.11,0,0,6,ft,1116.7872,1116.7872,1116.7872
+215,Arabica,Green,Washed / Wet,Guatemala,solola,FERNANDO FAHSEN,2016,7.75,7.92,7.58,7.92,7.67,7.67,10,10,10,7.67,84.17,0.1,0,1,10,m,1565,1565,1565
+216,Arabica,Green,Washed / Wet,Guatemala,norte,CHAPULTEPEC,2016,7.58,7.83,7.58,7.83,7.83,7.67,10,10,10,7.83,84.17,0.1,0,0,2,m,3280,3280,3280
+217,Arabica,Bluish-Green,Washed / Wet,Colombia,huila,La Plata,2015,8,7.5,7.5,7.67,8,7.83,10,10,10,7.67,84.17,0,0,0,0,m,1600,1950,1775
+218,Arabica,Bluish-Green,Natural / Dry,Nicaragua,jinotega,COOPERATIVA EL GORRION RL,2015,7.67,7.83,7.83,7.5,7.67,7.83,10,10,10,7.83,84.17,0.12,0,0,0,m,900,1100,1000
+219,Arabica,,Natural / Dry,Brazil,cerrado,MAURO GALHERI,2015,7.67,7.75,7.75,7.67,7.83,7.75,10,10,10,7.75,84.17,0,0,0,16,m,1150,1150,1150
+220,Arabica,Blue-Green,Washed / Wet,Costa Rica,tarrazu,Martin Gutierrez,2014,7.67,7.75,7.67,7.75,7.5,8,10,10,10,7.83,84.17,0,0,0,0,m,1850,1850,1850
+221,Arabica,Green,Natural / Dry,Ethiopia,snnprg; kafa; telo woreda; shada kebele,Tariku Oljira,2014,7.5,7.92,7.58,7.83,7.75,7.83,10,10,10,7.75,84.17,0.1,0,0,5,m,1545,1668,1606.5
+222,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",arusha,Selian Coffee Estate,2014,7.92,7.75,7.75,7.75,7.75,7.58,10,10,10,7.67,84.17,0.13,0,0,0,m,1400,1400,1400
+223,Arabica,Green,Washed / Wet,Colombia,huila,,2014,7.67,7.5,7.67,7.42,7.83,8.58,10,10,10,7.5,84.17,0.12,0,0,4,m,1530,1530,1530
+224,Arabica,Bluish-Green,Washed / Wet,Guatemala,,,2013,7.67,7.75,7.67,7.75,7.75,7.75,10,10,10,7.83,84.17,0.11,0,0,0,m,NA,NA,NA
+225,Arabica,Green,Washed / Wet,Kenya,kenya,,2013,7.58,7.75,7.75,7.75,7.75,7.83,10,10,10,7.75,84.17,0.08,0,0,0,m,1,500,250.5
+226,Arabica,Green,Natural / Dry,Brazil,"minas gerais, br",Café do Paraíso,2012,7.58,7.83,7.75,7.67,7.67,8,10,10,10,7.67,84.17,0.11,0,0,3,m,894,1183,1038.5
+227,Arabica,Green,Washed / Wet,Guatemala,oriente,"AGRICOLA MONTE VERDE, S.A.",2013,7.92,7.75,7.67,7.67,7.83,7.92,10,10,10,7.42,84.17,0.11,0,0,4,ft,1310.64,1310.64,1310.64
+228,Arabica,Bluish-Green,Natural / Dry,El Salvador,apaneca,Aida Batlle,2013,8.42,8.08,7.5,7.17,7.58,8.17,9.33,10,10,7.92,84.17,0.11,0,0,2,m,1500,1500,1500
+229,Arabica,Green,Washed / Wet,Colombia,huila,,2012,7.75,7.75,7.75,7.75,7.83,7.75,10,10,10,7.58,84.17,0,0,0,2,m,1750,1750,1750
+230,Arabica,Bluish-Green,Natural / Dry,Guatemala,guatemala,WILLIAM ESTUARDO MARTINEZ PACHECO,2012,7.83,7.5,7.5,8,7.83,7.83,10,10,10,7.67,84.17,0.11,0,0,2,m,NA,NA,NA
+231,Arabica,Green,Washed / Wet,Uganda,mt. rwenzori,,2012,7.83,7.75,7.5,7.83,7.83,7.75,10,10,10,7.67,84.17,0.11,0,0,1,m,1500,1700,1600
+232,Arabica,Bluish-Green,Natural / Dry,Indonesia,aceh tengah,ANTON GAYO,2017,7.81,7.88,7.56,7.75,7.63,7.75,10,10,10,7.75,84.13,0.12,0,0,0,m,NA,NA,NA
+233,Arabica,Green,Washed / Wet,Colombia,huila,FRANKLIN DUSSAN / HIPOLITO TORRES,2017,7.83,7.5,7.42,7.5,7.83,8.5,10,10,10,7.5,84.08,0,1,3,3,m,442,442,442
+234,Arabica,Bluish-Green,Washed / Wet,Taiwan,"nanxi dist., tainan city 臺南市楠西區",CHANG YU LIANG 張玉良,2016,7.58,7.67,7.67,7.67,7.75,7.83,10,10,10,7.92,84.08,0.1,0,0,4,m,968,968,968
+235,Arabica,Green,Washed / Wet,Guatemala,oriente,MARGARITA AVILA DE NUYENS,2016,8,7.75,7.5,7.58,7.92,7.67,10,10,10,7.67,84.08,0.1,0,0,4,m,NA,NA,NA
+236,Arabica,,Washed / Wet,Colombia,huila,La Plata,2014,7.92,7.75,7.67,7.75,7.67,7.67,10,10,10,7.67,84.08,0,0,0,2,m,1600,1950,1775
+237,Arabica,Bluish-Green,Washed / Wet,Guatemala,"aldea xeucalvitz, ixil region, quiche department",Asociacion de Productores de Cafe de la Region Ixil,2014,7.58,7.75,7.67,8,7.75,7.67,10,10,10,7.67,84.08,0.1,0,0,10,m,1550,1550,1550
+238,Arabica,Green,Natural / Dry,United States (Hawaii),kona,,2012,7.83,7.75,7.83,7.83,7.42,8.08,9.33,10,10,8,84.08,0.11,1,0,9,ft,NA,NA,NA
+239,Arabica,Green,Washed / Wet,Mexico,santo domingo cacalotepec,ANDRES MARTINEZ LEON,2012,7.67,7.75,7.67,7.75,7.67,7.75,10,10,10,7.83,84.08,0.11,1,0,10,m,1480,1480,1480
+240,Arabica,,Natural / Dry,Ethiopia,"ethiopia, sidamo",,2012,7.92,7.92,7.83,8,7.92,7.92,10,10,8.67,7.92,84.08,0.09,0,0,15,m,1800,1800,1800
+241,Arabica,None,Washed / Wet,Costa Rica,,,2017,7.58,7.75,7.67,7.75,7.83,7.75,10,10,10,7.67,84,0.08,1,2,13,m,NA,NA,NA
+242,Arabica,Green,Natural / Dry,Ethiopia,sidamo,Kerchanshe Trading P.L.C,2017,7.83,7.75,7.67,7.75,7.33,7.75,10,10,10,7.92,84,0.11,3,11,1,m,1800,1800,1800
+243,Arabica,Green,Washed / Wet,Honduras,comayagua,Nahun Maldonado,2017,7.42,7.83,7.75,7.92,7.75,7.58,10,10,10,7.75,84,0.1,0,0,5,m,1500,1500,1500
+244,Arabica,Green,Washed / Wet,Guatemala,huehuetenango,OTONIEL VILLATORO LOPEZ,2015,7.67,7.83,7.58,7.92,7.75,7.67,10,10,10,7.58,84,0.12,0,0,7,ft,1658.112,1755.648,1706.88
+245,Arabica,Green,Washed / Wet,Colombia,huila,,2014,7.67,7.67,7.83,7.58,7.58,7.83,10,10,10,7.83,84,0.11,2,0,7,m,1600,1600,1600
+246,Arabica,Green,Natural / Dry,Guatemala,oriente,AMILCAR LAPOLA,2014,7.92,7.67,7.42,7.92,7.75,7.83,10,10,10,7.5,84,0.1,0,0,1,ft,1219.2,1219.2,1219.2
+247,Arabica,Green,Other,Guatemala,oriente,AMILCAR LAPOLA,2014,7.75,7.83,7.5,7.83,7.58,7.67,10,10,10,7.83,84,0.1,0,0,0,ft,1219.2,1219.2,1219.2
+248,Arabica,Green,Washed / Wet,Colombia,huila,,2014,7.67,7.75,7.67,7.67,7.67,7.75,10,10,10,7.83,84,0.12,0,0,0,m,1480,1480,1480
+249,Arabica,Green,Natural / Dry,Colombia,santander,,2014,7.58,7.42,7.75,7.92,7.75,7.92,10,10,10,7.67,84,0.12,0,0,0,m,1450,1450,1450
+250,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2014,7.67,7.67,7.5,7.5,7.67,7.67,10,10,10,8.33,84,0.12,0,0,3,m,1600,1950,1775
+251,Arabica,Green,Natural / Dry,Ethiopia,sidamo,,2013,7.75,7.75,7.5,7.58,7.67,7.92,10,10,10,7.83,84,0.09,4,0,40,m,1550,1550,1550
+252,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Coffees,2013,7.58,7.83,7.67,7.25,8,7.75,10,10,10,7.92,84,0.1,0,0,0,m,1260,1260,1260
+253,Arabica,Green,Washed / Wet,Colombia,cauca,,2013,7.67,7.83,7.67,7.75,7.67,7.75,10,10,10,7.67,84,0.11,0,0,1,m,1700,1700,1700
+254,Arabica,Green,Washed / Wet,Kenya,blend,Blend of various producers,2012,7.67,7.83,7.5,7.75,7.92,7.67,10,10,10,7.67,84,0,0,0,2,m,1200,1200,1200
+255,Arabica,Green,Washed / Wet,Thailand,thailand,Doi Tung Development Project,2012,7.92,8.17,8.17,8.42,8.08,8.17,8.67,8.67,9.33,8.42,84,0.12,0,0,0,m,NA,NA,NA
+256,Arabica,Bluish-Green,Washed / Wet,Kenya,central kenya,-,2012,7.67,7.75,7.67,7.75,7.83,7.67,10,10,10,7.67,84,0,0,0,0,m,1650,1650,1650
+257,Arabica,Green,Washed / Wet,Uganda,kasese,,2012,7.92,7.75,7.58,7.67,7.67,7.83,10,10,10,7.58,84,0.1,10,0,26,m,1700,1700,1700
+258,Arabica,,,Thailand,,,2011,7.58,7.75,7.58,7.75,7.58,7.75,10,10,10,8,84,0.06,0,0,0,m,NA,NA,NA
+259,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola S.A,2017,7.5,7.75,7.58,7.5,7.58,7.5,10,10,10,8.5,83.92,0,0,0,3,m,890,890,890
+260,Arabica,Green,Washed / Wet,Mexico,veracruz,CAFES TOMARI SA DE CV,2017,7.83,7.83,7.58,7.92,7.42,7.5,10,10,10,7.83,83.92,0.11,0,0,5,m,1300,1300,1300
+261,Arabica,Bluish-Green,Natural / Dry,Thailand,chiangrai,"Phatang, Saveg",2015,7.67,7.75,7.5,7.67,7.67,7.83,10,10,10,7.83,83.92,0.1,0,0,1,m,1350,1350,1350
+262,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola,2016,7.58,7.67,7.67,7.75,7.58,7.83,10,10,10,7.83,83.92,0.11,0,2,7,m,934,934,934
+263,Arabica,Green,Washed / Wet,Taiwan,"leye, alishan township, chiayi county 嘉義阿里山樂野村","FANG,ZHENG-LUN 方政倫",2015,7.83,7.75,7.83,7.75,7.83,7.75,9.33,10,10,7.83,83.92,0.11,0,0,3,m,1200,1200,1200
+264,Arabica,Green,,Colombia,huila,FRANKLIN DUSSAN / HIPOLITO TORRES,2016,7.75,7.67,7.5,7.75,7.83,7.75,10,10,10,7.67,83.92,0.11,1,0,2,m,442,442,442
+265,Arabica,,,Colombia,la plata,,2016,7.75,7.58,7.5,7.83,7.75,7.92,10,10,10,7.58,83.92,0,1,3,5,m,NA,NA,NA
+266,Arabica,Blue-Green,Natural / Dry,Taiwan,台灣,YANG TENG KO楊登嵙,2014,7.75,7.75,7.58,7.75,7.75,7.67,10,10,10,7.67,83.92,0,0,0,0,m,NA,NA,NA
+267,Arabica,,Washed / Wet,Colombia,huila,,2015,7.92,7.67,7.5,7.83,7.58,7.67,10,10,10,7.75,83.92,0,0,0,0,m,NA,NA,NA
+268,Arabica,None,Washed / Wet,Colombia,huila,,2014,7.83,7.75,7.58,7.58,7.75,7.75,10,10,10,7.67,83.92,0,1,0,1,m,NA,NA,NA
+269,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2014,7.75,7.58,7.67,7.83,7.83,7.67,10,10,10,7.58,83.92,0,0,0,1,m,1600,1950,1775
+270,Arabica,Green,Washed / Wet,Taiwan,台中和平區,張瑞宏,2014,8,7.92,7.92,7.92,7.67,7.33,10,10,10,7.17,83.92,0.06,0,0,0,m,950,950,950
+271,Arabica,Green,Natural / Dry,Colombia,santander,,2014,7.67,7.83,7.67,7.75,7.67,7.83,10,10,10,7.5,83.92,0.12,0,0,3,m,1550,1550,1550
+272,Arabica,Blue-Green,Washed / Wet,Mexico,xicotepec de juarez,OSCAR ORTEGA CARBALLO,2012,7.67,7.75,7.58,7.67,7.75,7.83,10,10,10,7.67,83.92,0.12,10,0,32,m,900,900,900
+273,Arabica,,Washed / Wet,Mexico,la concordia,ARTURO LIEVANO MORENO,2012,7.5,7.67,7.58,7.83,7.75,7.75,10,10,10,7.83,83.92,0.11,0,0,2,m,1500,1500,1500
+274,Arabica,Green,Washed / Wet,Mexico,la yerbabuena,coop,2012,7.75,7.92,7.83,7.92,7.75,7.67,9.33,10,10,7.75,83.92,0,0,0,2,m,1400,1400,1400
+275,Arabica,Green,Washed / Wet,Colombia,nariño,Jose Albeiro gomez,2017,7.92,7.58,7.5,7.83,7.58,7.67,10,10,10,7.75,83.83,0,1,0,6,m,2527,2527,2527
+276,Arabica,Green,,Colombia,huila,La Plata,2016,7.83,7.67,7.5,7.75,7.75,7.75,10,10,10,7.58,83.83,0,1,2,0,m,NA,NA,NA
+277,Arabica,Blue-Green,Washed / Wet,Costa Rica,tarrazu,Martin Gutierrez,2015,7.67,7.67,7.75,7.67,7.5,7.75,10,10,10,7.83,83.83,0,0,0,0,m,1850,1850,1850
+278,Arabica,Green,Washed / Wet,Guatemala,antigua,FINCA MEDINA,2016,7.75,7.75,7.5,7.75,7.83,7.58,10,10,10,7.67,83.83,0.11,0,7,6,m,1500,1500,1500
+279,Arabica,,,Taiwan,台灣,鄭虞坪,2016,7.75,7.67,7.5,7.75,7.75,7.67,10,10,10,7.75,83.83,0,0,0,0,m,1200,1200,1200
+280,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agrícola SA,2015,7.25,7.58,7.42,8,7.75,7.83,10,10,10,8,83.83,0,0,0,0,m,1,1,1
+281,Arabica,Green,Washed / Wet,Taiwan,"dongshan dist., tainan city 臺南市東山區",ZENG JIAN NAN 曾建男,2014,7.67,7.75,7.67,7.75,7.42,7.75,10,10,10,7.83,83.83,0,0,0,1,m,480,570,525
+282,Arabica,Green,Natural / Dry,Ethiopia,oromia,Sumeya Yasin,2014,7.75,7.75,7.67,7.67,7.58,7.67,10,10,10,7.75,83.83,0.12,0,0,4,m,1650,1703,1676.5
+283,Arabica,Green,Semi-washed / Semi-pulped,Brazil,south of minas,Ipanema Agrícola SA,2014,7.67,7.67,7.58,7.5,7.83,8.17,10,10,9.33,8.08,83.83,0,0,0,1,m,1200,1200,1200
+284,Arabica,Green,Washed / Wet,Costa Rica,central valley,VARIOS,2013,7.83,7.42,7.5,7.83,7.75,7.83,10,10,10,7.67,83.83,0.1,0,0,3,m,1200,1400,1300
+285,Arabica,Green,Washed / Wet,Guatemala,oriente,AMILCAR LAPOLA,2014,7.58,7.83,7.33,8,7.58,7.75,10,10,10,7.75,83.83,0.1,0,0,1,ft,1219.2,1219.2,1219.2
+286,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Coffees,2013,7.92,7.5,7.33,7.67,8.17,7.5,10,10,10,7.75,83.83,0.1,0,0,0,m,1260,1260,1260
+287,Arabica,Bluish-Green,Natural / Dry,Ecuador,"province of manabi, ecuador",,2013,7.5,7.67,7.58,7.75,7.83,7.83,10,10,10,7.67,83.83,0.09,0,0,0,m,800,800,800
+288,Arabica,Green,Washed / Wet,Colombia,huila,,2013,7.67,7.58,7.58,7.83,7.58,7.67,10,10,10,7.92,83.83,0.11,0,0,1,m,1750,1750,1750
+289,Arabica,Green,Washed / Wet,Guatemala,oriente,ROBERTO MONTERROSO,2013,7.5,7.83,7.5,7.83,7.83,7.67,10,10,10,7.67,83.83,0.11,0,0,3,ft,1310.64,1310.64,1310.64
+290,Arabica,Green,Natural / Dry,Mexico,petatlan,FILEMON MENDOZA CAMPOS,2012,7.67,8,7.67,7.42,7.67,7.5,10,10,10,7.92,83.83,0.1,0,0,2,m,1218,1218,1218
+291,Arabica,,Natural / Dry,Mexico,"la concordia, chiapas",ERNST POHLENZ AGUILAR,2012,7.67,7.58,7.5,7.75,7.75,7.75,10,10,10,7.83,83.83,0.11,0,0,4,m,1300,1300,1300
+292,Arabica,Green,Semi-washed / Semi-pulped,Brazil,carmo de minas,Nazareth Dias Pereira,2011,7.83,7.83,7.58,7.67,7.5,7.58,10,10,10,7.83,83.83,0.12,0,0,3,m,1250,1250,1250
+293,Arabica,,,Thailand,"doi chaang village, chiang rai, thialand",Doi Chaang Community Enterprise Piko,2011,7.75,7.75,7.58,8,7.67,7.58,10,10,10,7.5,83.83,0.02,0,0,2,ft,1499.9208,1499.9208,1499.9208
+294,Arabica,,,Thailand,,,2011,7.5,7.83,7.58,7.58,7.75,7.83,10,10,10,7.75,83.83,0.01,0,0,0,m,NA,NA,NA
+295,Arabica,,,Ethiopia,sidamo,Contact name | ATO Teshome Belamo,2010,7.58,7.83,7.58,8,7.83,7.5,10,10,10,7.5,83.83,0.1,0,0,3,m,NA,NA,NA
+296,Arabica,Green,Washed / Wet,Kenya,nyeri,KAROGOTO,,7.75,7.58,7.5,7.58,7.75,7.75,10,10,10,7.83,83.75,0.11,0,0,2,m,1800,1800,1800
+297,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola S.A,2017,7.67,7.67,7.58,7.75,7.67,7.67,10,10,10,7.75,83.75,0.11,0,0,5,m,890,890,890
+298,Arabica,Green,Washed / Wet,Colombia,huila,FRANKLIN DUSSAN / HIPOLITO TORRES,2017,7.83,7.83,7.58,7.58,7.58,7.58,10,10,10,7.75,83.75,0.11,0,0,1,m,442,442,442
+299,Arabica,Green,Natural / Dry,Taiwan,"台南市東山區 (dongshan dist., tainan city)",曾如楓 & 郭俊宏 (Tseng Ju Feng & Kuo Jun Hong),2016,7.67,7.67,7.58,7.58,7.67,7.83,10,10,10,7.75,83.75,0,0,0,0,m,750,750,750
+300,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2016,7.92,7.75,7.5,7.67,7.75,7.5,10,10,10,7.67,83.75,0,1,0,4,m,NA,NA,NA
+301,Arabica,Green,Washed / Wet,China,yunnan,Pu’er Specialty Coffee Cupping Center,2015,7.83,7.75,7.67,7.5,7.58,7.67,10,10,10,7.75,83.75,0.1,0,1,2,m,1650,1650,1650
+302,Arabica,Green,Natural / Dry,Colombia,huila,FRANKLIN DUSSAN,2015,7.75,7.67,7.5,7.67,7.58,7.83,10,10,10,7.75,83.75,0,0,0,0,m,442,442,442
+303,Arabica,Green,Natural / Dry,Uganda,west nile,Nile Highland Arabica Coffee Farmers,2013,8,7.92,7.58,7.75,7.33,7.5,10,10,10,7.67,83.75,0.12,0,0,0,m,1400,1400,1400
+304,Arabica,Green,Washed / Wet,United States (Puerto Rico),yauco region,Hacienda Alto Grande,2013,7.83,7.83,7.83,7.67,8,8.17,9.33,9.33,10,7.75,83.75,0.12,0,0,1,ft,853.44,853.44,853.44
+305,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2014,7.67,7.67,7.67,7.92,7.5,7.67,10,10,10,7.67,83.75,0,0,0,5,m,1600,1950,1775
+306,Arabica,Green,Washed / Wet,Colombia,huila,,2014,7.67,7.42,7.42,7.42,8,8.33,10,10,10,7.5,83.75,0,0,0,3,m,1500,1600,1550
+307,Arabica,Blue-Green,Washed / Wet,Colombia,huila,,2013,7.58,7.67,7.75,7.67,7.67,7.67,10,10,10,7.75,83.75,0,0,0,1,m,1750,1750,1750
+308,Arabica,Green,Washed / Wet,Colombia,huila,,2013,7.75,7.67,7.75,7.58,7.42,8,10,10,10,7.58,83.75,0.11,0,0,3,m,1750,1750,1750
+309,Arabica,Bluish-Green,Natural / Dry,United States (Hawaii),kona,,2013,7.25,7.42,7.67,7.58,7.83,8.25,10,10,10,7.75,83.75,0,0,0,0,ft,NA,NA,NA
+310,Arabica,None,Natural / Dry,Mexico,"huazalingo, hidalgo","MARTINEZ MAGDALENA, AGAPITA",2012,7.83,7.58,7.58,7.5,7.75,7.67,10,10,10,7.83,83.75,0.13,5,0,5,m,700,700,700
+311,Arabica,Bluish-Green,Washed / Wet,Guatemala,quetzaltenango,Several producres,2012,7.67,7.58,7.58,7.67,7.75,7.75,10,10,10,7.75,83.75,0.11,0,0,1,m,1300,1300,1300
+312,Arabica,,,Colombia,cauca,Carlos Peneche/Jesus Peneche/Flor Chacón,,7.83,7.83,7.58,7.33,7.42,7.67,10,10,10,8.08,83.75,0.1,0,0,1,m,1600,1600,1600
+313,Arabica,,,Colombia,cundinamarca,,2010,7.75,7.67,7.25,7.25,7.58,8.5,10,10,10,7.75,83.75,0.06,0,0,1,m,1600,1600,1600
+314,Arabica,,,United States (Hawaii),kona,,,7.83,7.67,7.75,7.67,7.58,7.5,10,10,10,7.75,83.75,0,0,0,0,ft,NA,NA,NA
+315,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola S.A,2017,7.67,7.83,7.5,7.67,7.67,7.5,10,10,10,7.83,83.67,0.11,0,0,2,m,890,890,890
+316,Arabica,Bluish-Green,Washed / Wet,Kenya,meru county,NCHOROIBORO / KIRIANI FACTORY,2017,8.08,7.67,7.67,7.58,7.25,7.67,10,10,10,7.75,83.67,0.11,0,0,0,m,1700,1700,1700
+317,Arabica,Green,Washed / Wet,Honduras,comayagua,Reinerio Zepeda,2016,7.5,7.5,7.67,7.67,8,8,10,10,10,7.33,83.67,0.1,0,0,2,m,1400,1400,1400
+318,Arabica,Green,Washed / Wet,Nicaragua,jinotega,RONALDO LACAYO CARDENAL,2016,7.67,7.75,7.67,7.67,7.83,7.58,10,10,10,7.5,83.67,0.1,0,0,3,m,1250,1250,1250
+319,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola,2016,7.58,7.75,7.58,7.75,7.58,7.58,10,10,10,7.83,83.67,0.11,0,2,3,m,934,934,934
+320,Arabica,Bluish-Green,Natural / Dry,Taiwan,"leye, alishan township, chiayi county","FANG,ZHENG-LUN 方政倫",2015,7.5,7.67,7.33,7.92,7.83,7.67,10,10,10,7.75,83.67,0.1,0,0,0,m,1200,1200,1200
+321,Arabica,Blue-Green,,Costa Rica,west valley,,,7.33,7.67,7.67,7.5,7.67,7.5,10,10,10,8.33,83.67,0.11,0,0,1,m,1350,1350,1350
+322,Arabica,Bluish-Green,Washed / Wet,Thailand,thailand,Doi Tung Development Project,2014,7.5,7.75,7.58,7.83,7.67,7.58,10,10,10,7.75,83.67,0.12,0,0,0,m,800,800,800
+323,Arabica,,Washed / Wet,Colombia,huila,Agrotello Coop,2014,7.5,7.75,7.5,7.75,7.67,7.67,10,10,10,7.83,83.67,0.11,0,0,4,m,1550,1700,1625
+324,Arabica,Green,Washed / Wet,Guatemala,huehuetenango,FRANCISCO LUIS MARTINEZ LOPEZ,2014,8,7.5,7.33,8,8,8,9.33,10,10,7.5,83.67,0.1,0,0,0,ft,1356.6648,1356.6648,1356.6648
+325,Arabica,Green,Washed / Wet,Colombia,huila supremo,,2013,7.83,7.75,7.67,7.58,7.58,7.67,10,10,10,7.58,83.67,0,0,0,3,m,1750,1750,1750
+326,Arabica,Green,Washed / Wet,Colombia,huila,Huila,2013,7.67,7.67,7.67,7.67,7.33,7.75,10,10,10,7.92,83.67,0,0,0,1,m,1800,2000,1900
+327,Arabica,Green,Washed / Wet,Guatemala,oriente,"AGRICOLA MONTE VERDE, S.A.",2013,7.67,7.67,7.42,7.67,8,7.75,10,10,10,7.5,83.67,0.12,1,0,3,ft,1310.64,1310.64,1310.64
+328,Arabica,Green,Washed / Wet,Guatemala,oriente,LUIS RODRIGUEZ,2013,7.83,7.67,7.33,7.67,7.67,7.83,10,10,10,7.67,83.67,0.11,0,0,2,ft,1310.64,1310.64,1310.64
+329,Arabica,Green,Washed / Wet,Colombia,huila,,2012,7.75,7.75,7.58,7.83,7.17,7.75,10,10,10,7.83,83.67,0.11,0,0,1,m,1750,1750,1750
+330,Arabica,Green,Natural / Dry,Guatemala,oriente,Finca Quequesquez,2012,8.17,8.17,7.83,7.67,8.08,7.75,9.33,9.33,9.33,8,83.67,0.11,0,0,1,m,1450,1450,1450
+331,Arabica,Green,Washed / Wet,Guatemala,oriente,AGROPECUARIA QUIAGRAL,2012,7.67,8.17,7.5,7.42,7.58,7.83,10,10,10,7.5,83.67,0.11,0,0,13,ft,1310.64,1310.64,1310.64
+332,Arabica,Green,Washed / Wet,Mexico,xicotepec de juarez,JUAN LUIS ORTEGA CARBALLO,2012,7.67,7.5,7.5,7.33,7.83,8.25,10,10,10,7.58,83.67,0.12,4,0,11,m,1100,1100,1100
+333,Arabica,Green,Washed / Wet,Indonesia,east java,PT. Perkebunan Nusantara XII,2012,8.17,7.67,7.58,7.58,7.42,7.67,10,10,10,7.58,83.67,0.12,0,0,0,m,1200,1600,1400
+334,Arabica,Green,Washed / Wet,Guatemala,"sacatepequez, guatemala","SIEMBRAS VISION, S.A",2012,7.67,7.5,7.33,8,7.67,7.67,10,10,10,7.83,83.67,0.1,0,0,0,ft,1524,1524,1524
+335,Arabica,,,United States (Hawaii),,,,7.75,8,7.92,8.08,7.75,8,9.33,9.33,9.33,8.17,83.67,0,0,0,0,ft,NA,NA,NA
+336,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola S.A,2017,7.58,7.67,7.58,7.58,7.67,7.58,10,10,10,7.92,83.58,0.11,0,0,5,m,890,890,890
+337,Arabica,Green,Washed / Wet,Guatemala,huehuetenango,JUAN RAMIREZ MORALES,2016,7.75,7.75,7.5,7.83,7.58,7.58,10,10,10,7.58,83.58,0.11,0,1,0,ft,1128.3696,1128.3696,1128.3696
+338,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2016,7.75,7.75,7.58,7.58,7.67,7.58,10,10,10,7.67,83.58,0.11,0,0,4,m,NA,NA,NA
+339,Arabica,Green,Washed / Wet,China,yunnan,Menglian Mang Pan Professional Cooperative,2015,7.67,7.58,7.58,7.58,7.67,7.75,10,10,10,7.75,83.58,0.1,0,1,4,m,1100,1100,1100
+340,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2015,7.67,7.75,7.58,7.67,7.75,7.58,10,10,10,7.58,83.58,0.12,0,0,3,m,1600,1950,1775
+341,Arabica,Green,Washed / Wet,Mexico,"chiapas, jaltenango",Exportadora Café California,2014,7.75,7.75,7.58,7.58,7.5,7.67,10,10,10,7.75,83.58,0.12,1,0,13,m,1200,1200,1200
+342,Arabica,,Washed / Wet,Ethiopia,yirgacheffe,LevelUp,2014,7.75,7.67,7.58,7.67,7.5,7.67,10,10,10,7.75,83.58,0,0,0,7,m,1700,2000,1850
+343,Arabica,Green,Washed / Wet,Uganda,eastern,Bulamburi coffee farmers association,2013,7.67,7.67,7.42,7.75,7.75,7.67,10,10,10,7.67,83.58,0.12,0,0,5,m,1800,1800,1800
+344,Arabica,Green,Natural / Dry,Colombia,cundinamarca,,2014,7.67,7.58,7.67,7.67,7.67,7.67,10,10,10,7.67,83.58,0,0,0,0,m,1600,1600,1600
+345,Arabica,Green,Washed / Wet,Colombia,santander,,2014,7.67,7.58,7.67,7.58,7.67,7.75,10,10,10,7.67,83.58,0.12,0,0,1,m,1550,1550,1550
+346,Arabica,,Washed / Wet,Colombia,santander,,2014,7.75,7.58,7.5,7.58,7.75,7.83,10,10,10,7.58,83.58,0,0,0,0,m,1550,1550,1550
+347,Arabica,Green,Other,Taiwan,taichung xinshe 台中市新社區,Gu zhi min 古智閔,2013,7.75,7.75,7.75,7.75,7.5,7.58,10,10,10,7.5,83.58,0.11,0,0,0,m,1000,1000,1000
+348,Arabica,Green,Washed / Wet,Colombia,huila,LA PLATA,2012,7.67,7.67,7.58,7.67,7.75,7.58,10,10,10,7.67,83.58,0.11,0,0,3,m,1600,1950,1775
+349,Arabica,,Washed / Wet,Mexico,xalapa,JULIAN ALBERTO URRUTIA MOYA,2012,7.83,7.67,7.58,7.58,7.67,7.58,10,10,10,7.67,83.58,0.12,0,0,2,m,1000,1000,1000
+350,Arabica,Green,Natural / Dry,Colombia,cundinamarca,ORLANDO ORTIZ/WILSON SANCHEZ/GILBERTO ACOSTA,2012,7.67,7.58,7.58,7.58,7.67,7.75,10,10,10,7.75,83.58,0.11,0,0,4,m,2136,2136,2136
+351,Arabica,Blue-Green,Semi-washed / Semi-pulped,Brazil,south of minas,Alvaro Resende Aguiar,2012,7.83,7.75,7.5,7.75,7.5,7.58,10,10,10,7.67,83.58,0.12,0,0,2,m,1100,1100,1100
+352,Arabica,Bluish-Green,Washed / Wet,Colombia,cundinamarca,Orlando Moreno / Willson Sanchez,2016,7.75,7.58,7.58,7.75,7.75,7.5,10,10,10,7.58,83.5,0,0,0,5,m,1799,1799,1799
+353,Arabica,Blue-Green,,Taiwan,,黑咖啡道王憲備0912326001        ,2016,7.58,7.58,7.17,7.17,7,7,10,10,10,10,83.5,0.11,0,0,0,m,NA,NA,NA
+354,Arabica,Blue-Green,Washed / Wet,Costa Rica,tarrazu,Martin Gutierrez,2015,7.92,7.42,7.5,7.67,7.5,7.67,10,10,10,7.83,83.5,0,0,0,0,m,1850,1850,1850
+355,Arabica,Green,Natural / Dry,Colombia,pitalito,Mecias Urbano / Yaniver Alvarez,2016,7.75,7.58,7.58,7.5,7.75,7.75,10,10,10,7.58,83.5,0,0,0,0,m,1000,1000,1000
+356,Arabica,Bluish-Green,Washed / Wet,Guatemala,oriente,MARGARITA AVILA DE NUYENS,2016,7.67,7.75,7.5,7.83,7.58,7.58,10,10,10,7.58,83.5,0.1,0,2,5,ft,1219.2,1219.2,1219.2
+357,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2015,7.58,7.58,7.58,7.58,7.75,7.67,10,10,10,7.75,83.5,0.12,0,0,4,m,1600,1950,1775
+358,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",nkure- meru,Mr & Mrs Damari Absalome,2015,7.75,7.67,7.58,7.67,7.67,7.58,10,10,10,7.58,83.5,0.13,0,0,21,m,1400,1400,1400
+359,Arabica,Bluish-Green,Semi-washed / Semi-pulped,Indonesia,bener meriah,Yusrin,2015,7.25,7.67,7.58,7.92,7.83,7.58,10,10,10,7.67,83.5,0.13,0,0,8,m,1500,1500,1500
+360,Arabica,,Natural / Dry,Ethiopia,oromia,Debesa,2014,7.67,7.75,7.5,7.58,7.75,7.67,10,10,10,7.58,83.5,0.1,1,0,18,m,1600,1600,1600
+361,Arabica,,Washed / Wet,Colombia,huila,,2014,7.67,7.42,7.67,7.83,7.58,7.67,10,10,10,7.67,83.5,0,1,0,0,m,NA,NA,NA
+362,Arabica,Green,Washed / Wet,Colombia,huila,,2014,8,7.58,7.25,7.58,7.92,7.58,10,10,10,7.58,83.5,0.11,0,0,0,m,1850,1850,1850
+363,Arabica,Green,Washed / Wet,Guatemala,atitlan,UNEX,2013,7.58,7.75,7.5,7.83,7.42,7.67,10,10,10,7.75,83.5,0.1,0,0,0,m,1400,1400,1400
+364,Arabica,,Washed / Wet,Colombia,cundinamarca,,2014,7.75,7.58,7.33,7.5,7.83,7.83,10,10,10,7.67,83.5,0,2,0,0,m,1650,1650,1650
+365,Arabica,Green,Natural / Dry,Honduras,comayagua,Reynerio Zepeda,2014,7.67,7.5,7.67,7.5,7.67,7.67,10,10,10,7.83,83.5,0.1,0,0,3,m,1350,1350,1350
+366,Arabica,Green,Washed / Wet,Colombia,huila,,2013,7.58,7.75,7.42,7.67,7.75,7.67,10,10,10,7.67,83.5,0,1,0,1,m,1750,1750,1750
+367,Arabica,Green,Washed / Wet,Colombia,huila,,2013,7.58,7.67,7.58,7.75,7.58,7.75,10,10,10,7.58,83.5,0.11,0,NA,2,m,1750,1750,1750
+368,Arabica,Green,Natural / Dry,Mexico,xalapa,MANUEL HERRERA JUAREZ,2012,7.83,7.58,7.25,7.5,7.5,7.42,10,10,10,8.42,83.5,0.13,0,0,14,m,1170,1170,1170
+369,Arabica,Green,Semi-washed / Semi-pulped,Mexico,chilón,ARMANDO GUTIERREZ GUZMAN,2012,7.67,7.75,7.67,7.75,7.58,7.5,10,10,10,7.58,83.5,0.11,0,0,12,m,940,940,940
+370,Arabica,Green,Washed / Wet,Mexico,totutla,GABRIEL BERNARD RIVAS ROSS,2012,7.75,7.67,7.67,7.75,7.33,7.5,10,10,10,7.83,83.5,0.12,0,0,0,m,1400,1400,1400
+371,Arabica,Green,Washed / Wet,Guatemala,atitlan,RNP SANTO TOMAS PACHUJ / KANEMATSU CORPORATION,2012,7.83,7.5,7.5,8,7.67,7.5,10,10,10,7.5,83.5,0.1,0,0,5,ft,1524,1524,1524
+372,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2012,7.67,7.58,7.58,7.67,7.67,7.67,10,10,10,7.67,83.5,0.11,0,0,0,m,1600,1950,1775
+373,Arabica,Green,Washed / Wet,Guatemala,oriente,ConquistaMorito,2012,7.5,7.5,7.75,7.5,8,7.67,10,10,10,7.58,83.5,0,3,0,12,ft,1402.08,1402.08,1402.08
+374,Arabica,,,United States (Hawaii),,,,7.5,7.67,7.58,7.92,7.58,7.67,10,10,10,7.58,83.5,0.01,0,0,0,ft,NA,NA,NA
+375,Arabica,,,Indonesia,bondowoso,PT. PERKEBUNAN NUSANTARA XII,,7.83,7.58,7.58,7.58,7.75,7.58,10,10,10,7.58,83.5,0,0,0,0,m,1600,1600,1600
+376,Arabica,Green,Washed / Wet,Colombia,huila,FRANKLIN DUSSAN / HIPOLITO TORRES,2018,7.5,7.58,7.58,7.5,7.75,7.83,10,10,10,7.67,83.42,0,0,2,1,m,439,439,439
+377,Arabica,Green,Washed / Wet,Guatemala,san marcos,JORGE LEAL,2017,7.67,7.75,7.5,7.58,7.58,7.67,10,10,10,7.67,83.42,0.1,0,0,3,m,1700,1700,1700
+378,Arabica,Green,Washed / Wet,Colombia,huila,FRANKLIN DUSSAN / HIPOLOTO TORRES,2016,7.67,7.67,7.5,7.67,7.67,7.58,10,10,10,7.67,83.42,0.11,0,0,2,m,442,442,442
+379,Arabica,Blue-Green,Washed / Wet,Costa Rica,tarrazu,Martin Gutierrez,2016,7.58,7.5,7.42,7.92,7.5,7.67,10,10,10,7.83,83.42,0.09,0,0,4,m,1850,1850,1850
+380,Arabica,Blue-Green,,Taiwan,,黃素貞0939227229,2015,7.67,7.67,7,7.08,7,7,10,10,10,10,83.42,0.11,0,0,0,m,NA,NA,NA
+381,Arabica,Green,Washed / Wet,Uganda,eastern,Bulago & Buginyanya,2015,7.58,7.75,7.33,7.75,7.67,7.58,10,10,10,7.75,83.42,0.11,0,0,1,m,1800,1800,1800
+382,Arabica,Bluish-Green,Washed / Wet,Thailand,thailand,Matsuzawa Coffee,2015,7.5,7.58,7.75,7.5,7.75,7.67,10,10,10,7.67,83.42,0.13,0,0,0,m,1200,1200,1200
+383,Arabica,,Washed / Wet,El Salvador,apaneca,"Ibero El Salvador, S.A. de C.V.",2016,7.58,7.5,7.75,7.58,7.75,7.67,10,10,10,7.58,83.42,0.11,0,0,0,m,1330,1330,1330
+384,Arabica,Green,Natural / Dry,Colombia,huila,FRANKLIN DUSSAN/ANDRES RODRIGUEZ/HIPOLITO TORRES,2015,7.58,7.67,7.58,7.67,7.58,7.67,10,10,10,7.67,83.42,0.12,4,0,0,m,442,442,442
+385,Arabica,Green,Semi-washed / Semi-pulped,Brazil,vale da grama,GABRIEL CARVALHO DIAS,2014,7.33,7.83,7.75,7.5,7.42,7.83,10,10,10,7.75,83.42,0.12,0,0,6,m,NA,NA,NA
+386,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",karatu northern,Ngila Estate Ltd,2014,7.75,7.67,7.58,7.67,7.58,7.58,10,10,10,7.58,83.42,0.13,0,0,4,m,1600,1600,1600
+387,Arabica,Green,Washed / Wet,Colombia,huila,,2014,7.58,7.58,7.25,7.75,7.75,8.58,9.33,10,10,7.58,83.42,0.12,0,0,1,m,1813,1813,1813
+388,Arabica,Green,Natural / Dry,Guatemala,oriente,AMILCAR LAPOLA,2013,7.75,7.83,7.33,7.83,7.5,7.67,10,10,10,7.5,83.42,0.1,0,0,1,ft,1219.2,1219.2,1219.2
+389,Arabica,Green,Washed / Wet,Guatemala,antigua,"SIEMBRAS VISIÓN, S.A.",2014,7.67,7.75,7.5,7.83,7.58,7.5,10,10,10,7.58,83.42,0.1,0,0,2,m,1500,1500,1500
+390,Arabica,Green,Washed / Wet,Guatemala,oriente,ROBERTO MONTERROSO,2013,7.67,7.5,7.75,7.42,7.75,7.75,10,10,10,7.58,83.42,0.11,0,0,0,ft,1310.64,1310.64,1310.64
+391,Arabica,Green,Natural / Dry,United States (Hawaii),kona,,2012,7.42,7.75,7.67,7.58,7.67,7.67,10,10,10,7.67,83.42,0,0,0,2,ft,NA,NA,NA
+392,Arabica,Green,Washed / Wet,Colombia,cundinamarca,Exportadora de cafe condor,2012,7.5,7.75,7.58,7.5,7.67,7.75,10,10,10,7.67,83.42,0.11,0,0,2,m,1450,1450,1450
+393,Arabica,,,Colombia,huila,,,7.58,7.58,7.58,7.67,7.75,7.67,10,10,10,7.58,83.42,0.1,1,0,3,m,NA,NA,NA
+394,Arabica,,,United States (Hawaii),kona,Kona Pacific Farmers Co-Op,2010,7.5,7.92,7.42,7.67,7.83,7.58,10,10,10,7.5,83.42,0.01,0,0,0,ft,NA,NA,NA
+395,Arabica,,,Thailand,,Doi Tung Development Project,,7.58,7.25,7.5,7.92,7.92,7.42,10,10,10,7.83,83.42,0.11,0,0,0,m,NA,NA,NA
+396,Arabica,,,Mexico,nayarit,"Productores de Cafe de El Cuarenteno, S. de P.R. de R.L",January Through April,7.25,7.88,7.38,7.63,7.5,8.75,9,10,10,8,83.38,0.09,2,0,4,m,900,1200,1050
+397,Arabica,,Washed / Wet,Colombia,huila,various,2016,7.75,7.5,7.75,7.58,7.58,7.58,10,10,10,7.58,83.33,0,0,1,0,m,1650,1650,1650
+398,Arabica,Blue-Green,Washed / Wet,Colombia,guayata,,2016,7.67,7.58,7.58,7.42,7.67,7.75,10,10,10,7.67,83.33,0,0,0,0,m,NA,NA,NA
+399,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2016,7.83,7.58,7.58,7.58,7.5,7.58,10,10,10,7.67,83.33,0,1,0,2,m,NA,NA,NA
+400,Arabica,Green,Semi-washed / Semi-pulped,Brazil,south of minas,Ipanema Agrícola SA,2015,7.5,7.83,7.33,7.58,7.58,7.92,10,10,10,7.58,83.33,0.1,1,0,5,m,1227,1227,1227
+401,Arabica,Green,Washed / Wet,Mexico,chiapas,ECC,2014,7.75,7.75,7.5,7.67,7.5,7.58,10,10,10,7.58,83.33,0.12,0,0,2,m,1200,1200,1200
+402,Arabica,Green,Washed / Wet,Colombia,santander,varios,2015,7.67,7.75,7.42,7.83,7.83,7.42,10,10,10,7.42,83.33,0.11,0,0,1,m,1650,1650,1650
+403,Arabica,Green,Semi-washed / Semi-pulped,"Tanzania, United Republic Of",arusha,Mondul Coffee Estate,2014,7.75,7.58,7.67,7.58,7.58,7.58,10,10,10,7.58,83.33,0.12,0,0,6,m,1700,1700,1700
+404,Arabica,Green,Washed / Wet,Mexico,veracruz,JOSÉ LUIS ANDRADE SANDARA,2013,7.67,7.67,7.58,7.67,7.5,7.58,10,10,10,7.67,83.33,0.12,0,0,0,m,1100,1100,1100
+405,Arabica,Green,Washed / Wet,Costa Rica,san ramon,SEVERAL,2014,7.67,7.67,7.42,7.67,7.67,7.67,10,10,10,7.58,83.33,0.12,0,0,3,m,1300,1300,1300
+406,Arabica,Bluish-Green,Natural / Dry,United States (Hawaii),kona,,2014,7.83,7.58,7.83,7.67,7.92,8,9.33,10,9.33,7.83,83.33,0.11,0,0,1,ft,NA,NA,NA
+407,Arabica,Green,Washed / Wet,Costa Rica,central valley,CORICAFE BLEND,2013,7.5,7.67,7.67,7.5,7.83,7.17,10,10,10,8,83.33,0.11,0,0,3,m,1100,1300,1200
+408,Arabica,Green,Washed / Wet,Peru,,,2013,7.83,7.75,7.58,7.83,7.92,7.58,9.33,10,10,7.5,83.33,0.12,0,0,5,m,NA,NA,NA
+409,Arabica,Green,Washed / Wet,Haiti,"thiotte, haiti",COOPCAB,2012,7.58,7.5,7.67,7.5,7.83,7.42,10,10,10,7.83,83.33,0.11,0,0,4,ft,1280.16,1280.16,1280.16
+410,Arabica,Green,Natural / Dry,Colombia,pitalito,ORLANDO ORTIZ / HIPOLITO TORRES,2013,7.67,7.67,7.5,7.67,7.92,7.42,10,10,10,7.5,83.33,0.11,0,0,1,m,1000,1000,1000
+411,Arabica,Green,Washed / Wet,Guatemala,oriente,LUIS RODRIGUEZ,2013,7.83,7.67,7.17,7.67,7.67,7.67,10,10,10,7.67,83.33,0.11,0,0,3,ft,1310.64,1310.64,1310.64
+412,Arabica,Bluish-Green,Natural / Dry,United States (Hawaii),kona,,2012,7.92,7.5,7.58,7.83,7.67,7.67,9.33,10,10,7.83,83.33,0.1,0,0,4,ft,NA,NA,NA
+413,Arabica,,Washed / Wet,Burundi,kayanza,,2012,7.75,7.67,7.33,7.5,7.5,7.75,10,10,10,7.83,83.33,0,0,0,5,m,1880,1880,1880
+414,Arabica,Green,Washed / Wet,Colombia,huila,condor,2012,7.5,7.67,7.67,7.58,7.67,7.58,10,10,10,7.67,83.33,0,0,0,1,m,1750,1750,1750
+415,Arabica,,,United States (Hawaii),kona,,,8.08,7.83,7.83,7.75,7.67,7.58,9.33,10,9.33,7.92,83.33,0.01,0,0,0,ft,NA,NA,NA
+416,Arabica,,,United States (Hawaii),,,,7.58,7.67,7.58,7.5,7.83,7.67,10,10,10,7.5,83.33,0,0,0,0,ft,NA,NA,NA
+417,Arabica,Blue-Green,Washed / Wet,Mexico,sierra madre occidental,BALBINO RAMIREZ FLORES,2017,7.67,7.83,7.42,7.83,7.33,7.5,10,10,10,7.67,83.25,0.11,0,0,0,m,1600,1600,1600
+418,Arabica,Green,Pulped natural / honey,Costa Rica,tarrazu,Manuel Montero,2016,7.5,7.5,7.83,7.5,7.67,7.67,10,10,10,7.58,83.25,0.11,0,0,0,m,1900,1900,1900
+419,Arabica,,Washed / Wet,Costa Rica,tarrazu,Coopellanobonito,2015,7.83,7.5,7.42,7.67,7.5,7.67,10,10,10,7.67,83.25,0.11,0,0,0,m,NA,NA,NA
+420,Arabica,Green,Washed / Wet,Guatemala,nuevo oriente,PABLO CHUY,2016,7.5,7.58,7.42,7.83,7.67,7.58,10,10,10,7.67,83.25,0.11,0,2,7,m,2100,2100,2100
+421,Arabica,Green,Washed / Wet,Uganda,"sipi, mt elgon",Kawacom Uganda LTD,2015,7.5,7.67,7.67,7.42,7.67,7.67,10,10,10,7.67,83.25,0.12,0,0,1,m,NA,NA,NA
+422,Arabica,Green,,Brazil,campos altos - cerrado,,2016,7.58,7.67,7.42,7.5,7.67,7.42,10,10,10,8,83.25,0.12,0,0,4,m,NA,NA,NA
+423,Arabica,Green,Natural / Dry,Colombia,huila,FRANKLIN DUSSAN,2015,7.58,7.67,7.67,7.17,7.75,7.83,10,10,10,7.58,83.25,0,0,0,2,m,442,442,442
+424,Arabica,Bluish-Green,Natural / Dry,Mexico,cuarenteño,Rafael Arroyo Zoto,2015,7.83,7.75,7.5,7.58,7.58,7.58,10,10,10,7.42,83.25,0.12,0,0,2,m,1261,1261,1261
+425,Arabica,Blue-Green,Washed / Wet,Taiwan,natou county,LIN YEN CHIEN 林言謙,2015,7.67,7.5,7.5,7.5,7.67,7.83,10,10,10,7.58,83.25,0.1,0,0,0,m,1000,1000,1000
+426,Arabica,Green,Washed / Wet,Taiwan,南投國姓,蘇詠晴,2014,7.92,7.83,7.75,7.58,7.5,7.33,10,10,10,7.33,83.25,0.1,0,0,0,m,800,800,800
+427,Arabica,Green,Natural / Dry,Colombia,eje cafetero,,2014,7.58,7.58,7.5,7.58,7.58,7.75,10,10,10,7.67,83.25,0,0,0,0,m,1483,1483,1483
+428,Arabica,Green,Washed / Wet,Guatemala,antigua,"SIEMBRAS VISIÓN, S.A.",2014,7.5,7.67,7.58,7.67,7.67,7.5,10,10,10,7.67,83.25,0.1,0,0,1,m,1500,1500,1500
+429,Arabica,Green,Washed / Wet,Colombia,huila,,2013,7.83,7.5,7.67,7.33,7.67,7.67,10,10,10,7.58,83.25,0.11,0,0,1,m,1750,1750,1750
+430,Arabica,Green,Washed / Wet,Mexico,chiapas,VRIOS PRODUCTORES,2013,7.58,7.75,7.5,7.5,7.58,7.58,10,10,10,7.75,83.25,0.12,0,0,6,m,1300,1300,1300
+431,Arabica,Bluish-Green,Natural / Dry,United States (Hawaii),kona,,2012,7.58,7.75,7.83,8,8.08,7.67,9.33,10,9.33,7.67,83.25,0.11,0,0,4,ft,NA,NA,NA
+432,Arabica,Green,Washed / Wet,Mexico,veracruz,ERNESTO RODRIGUEZ LUNA,2012,7.75,7.58,7.58,7.58,7.5,7.58,10,10,10,7.67,83.25,0.13,0,0,7,m,NA,NA,NA
+433,Arabica,Blue-Green,Washed / Wet,Mexico,fortín de las flores,MODESTO LANDEROS FLORES,2012,7.75,7.75,7.42,7.92,7.33,7.5,10,10,10,7.58,83.25,0.12,0,0,0,m,1000,1000,1000
+434,Arabica,Green,Washed / Wet,Guatemala,oriente,AGROPECUARIA QUIAGRAL,2012,7.83,7.58,7.08,7.83,7.42,8.08,10,10,10,7.42,83.25,0.11,0,0,9,ft,1310.64,1310.64,1310.64
+435,Arabica,Blue-Green,Semi-washed / Semi-pulped,Brazil,grama valley,Eliane de Andrade Cyrino Noqueira,2012,7.75,7.67,7.5,7.58,7.58,7.58,10,10,10,7.58,83.25,0.11,0,0,1,m,1200,1200,1200
+436,Arabica,Green,Washed / Wet,Colombia,huila,,2012,7.67,7.58,7.58,7.42,7.83,7.58,10,10,10,7.58,83.25,0.12,0,0,1,m,175,175,175
+437,Arabica,Green,Washed / Wet,Colombia,la plata,La Plata,2012,7.67,7.67,7.5,7.5,7.58,7.67,10,10,10,7.67,83.25,0.11,0,0,0,m,1600,1950,1775
+438,Arabica,,,Colombia,huila,,2011,7.92,7.75,7.25,7.42,7.83,7.58,10,10,10,7.5,83.25,0.08,0,0,0,m,1600,1800,1700
+439,Arabica,,,Colombia,cauca,,2010,8,7.67,7.67,7.25,7.67,7.5,10,10,10,7.5,83.25,0.13,0,0,1,m,1880,1880,1880
+440,Arabica,,,Colombia,cundinamarca,Exportadora de Café Cóndor S.A,2010,7.92,7.75,7.5,7.42,7.42,7.67,10,10,10,7.58,83.25,0.04,0,0,1,m,1800,1800,1800
+441,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola S.A,2017,7.67,7.42,7.5,7.58,7.67,7.58,10,10,10,7.75,83.17,0.11,0,0,4,m,890,890,890
+442,Arabica,Green,Washed / Wet,Guatemala,oriente,AGROINDUSTRIAS CAFETALERAS,2017,7.58,7.58,7.33,7.67,7.75,7.58,10,10,10,7.67,83.17,0.1,0,0,1,m,1901,1901,1901
+443,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",moshi,Mamsera,2016,7.67,7.58,7.42,7.67,7.67,7.58,10,10,10,7.58,83.17,0.12,0,0,3,m,168,168,168
+444,Arabica,Green,,Peru,,,2017,7.92,7.5,7.5,7.58,7.67,7.5,10,10,10,7.5,83.17,0.11,0,1,0,m,NA,NA,NA
+445,Arabica,None,Natural / Dry,Vietnam,dala,"Yeh, Li Chuan",2017,7.58,7.42,7.08,7.33,7.58,8.58,10,10,10,7.58,83.17,0.07,0,0,0,m,1550,1550,1550
+446,Arabica,Green,Washed / Wet,Guatemala,antigua,FINCA MEDINA,2016,7.67,7.75,7.42,7.75,7.58,7.5,10,10,10,7.5,83.17,0.11,2,2,3,m,1500,1500,1500
+447,Arabica,Blue-Green,Washed / Wet,Honduras,marcala,JOSE OMAR ACOSTA,2016,7.67,7.67,7.5,7.67,7.5,7.67,10,10,10,7.5,83.17,0.11,0,1,1,m,1450,1450,1450
+448,Arabica,Green,Washed / Wet,China,yunnan,Mojiang Jinggong Estate Speciality Development Co.Ltd,2015,7.5,7.67,7.33,7.67,7.67,7.67,10,10,10,7.67,83.17,0.11,0,0,0,m,1200,1200,1200
+449,Arabica,Green,Washed / Wet,China,dehong prefecture,Yunnan Success Trade Co.Ltd,2015,7.67,7.67,7.5,7.67,7.42,7.58,10,10,10,7.67,83.17,0.1,0,0,3,m,1600,1600,1600
+450,Arabica,Green,Washed / Wet,El Salvador,apaneca,Ecom Agroindustrial Corp. Ltd.,2016,7.5,7.5,7.33,7.67,8,7.67,10,10,10,7.5,83.17,0,0,0,0,m,1350,1350,1350
+451,Arabica,Green,Washed / Wet,Guatemala,antigua,FINCA MEDINA,2015,7.5,7.75,7.5,7.83,7.58,7.5,10,10,10,7.5,83.17,0.11,0,0,1,m,1500,1500,1500
+452,Arabica,Green,Washed / Wet,Guatemala,oriente,PAPATURRO,2015,7.92,7.67,7.42,7.75,7.5,7.5,10,10,10,7.42,83.17,0.12,0,0,3,m,1400,1900,1650
+453,Arabica,Bluish-Green,Washed / Wet,Kenya,kenya,,2014,7.83,7.75,7.67,7.75,7.83,8.5,9.33,9.33,9.33,7.83,83.17,0.1,0,0,1,m,1,500,250.5
+454,Arabica,Bluish-Green,Washed / Wet,Thailand,thailand,Doi Tung Development Project,2014,7.67,7.58,7.58,7.75,7.42,7.67,10,10,10,7.5,83.17,0.12,0,0,0,m,800,800,800
+455,Arabica,Bluish-Green,Washed / Wet,"Tanzania, United Republic Of",mbinga,Tutunze Kahawa Ltd,2014,7.58,7.67,7.67,7.58,7.42,7.58,10,10,10,7.67,83.17,0.13,0,0,6,m,1653,1653,1653
+456,Arabica,,Washed / Wet,Colombia,huila,La Plata,2014,7.58,7.5,7.5,7.67,7.5,7.67,10,10,10,7.75,83.17,0,0,0,4,m,1600,1950,1775
+457,Arabica,Bluish-Green,Washed / Wet,Uganda,eastern,Kabum Trading Company,2014,8,7.67,7.5,7.42,7.33,7.58,10,10,10,7.67,83.17,0.1,0,0,0,m,1800,1800,1800
+458,Arabica,Green,Washed / Wet,Colombia,,unkown,2014,7.58,7.75,7.5,7.58,7.58,7.58,10,10,10,7.58,83.17,0.11,10,0,3,m,NA,NA,NA
+459,Arabica,Green,Natural / Dry,Honduras,san marcos,Nelson Melgar Melgar,2013,7.5,7.5,7.5,7.67,7.67,7.67,10,10,10,7.67,83.17,0.1,0,0,5,m,1450,1450,1450
+460,Arabica,Green,Natural / Dry,Honduras,comayagua,Reynerio Zepeda,2014,7.67,7.67,7.5,7.67,7.5,7.67,10,10,10,7.5,83.17,0.11,0,0,3,m,1350,1350,1350
+461,Arabica,Green,Washed / Wet,Guatemala,san marcos,"AGRICOLA NUEVA GRANADA, S.A.",2014,7.33,7.83,7.17,8.17,7.33,7.67,10,10,10,7.67,83.17,0.09,0,0,1,ft,1524,1524,1524
+462,Arabica,Bluish-Green,Natural / Dry,United States (Hawaii),kona,,2013,7.5,7.5,7.58,7.42,7.92,7.67,10,10,10,7.58,83.17,0.11,0,0,0,ft,NA,NA,NA
+463,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",kilimanjaro,,2014,7.58,7.5,7.58,7.75,7.58,7.58,10,10,10,7.58,83.17,0.12,0,0,1,m,1800,1800,1800
+464,Arabica,Green,Washed / Wet,Guatemala,oriente,ROBERTO MONTERROSO,2013,7.67,7.83,7.33,7.67,7.5,7.67,10,10,10,7.5,83.17,0.11,0,0,2,ft,1310.64,1310.64,1310.64
+465,Arabica,Green,Washed / Wet,Mexico,chiapas,MARGARITO ROBLERO VAZQUEZ,2013,7.75,7.58,7.58,7.58,7.5,7.42,10,10,10,7.75,83.17,0.11,0,0,2,m,1500,1500,1500
+466,Arabica,None,Washed / Wet,Mexico,"tlanchinol, hidalgo",AMADOR HERNANDEZ DIONICIO,2012,7.75,7.67,7.58,7.5,7.42,7.58,10,10,10,7.67,83.17,0.12,3,0,8,m,532,532,532
+467,Arabica,None,Washed / Wet,Mexico,san bartolo tutotepec,"TREJO VELASCO, ROMAN",2012,7.58,7.75,7.42,7.67,7.5,7.58,10,10,10,7.67,83.17,0.14,0,0,10,m,1089,1089,1089
+468,Arabica,Green,Washed / Wet,Colombia,huila,LA PLATA,2012,7.67,7.5,7.5,7.5,7.58,8.17,10,10,10,7.25,83.17,0.11,1,0,2,m,1600,1950,1775
+469,Arabica,Green,Washed / Wet,Mexico,san isidro,FERNANDO MENDOZA APARICIO,2012,7.75,7.5,7.42,7.75,7.58,7.58,10,10,10,7.58,83.17,0.13,0,0,5,m,700,700,700
+470,Arabica,Blue-Green,Washed / Wet,Colombia,huila,,2012,7.58,7.67,7.5,7.58,7.67,7.67,10,10,10,7.5,83.17,0.11,0,0,0,m,1750,1750,1750
+471,Arabica,,Washed / Wet,Mexico,la concordia,OCTAVIO MOGUEL FARRERA,2012,7.5,7.75,7.58,7.58,7.67,7.5,10,10,10,7.58,83.17,0.11,0,0,5,m,1380,1380,1380
+472,Arabica,Green,Natural / Dry,Brazil,south of minas,Giovane Senna Bonacorssi,2012,7.75,7.67,7.58,7.5,7.58,7.58,10,10,10,7.5,83.17,0.12,0,0,1,m,1000,1000,1000
+473,Arabica,Green,Natural / Dry,Brazil,mogiana,Maria Aparecida Ferreira Azevedo,2012,7.92,7.58,7.5,7.58,7.42,7.5,10,10,10,7.67,83.17,0.11,0,0,4,m,950,950,950
+474,Arabica,Green,Washed / Wet,Guatemala,oriente,Conquista / Morito,2012,7.75,7.5,7.67,7.5,7.92,8,10,10,9.33,7.5,83.17,0,0,0,10,ft,1402.08,1402.08,1402.08
+475,Arabica,Blue-Green,Semi-washed / Semi-pulped,Brazil,south of minas,Andrea Galvão Noqueira,2011,7.75,7.5,7.58,7.5,7.75,7.5,10,10,10,7.58,83.17,0.12,0,0,3,m,1000,1000,1000
+476,Arabica,,,Brazil,south of minas,Mario Dornelles Alvarenga,2011,7.58,7.75,7.67,7.5,7.67,7.58,10,10,10,7.42,83.17,0.02,0,0,2,m,900,900,900
+477,Arabica,,,El Salvador,santa ana,Several,2011,7.42,7.83,8.17,8.08,7.17,7.58,10,9.33,10,7.58,83.17,0.14,0,0,3,m,1200,1200,1200
+478,Arabica,,,Ethiopia,limu,Tega and Tula Special Coffee Farm,August to December,7.75,8,7.67,8.08,7.83,7.92,9.33,9.33,9.33,7.92,83.17,0.01,0,0,0,m,1850,1850,1850
+479,Arabica,Green,Washed / Wet,Colombia,cundinamarca,Orlando Moreno / Willson Sanchez,2016,7.58,7.67,7.33,7.67,7.75,7.58,10,10,10,7.5,83.08,0,0,1,4,m,1799,1799,1799
+480,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2016,7.75,7.5,7.5,7.42,8,7.75,10,10,10,7.17,83.08,0,1,2,5,m,NA,NA,NA
+481,Arabica,Bluish-Green,Pulped natural / honey,Brazil,south of minas,Ipanema Agricola,2015,7.58,7.58,7.58,7.5,7.67,7.58,10,10,10,7.58,83.08,0.11,0,2,2,m,905,905,905
+482,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agrícola SA,2015,7.33,7.67,7.67,7.33,7.75,7.42,10,10,10,7.92,83.08,0,0,0,3,m,1,1,1
+483,Arabica,Green,Natural / Dry,Taiwan,"dongshan dist., tainan city 臺南市東山區",Tseng ju feng / Kuo jun hong 曾如楓 / 郭俊宏,2015,7.83,7.92,7.5,7.83,7.67,7.25,9.33,10,10,7.75,83.08,0,0,0,0,m,700,800,750
+484,Arabica,Green,Natural / Dry,Brazil,chapadão de ferro (cerrado mineiro),,2015,7.42,7.67,7.58,7.5,7.75,7.67,10,10,10,7.5,83.08,0.11,0,0,13,m,NA,NA,NA
+485,Arabica,Green,Washed / Wet,Brazil,south of minas,Ipanema Agrícola SA,2014,7.58,7.83,7.67,7.42,7.42,7.5,10,10,10,7.67,83.08,0,0,0,1,m,1200,1200,1200
+486,Arabica,Green,Washed / Wet,Costa Rica,central valley,VARIOS,2014,7.83,7.33,7.5,7.67,7.58,7.67,10,10,10,7.5,83.08,0.1,0,0,3,m,1200,1400,1300
+487,Arabica,Bluish-Green,Natural / Dry,United States (Hawaii),kona,,2013,7.33,7.75,7.58,7.33,7.83,7.67,10,10,10,7.58,83.08,0.12,0,0,8,ft,NA,NA,NA
+488,Arabica,,Other,Taiwan,chiayi alishan 嘉義縣阿里山鄉,Fang zheng lun 方政倫,2013,7.75,7.75,7.5,7.5,7.5,7.5,10,10,10,7.58,83.08,0.11,0,0,0,m,1300,1300,1300
+489,Arabica,Bluish-Green,Natural / Dry,United States (Hawaii),kona,,2012,7.83,7.83,7.33,7.17,7.75,7.67,10,10,10,7.5,83.08,0.1,0,0,0,ft,NA,NA,NA
+490,Arabica,,Washed / Wet,Mexico,santa catarina juquila,MARIA LUISA DEL CARMEN ROJAS NARVAEZ,2012,7.75,7.67,7.42,7.75,7.5,7.5,10,10,10,7.5,83.08,0.1,0,0,1,m,1400,1400,1400
+491,Arabica,,Natural / Dry,United States (Hawaii),kona,,2012,7.67,7.58,7.5,7.67,7.92,8,9.33,9.33,10,8.08,83.08,0,1,0,4,ft,NA,NA,NA
+492,Arabica,Green,Washed / Wet,United States (Hawaii),kona,,2012,7.33,7.58,7.58,7.92,7.67,7.58,10,10,10,7.42,83.08,0.12,0,0,0,ft,NA,NA,NA
+493,Arabica,,,Colombia,huila,"Grupo Monserrate, La Plata",Mayo a Julio,7.33,7.33,7.33,7.58,7.25,8.08,10,10,10,8.17,83.08,0.01,0,0,0,m,1600,1950,1775
+494,Arabica,,,Colombia,cauca,,2010,7.83,7.75,7.33,7.25,7.42,7.92,10,10,10,7.58,83.08,0.08,1,0,3,m,1880,1880,1880
+495,Arabica,,,Indonesia,dolok sanggul,PT. MENACOM,2010,7.67,7.58,7.5,7.58,7.67,7.58,10,10,10,7.5,83.08,0,0,0,0,m,1300,1400,1350
+496,Arabica,,,Guatemala,,,,7.92,7.67,7.67,7.25,7.83,7.67,9.33,10,10,7.75,83.08,0.02,0,0,1,m,NA,NA,NA
+497,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola S.A,2017,7.58,7.5,7.5,7.75,7.67,7.5,10,10,10,7.5,83,0,0,0,4,m,890,890,890
+498,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola,2016,7.5,7.58,7.58,7.67,7.58,7.5,10,10,10,7.58,83,0.11,0,3,5,m,894,894,894
+499,Arabica,Bluish-Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola,2016,7.5,7.67,7.58,7.67,7.58,7.42,10,10,10,7.58,83,0.11,0,2,3,m,872,872,872
+500,Arabica,Green,Washed / Wet,Uganda,"kasese, mt. rwenzori",Xavier Baluku,2015,7.67,7.58,7.42,7.42,7.83,7.5,10,10,10,7.58,83,0.12,0,0,6,m,1473,1473,1473
+501,Arabica,Green,Natural / Dry,Uganda,"kasese, mt. rwenzori",Emmanuel Munaaba,2015,7.67,7.67,7.5,7.58,7.42,7.5,10,10,10,7.67,83,0.12,0,5,8,m,1645,1645,1645
+502,Arabica,Green,,Colombia,huila,FRANKLIN DUSSAN / HIPOLITO TORRES,2016,7.67,7.67,7.33,7.67,7.5,7.58,10,10,10,7.58,83,0.11,0,0,4,m,442,442,442
+503,Arabica,Green,Other,Vietnam,vietnam cau dat,"Yeh, Li Chuan.",2014,7.75,7.67,7.58,7.58,7.42,7.67,9.33,10,10,8,83,0,0,0,0,m,1550,1550,1550
+504,Arabica,Green,Washed / Wet,Guatemala,nuevo oriente,OVIDIO CARDONA,2015,7.67,7.75,7.33,7.92,7.42,7.5,10,10,10,7.42,83,0.11,0,0,3,m,1300,1800,1550
+505,Arabica,Green,Washed / Wet,Guatemala,"el tumbador, san marcos","Agricola Nueva Granada, S. A.",2015,7.75,7.67,7.33,7.75,7.5,7.42,10,10,10,7.58,83,0.11,0,0,2,ft,1371.6,1371.6,1371.6
+506,Arabica,Green,Washed / Wet,Guatemala,antigua,FINCA MEDINA,2015,7.83,7.67,7.25,7.67,7.75,7.5,10,10,10,7.33,83,0.11,0,0,2,m,1500,1500,1500
+507,Arabica,Green,Natural / Dry,Brazil,high mogiana,João Alves Toledo,2014,7.67,7.67,7.67,7.5,7.42,7.5,10,10,10,7.58,83,0,0,0,0,m,900,1100,1000
+508,Arabica,Green,Washed / Wet,Taiwan,嘉義阿里山,雅慕伊,2014,7.92,7.92,7.83,7.58,7.33,7.25,10,10,10,7.17,83,0.08,0,0,0,m,1200,1200,1200
+509,Arabica,Green,Washed / Wet,Uganda,kapchorwa,Kucofa farmers group,2013,7.83,7.58,7.5,7.5,7.58,7.5,10,10,10,7.5,83,0.12,0,0,0,m,1800,1800,1800
+510,Arabica,Bluish-Green,Washed / Wet,United States (Puerto Rico),yauco region,Hacienda Alto Grande,2013,7.67,7.5,7.67,7.83,7.75,7.83,10,10,9.33,7.42,83,0,0,0,0,ft,853.44,853.44,853.44
+511,Arabica,Green,Washed / Wet,Guatemala,antigua,GRUPO MEDINA,2014,7.67,7.67,7.42,7.83,7.5,7.5,10,10,10,7.42,83,0.1,1,0,0,m,1500,1500,1500
+512,Arabica,Green,Washed / Wet,Costa Rica,central valley,CORICAFE BLEND,2013,7.67,7.58,7.5,7.58,7.5,7.5,10,10,10,7.67,83,0.11,0,0,3,m,1100,1300,1200
+513,Arabica,Bluish-Green,Semi-washed / Semi-pulped,Brazil,sul de minas,NAZARETH DIAS PEREIRA,2013,7.75,7.58,7.42,7.67,7.42,7.67,10,10,10,7.5,83,0.12,0,0,4,m,1250,1250,1250
+514,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2013,7.75,7.42,7.33,7.5,7.58,7.17,10,10,10,8.25,83,0.11,1,0,1,m,1600,1950,1775
+515,Arabica,Green,Washed / Wet,Colombia,huila,,2013,7.83,7.5,7.58,7.33,7.5,7.67,10,10,10,7.58,83,0,0,0,0,m,1750,1750,1750
+516,Arabica,Green,Natural / Dry,Colombia,pitalito,COFFEE COMPANY / CAFECOL,2013,7.33,7.67,7.75,7.42,7.75,7.58,10,10,10,7.5,83,0.11,0,0,1,m,1000,1000,1000
+517,Arabica,Green,Natural / Dry,Colombia,pitalito,ORLANDO ORTOZ / HIPOLITO TORRES,2013,7.58,7.75,7.42,7.67,7.58,7.42,10,10,10,7.58,83,0,0,0,2,m,1000,1000,1000
+518,Arabica,Green,Washed / Wet,Colombia,huila,LA PLATA,2012,7.5,7.5,7.42,7.58,7.75,7.58,10,10,10,7.67,83,0.11,1,0,2,m,1600,1950,1775
+519,Arabica,Green,Washed / Wet,Mexico,coatepec,GONZALO RIVERO PUERTO,2012,7.67,7.58,7.42,7.5,7.67,7.58,10,10,10,7.58,83,0.11,0,0,20,m,750,750,750
+520,Arabica,Green,Semi-washed / Semi-pulped,Mexico,atoyac de alvarez,SANTIAGO SOLIS AYERDI,2012,7.67,7.83,7.5,7.58,7.58,7.67,9.33,10,10,7.83,83,0.11,0,0,7,m,1200,1200,1200
+521,Arabica,Green,Washed / Wet,Mexico,coatepec,FRANCO COLORADO DOMINGUEZ,2012,7.5,7.67,7.5,7.5,7.58,7.58,10,10,10,7.67,83,0.11,5,0,8,m,1200,1200,1200
+522,Arabica,,Natural / Dry,Colombia,,Exportadora Condor,2012,7.67,7.58,7.5,7.5,7.75,7.5,10,10,10,7.5,83,0,1,0,4,m,NA,NA,NA
+523,Arabica,Green,Washed / Wet,Colombia,huila,varios,2012,7.75,7.58,7.5,7.67,7.83,7.75,9.33,10,10,7.58,83,0,0,0,4,m,1500,1750,1625
+524,Arabica,Green,Washed / Wet,Colombia,huila,,2012,7.67,7.58,7.58,7.58,7.67,7.42,10,10,10,7.5,83,0.11,0,0,0,m,1750,1750,1750
+525,Arabica,Green,Washed / Wet,Guatemala,"la reforma, san marcos","NUEVOS MERCADOS, S.A.",2012,7.5,7.67,7.5,7.67,7.5,7.83,10,10,10,7.33,83,0.1,0,0,2,ft,1371.6,1371.6,1371.6
+526,Arabica,Bluish-Green,Washed / Wet,Colombia,la plata,LA PLATA,2011,7.67,7.67,7.58,7.5,7.67,7.42,10,10,10,7.5,83,0.12,0,0,0,m,1600,1950,1775
+527,Arabica,,,Thailand,,,2011,7.33,7.67,7.58,7.5,7.75,7.67,10,10,10,7.5,83,0.28,0,0,0,m,NA,NA,NA
+528,Arabica,,,Colombia,cauca,,2011,7.33,7.67,7.58,7.33,7.58,7.92,10,10,10,7.58,83,0.08,0,0,1,m,1050,1850,1450
+529,Arabica,,,United States (Hawaii),,,,7.83,7.83,7.67,7.83,7.92,7.83,9.33,9.33,9.33,8.08,83,0,0,0,0,ft,NA,NA,NA
+530,Arabica,,,United States (Hawaii),,,,7.5,7.58,7.42,7.58,7.58,7.67,10,10,10,7.67,83,0,0,0,1,ft,NA,NA,NA
+531,Arabica,,,Colombia,huila,varios,2011,7.5,7.58,7.67,7.67,7.58,7.58,10,10,10,7.42,83,0.06,0,0,2,m,1800,1800,1800
+532,Arabica,,,Nicaragua,matagalpa,Juan AugustinPalacio,2009,7.58,7.83,7.75,7.92,7.92,8.08,9.33,9.33,9.33,7.92,83,0.07,0,0,0,m,NA,NA,NA
+533,Arabica,,,Thailand,,Doi Tung Development Project,,7.5,7.25,7.42,7.75,8.17,7.5,10,10,10,7.42,83,0,0,0,0,m,NA,NA,NA
+534,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola S.A,2017,7.67,7.58,7.5,7.58,7.58,7.5,10,10,10,7.5,82.92,0,0,0,0,m,890,890,890
+535,Arabica,Green,Washed / Wet,El Salvador,apaneca,"Balcanes Coffee Estates, S.A. de C.V.",2017,7.5,7.5,7.75,7.58,7.92,7.83,10,10,9.33,7.5,82.92,0,0,0,1,m,1350,1350,1350
+536,Arabica,Green,Washed / Wet,Colombia,guayata,,2017,7.58,7.67,7.5,7.33,7.67,7.58,10,10,10,7.58,82.92,0.11,0,0,1,m,1500,1500,1500
+537,Arabica,Green,Natural / Dry,Taiwan,"dongshan dist., tainan city 臺南市東山區",Wang Chao Yung 王超永,2016,7.17,7.83,7.25,7.67,7.67,7.58,10,10,10,7.75,82.92,0.09,31,0,0,m,350,350,350
+538,Arabica,Bluish-Green,Washed / Wet,Ethiopia,"blida,kercha,guji,oromia",-,2016,7.58,7.58,7.5,7.5,7.58,7.58,10,10,10,7.58,82.92,0,1,0,20,m,2000,2000,2000
+539,Arabica,Green,Natural / Dry,Taiwan,台東太麻里,許文郎,2014,7.5,7.58,7.67,7.33,7.5,7.75,10,10,10,7.58,82.92,0,0,0,9,m,775,775,775
+540,Arabica,Blue-Green,Washed / Wet,Philippines,"bukidnon, mindanao, philppines",Hineleban Foundation,2015,7.58,7.58,7.67,7.58,7.5,7.5,10,10,10,7.5,82.92,0.11,0,0,1,m,1200,1200,1200
+541,Arabica,Bluish-Green,Washed / Wet,Philippines,asia pacific,Ephemera Traders,2014,8.08,7.5,7.67,7.42,7.33,7.5,10,10,10,7.42,82.92,0,0,0,0,m,1600,1600,1600
+542,Arabica,Blue-Green,Natural / Dry,Mexico,cuarenteño,Catalina Rodriguez Mayorga,2015,7.83,7.67,7.25,7.58,7.5,7.5,10,10,10,7.58,82.92,0.13,0,0,3,m,1059,1059,1059
+543,Arabica,Bluish-Green,Washed / Wet,Mexico,chiapas,FIECH,2015,7.75,7.67,7.42,7.42,7.75,7.5,10,10,10,7.42,82.92,0.12,2,0,8,m,1300,1300,1300
+544,Arabica,Green,Semi-washed / Semi-pulped,Brazil,cerrado,GERSON NAIMEG,2014,7.08,7.5,7.5,7.83,7.75,7.67,10,10,10,7.58,82.92,0.11,0,0,16,m,11000,11000,11000
+545,Arabica,Green,Washed / Wet,Uganda,eastern,Sipi organic coffee project,2013,8,7.5,7.5,7.58,7.33,7.42,10,10,10,7.58,82.92,0.12,0,0,0,m,1400,1900,1650
+546,Arabica,Green,Washed / Wet,Uganda,west nile,Nyapea coffee farmers association,2013,7.75,7.58,7.58,7.5,7.5,7.5,10,10,10,7.5,82.92,0.12,0,0,4,m,1400,1400,1400
+547,Arabica,Green,Washed / Wet,Guatemala,antigua,"SIEMBRAS VISION, S.A.",2014,7.75,7.5,7.42,7.58,7.67,7.5,10,10,10,7.5,82.92,0.1,0,0,1,m,1500,1500,1500
+548,Arabica,Green,Natural / Dry,Guatemala,antigua,"SIEMBRAS VISIÓN, S.A.",2014,7.67,7.83,7.42,7.5,7.33,7.5,10,10,10,7.67,82.92,0.1,0,0,2,m,1500,1500,1500
+549,Arabica,Green,Washed / Wet,Guatemala,,,2012,7.58,7.58,7.25,7.58,7.58,7.58,10,10,10,7.75,82.92,0.1,0,0,4,m,NA,NA,NA
+550,Arabica,Green,Washed / Wet,Colombia,huila,,2013,7.58,7.5,7.75,7.33,7.58,7.58,10,10,10,7.58,82.92,0.11,0,0,2,m,1800,2000,1900
+551,Arabica,Bluish-Green,Natural / Dry,Colombia,huila,,2013,7.75,7.5,7.25,7.5,7.75,7.5,10,10,10,7.67,82.92,0,0,0,0,m,1750,1750,1750
+552,Arabica,Green,Washed / Wet,Guatemala,huehuetenango,OTTONIEL VILLATORO LOPEZ,2013,7.83,7.75,7.25,7.92,7.5,7.17,10,10,10,7.5,82.92,0.11,0,0,2,ft,1658.112,1755.648,1706.88
+553,Arabica,Green,Washed / Wet,Colombia,antioquia,,2013,7.83,7.67,7.42,7.42,7.5,7.58,10,10,10,7.5,82.92,0.11,3,0,5,m,1450,1450,1450
+554,Arabica,Green,Natural / Dry,Mexico,petatlan,MARIA GUADALUPE GOMEZ ANZO,2012,7.58,7.58,7.33,7.25,7.58,7.75,10,10,10,7.83,82.92,0.1,0,0,4,m,1248,1248,1248
+555,Arabica,None,Natural / Dry,Vietnam,don duong,"Apollo Co., Ltd.",2012,7.67,7.33,7.17,7.58,8.08,7.42,10,10,10,7.67,82.92,0,0,0,17,m,1040,1040,1040
+556,Arabica,Green,Washed / Wet,Mexico,la cumbre,WERCLEIN HERNANDEZ SERRANO ID.-1506728641,2012,8,7.92,7.67,7.17,7.67,7.42,9.33,10,10,7.75,82.92,0.14,1,0,4,m,1400,1400,1400
+557,Arabica,Green,Washed / Wet,United States (Hawaii),kona,,2012,7.5,7.5,7.5,7.42,7.67,7.83,10,10,10,7.5,82.92,0.1,0,0,0,ft,NA,NA,NA
+558,Arabica,,,Colombia,cauca,,2011,7.5,7.75,7.33,7.75,7.08,7.83,10,10,10,7.67,82.92,0.15,0,0,0,m,1050,1850,1450
+559,Arabica,,,Thailand,,Doi Tung Development Project,,7.42,7.58,7.5,7.17,7.5,8,10,10,10,7.75,82.92,0,0,0,0,m,NA,NA,NA
+560,Arabica,Green,Washed / Wet,Kenya,nyeri,KEREMARA LIMITED,2017,7.75,7.58,7.42,7.58,7.5,7.5,10,10,10,7.5,82.83,0.1,0,0,3,m,1754,1754,1754
+561,Arabica,Green,Washed / Wet,Guatemala,san marcos,JORGE LEAL,2017,7.5,7.58,7.33,7.67,7.58,7.58,10,10,10,7.58,82.83,0.11,1,1,2,m,1700,1700,1700
+562,Arabica,Bluish-Green,Pulped natural / honey,Brazil,south of minas,Ipanema Agricola,2015,7.67,7.58,7.58,7.5,7.5,7.42,10,10,10,7.58,82.83,0.11,0,2,2,m,905,905,905
+563,Arabica,Green,Washed / Wet,El Salvador,"el balsamo, quezaltepec","El Barbaro, S.A. de C.V.",2016,7.33,7.67,7.67,7.83,7.33,7.67,10,10,10,7.33,82.83,0,0,0,4,m,1250,1250,1250
+564,Arabica,Bluish-Green,Washed / Wet,Rwanda,gicumbi,Bufcoffee_Gicumbi,2015,7.83,7.92,7.75,7.83,7.75,7.75,9.33,9.33,9.33,8,82.83,0.11,0,0,0,m,1900,1900,1900
+565,Arabica,Green,Other,Vietnam,vietnam tutra,"Yeh, Li Chuan",2014,7.25,7.58,7.5,7.42,7.75,7.42,10,10,10,7.92,82.83,0.11,11,0,0,m,1040,1040,1040
+566,Arabica,Green,Washed / Wet,Guatemala,oriente,AMILCAR LAPOLA,2015,7.58,7.58,7.33,7.67,7.67,7.5,10,10,10,7.5,82.83,0.11,0,0,2,ft,1219.2,1219.2,1219.2
+567,Arabica,Green,Natural / Dry,Brazil,cerrado,Antonio Batista Francisquine,2015,7.58,7.83,7.33,7.67,7.42,7.33,10,10,10,7.67,82.83,0.12,2,0,6,m,900,900,900
+568,Arabica,,Washed / Wet,Colombia,huila,Mercedes Narvaez,2014,7.83,7.67,7.5,7.58,7.5,7.67,10,10,10,7.08,82.83,0,0,0,1,m,1200,2000,1600
+569,Arabica,,Other,United States,berastagi,PT. Olam Indonesia,2014,7.42,7.58,7.25,7.5,7.75,7.75,10,10,10,7.58,82.83,0,0,0,9,m,1200,1200,1200
+570,Arabica,Green,Washed / Wet,Guatemala,antigua,"SIEMBRAS VISIÓN, S.A.",2014,7.67,7.67,7.75,7.67,7.42,7.17,10,10,10,7.5,82.83,0.1,0,0,4,m,1500,1500,1500
+571,Arabica,Green,Natural / Dry,Colombia,santander,Mrs. Galeano,2013,7.5,7.42,7.58,7.5,7.58,7.58,10,10,10,7.67,82.83,0,4,0,4,m,1800,1800,1800
+572,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2013,7.83,7.5,7.5,7.42,7.5,7.5,10,10,10,7.58,82.83,0.11,0,0,3,m,1600,1950,1775
+573,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",arusha,BURKA COFFEE ESTATE,2012,7.67,7.5,7.33,7.25,7.58,7.75,10,10,10,7.75,82.83,0.11,0,0,5,m,1400,1400,1400
+574,Arabica,Green,Washed / Wet,Mexico,la concordia,ARMANDO LUIS POHLENZ MARTINEZ,2012,7.58,7.67,7.5,7.58,7.5,7.5,10,10,10,7.5,82.83,0.12,2,0,10,m,1550,1550,1550
+575,Arabica,Blue-Green,Washed / Wet,Mexico,veracruz,OLIVIA HERNANDEZ VIRUES,2012,7.67,7.58,7.42,7.75,7.42,7.42,10,10,10,7.58,82.83,0.12,0,0,7,m,1250,1250,1250
+576,Arabica,Green,Washed / Wet,Guatemala,oriente,AGROPECUARIA QUIAGRAL,2012,7.67,7.67,7.33,7.5,7.33,7.92,10,10,10,7.42,82.83,0.11,0,0,10,ft,1310.64,1310.64,1310.64
+577,Arabica,,Washed / Wet,Mexico,la concordia,OCTAVIO MOGUEL FARRERA,2012,7.58,7.58,7.5,7.42,7.67,7.58,10,10,10,7.5,82.83,0.11,0,0,2,m,1380,1380,1380
+578,Arabica,,,El Salvador,santa ana,La Majada Cooperative,2010,7.75,7.58,7.75,7.75,7.25,7.5,10,10,10,7.25,82.83,0,1,0,3,m,1200,1200,1200
+579,Arabica,Green,Washed / Wet,Guatemala,santa rosa,PLANTACIONES AGROPECUARIAS S.A,,7.5,7.58,7.42,7.67,7.58,7.5,10,10,10,7.5,82.75,0.1,0,1,3,m,1100,1100,1100
+580,Arabica,Green,Washed / Wet,Guatemala,santa rosa,PABLO ARTURO CHUY FLORES,2017,7.58,7.67,7.5,7.58,7.5,7.42,10,10,10,7.5,82.75,0.11,0,0,8,m,1800,1800,1800
+581,Arabica,Green,Washed / Wet,Guatemala,san marcos,ANGEL DE LEON,2017,7.5,7.67,7.17,7.67,7.67,7.58,10,10,10,7.5,82.75,0.11,0,0,4,m,1700,1700,1700
+582,Arabica,Green,Washed / Wet,Guatemala,santa rosa,OTTO BECKER,2017,7.5,7.5,7.42,7.58,7.67,7.5,10,10,10,7.58,82.75,0.1,0,0,1,ft,1219.2,1219.2,1219.2
+583,Arabica,Green,Washed / Wet,Guatemala,oriente,JESUS RAMIREZ,2017,7.42,7.58,7.42,7.67,7.5,7.5,10,10,10,7.67,82.75,0.1,0,0,1,ft,1219.2,1219.2,1219.2
+584,Arabica,Blue-Green,Other,Indonesia,sapan toraja,vary farm,2017,7.5,7.58,7.42,7.58,7.58,7.5,10,10,10,7.58,82.75,0.12,0,0,15,m,1500,1500,1500
+585,Arabica,Green,Washed / Wet,Guatemala,el progreso,JESUS RAMIREZ,2017,7.58,7.58,7.33,7.58,7.33,7.67,10,10,10,7.67,82.75,0.12,0,0,0,ft,157.8864,157.8864,157.8864
+586,Arabica,Green,Natural / Dry,Taiwan,"台南市東山區( dongshan dist., tainan city)","林俊吉( Lin, Chun-Chi)",2016,7.83,7.67,7.33,7.67,7.58,7.67,9.33,10,10,7.67,82.75,0,0,0,0,m,650,650,650
+587,Arabica,,Washed / Wet,El Salvador,cacahuatique,Soc. Coop. de Caf. de Ciudad Barrios de R.L.,2017,7.67,7.67,7.17,7.33,7.58,7.67,10,10,10,7.67,82.75,0,0,0,4,m,1250,1250,1250
+588,Arabica,Bluish-Green,Washed / Wet,Costa Rica,tarrazu,Martin Gutierrez,2016,7.58,7.5,7.42,7.67,7.42,7.5,10,10,10,7.67,82.75,0.09,0,0,1,m,1850,1850,1850
+589,Arabica,Green,Natural / Dry,Honduras,comayagua,Reinerio Zepeda,2017,7.58,7.5,7.42,7.58,7.5,7.5,10,10,10,7.67,82.75,0.09,0,1,6,m,1400,1400,1400
+590,Arabica,Bluish-Green,Pulped natural / honey,Brazil,south of minas,Ipanema Agricola,2015,7.5,7.5,7.58,7.5,7.58,7.58,10,10,10,7.5,82.75,0.11,0,2,1,m,905,905,905
+591,Arabica,Green,Natural / Dry,China,yunnan,"Puwen Lvyou Coffee Co.,Ltd",2015,7.67,7.5,7.33,7.33,7.67,7.67,10,10,10,7.58,82.75,0.1,0,0,0,m,1100,1100,1100
+592,Arabica,Green,Washed / Wet,China,menglian,Pu'er Lingdu Yunlin Coffee Co.LTD,2015,7.5,7.67,7.42,7.67,7.5,7.5,10,10,10,7.5,82.75,0.11,0,0,2,m,1500,1500,1500
+593,Arabica,Blue-Green,Washed / Wet,Colombia,huila,La Plata,2014,7.5,7.58,7.58,7.75,7.33,7.5,10,10,10,7.5,82.75,0,0,0,2,m,1600,1950,1775
+594,Arabica,Bluish-Green,Washed / Wet,Malawi,mzuzu,Mzuzu Coffee Planters Coop Union,2014,7.75,7.58,7.42,7.5,7.33,7.5,10,10,10,7.67,82.75,0.12,0,0,0,m,1442,1442,1442
+595,Arabica,Green,Washed / Wet,Guatemala,jalapa,ROBERTO MONTERROSO,2014,7.75,7.42,7.25,7.75,7.5,7.67,10,10,10,7.42,82.75,0.13,0,0,2,ft,1524,1524,1524
+596,Arabica,Green,Washed / Wet,Colombia,huila,,2014,7.67,7.42,7.42,7.58,7.33,7.67,10,10,10,7.67,82.75,0.12,0,0,0,m,165,165,165
+597,Arabica,Blue-Green,Natural / Dry,United States (Hawaii),kona,,2013,7.67,7.58,7.42,7.83,7.33,7.5,10,10,10,7.42,82.75,0.1,6,0,0,ft,NA,NA,NA
+598,Arabica,Green,Natural / Dry,United States (Hawaii),kona,,2013,7.58,7.83,7.75,7.75,7.42,8,9.33,9.33,10,7.75,82.75,0.1,0,0,0,ft,NA,NA,NA
+599,Arabica,Green,Washed / Wet,Colombia,antioquia,several,2013,7.58,7.33,7.17,7.33,7.25,8.58,10,10,10,7.5,82.75,0.1,0,0,2,m,1300,1300,1300
+600,Arabica,Green,Washed / Wet,Mexico,chiapas,CARLOS O. VELAZCO LOPEZ,2013,7.58,7.58,7.5,7.5,7.5,7.5,10,10,10,7.58,82.75,0.12,0,0,6,m,1550,1550,1550
+601,Arabica,,Washed / Wet,Mexico,veracruz,FRANCISCO R. DE LA VEQUIA BERNARDI,2012,7.58,7.58,7.33,7.75,7.25,7.58,10,10,10,7.67,82.75,0.12,0,0,0,m,1200,1200,1200
+602,Arabica,,Natural / Dry,Mexico,atoyac de alvarez,ROMULO BELLO FLORES,2012,8.08,8.17,8,8,7.83,7.92,6.67,10,10,8.08,82.75,0.12,1,0,4,m,1200,1200,1200
+603,Arabica,Blue-Green,Washed / Wet,Colombia,south huila,Supply Chain ECOM CCA S.A.,2012,7.5,7.58,7.42,7.67,7.5,7.58,10,10,10,7.5,82.75,0,0,0,0,m,1400,1850,1625
+604,Arabica,Green,Washed / Wet,Colombia,huila,LA PLATA,2012,7.67,7.58,7.58,7.58,7.5,7.42,10,10,10,7.42,82.75,0.11,0,0,3,m,1600,1950,1775
+605,Arabica,Green,Washed / Wet,United States (Hawaii),kona,,2012,7.25,7.75,7.5,7.83,7.67,7.67,9.33,10,10,7.75,82.75,0.12,0,0,0,ft,NA,NA,NA
+606,Arabica,Green,Washed / Wet,Panama,boquete,Price Peterson,2012,7.42,7.42,7.5,7.58,7.5,7.75,10,10,10,7.58,82.75,0,0,0,4,m,1100,1100,1100
+607,Arabica,,,United States (Hawaii),kona,,,7.75,7.67,7.5,7.83,7.17,7.42,10,10,10,7.42,82.75,0,0,0,2,ft,NA,NA,NA
+608,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola S.A,2017,7.5,7.58,7.25,7.75,7.58,7.5,10,10,10,7.5,82.67,0,0,0,4,m,890,890,890
+609,Arabica,Bluish-Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola,2016,7.5,7.58,7.5,7.67,7.5,7.42,10,10,10,7.5,82.67,0.11,0,2,3,m,934,934,934
+610,Arabica,Bluish-Green,Washed / Wet,Laos,"paksong,laos","Paksong,Laos",2015,7.67,7.67,7.42,7.42,7.42,7.5,10,10,10,7.58,82.67,0.13,0,0,0,m,1300,1300,1300
+611,Arabica,Green,Washed / Wet,El Salvador,"el balsamo, quezaltepec","El Barbaro, S.A. de C.V.",2016,7.67,7.67,7.67,7.67,7.5,7.67,10,10,9.33,7.5,82.67,0,0,0,7,m,1200,1200,1200
+612,Arabica,Green,,Mexico,veracruz,Finca Kassandra,2016,7.5,7.67,7.42,7.75,7.42,7.17,10,10,10,7.75,82.67,0.11,0,2,3,m,1300,1300,1300
+613,Arabica,Green,Washed / Wet,Colombia,huila,,2015,7.75,7.5,7.33,7.58,7.33,7.75,10,10,10,7.42,82.67,0,1,0,9,m,NA,NA,NA
+614,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agrícola SA,2015,7.58,7.5,7.42,7.67,7.5,7.5,10,10,10,7.5,82.67,0,0,0,0,m,1,1,1
+615,Arabica,,Natural / Dry,Brazil,monte carmelo,MANOEL CARDOSO AND GALILEO CARDOSO,2014,7.33,7.5,7.58,7.58,7.67,7.5,10,10,10,7.5,82.67,0.12,0,0,9,m,NA,NA,NA
+616,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",karatu arusha,Nitin Coffee Estate,2014,7.5,7.5,7.5,7.5,7.5,7.58,10,10,10,7.58,82.67,0.12,0,0,0,m,1700,1700,1700
+617,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",mbinga,Taylor Winch (T) ltd,2014,7.58,7.5,7.5,7.58,7.33,7.58,10,10,10,7.58,82.67,0.12,0,0,4,m,1550,1550,1550
+618,Arabica,Green,Washed / Wet,Taiwan,嘉義阿里山,林道明,2014,8,7.83,7.83,7.42,7.25,7.25,10,10,10,7.08,82.67,0.08,0,0,0,m,1200,1200,1200
+619,Arabica,Green,Natural / Dry,Mexico,la yerba,AVELINO CHAVEZ REYNA,2014,7.67,7.58,7.42,7.5,7.42,7.5,10,10,10,7.58,82.67,0.11,0,0,0,m,1296,1296,1296
+620,Arabica,Green,Washed / Wet,Uganda,mt elgon,Kawacom Uganda Ltd,2013,7.67,7.5,7.33,7.67,7.5,7.5,10,10,10,7.5,82.67,0.12,0,0,0,m,1400,1900,1650
+621,Arabica,Green,Washed / Wet,Taiwan,chiayi alishan 嘉義縣阿里山鄉,Xu ding ye 許定燁,2013,7.67,7.5,7.5,7.5,7.5,7.5,10,10,10,7.5,82.67,0.11,0,0,0,m,1240,1240,1240
+622,Arabica,Bluish-Green,Washed / Wet,Thailand,phahi,Koju Matsuzawa,2013,7.42,7.5,7.5,7.67,7.58,7.5,10,10,10,7.5,82.67,0.11,0,0,0,m,1500,1500,1500
+623,Arabica,Bluish-Green,Washed / Wet,Colombia,huila,,2012,7.75,7.58,7.67,7.25,7.58,7.42,10,10,10,7.42,82.67,0.11,0,0,3,m,1800,1800,1800
+624,Arabica,None,Washed / Wet,El Salvador,,,2012,7.92,8,7.5,6.75,7.92,7.58,10,10,9.33,7.67,82.67,0,0,0,17,m,NA,NA,NA
+625,Arabica,Green,Washed / Wet,Guatemala,antigua,-,2012,7.67,7.67,7.17,7.67,7.5,7.5,10,10,10,7.5,82.67,0.11,0,0,0,m,1500,1500,1500
+626,Arabica,Bluish-Green,Washed / Wet,Thailand,thailand,Doi Tung Development Project,2012,7.83,7.33,7.83,7.33,7.58,7.83,10,10,9.33,7.58,82.67,0.12,0,0,0,m,NA,NA,NA
+627,Arabica,,Washed / Wet,Mexico,,AMIN JAVIER MOISES CEJA,2012,7.58,7.58,7.42,7.58,7.42,7.5,10,10,10,7.58,82.67,0.11,0,0,2,m,1100,1100,1100
+628,Arabica,,Washed / Wet,Mexico,mahuixtlan,MARIA DE LOURDES ANCIRA ELIZONDO,2012,7.5,7.58,7.58,7.58,7.42,7.42,10,10,10,7.58,82.67,0.12,0,0,0,m,950,950,950
+629,Arabica,Green,,Colombia,52 narino (exact location: mattituy; municipal region: florida code 381,Mariana Cabrera Pantoja; I.D.: 27 423 625,2011,7.33,7.58,7.42,7.42,7.67,7.67,10,10,10,7.58,82.67,0.11,0,0,0,m,1800,5900,3850
+630,Arabica,,,United States (Hawaii),kona,,,7.83,7.67,7.5,7.67,7.5,7.58,10,10,9.33,7.58,82.67,0.03,2,0,0,ft,NA,NA,NA
+631,Arabica,,,Mexico,mexico,Finca Kassandra,2011,7.75,7.58,7.25,7.75,7.67,7.58,10,10,10,7.08,82.67,0,0,0,1,m,1400,1400,1400
+632,Arabica,,,Colombia,huila,,2010,8.08,7.67,7.67,7.33,7.33,7.17,10,10,10,7.42,82.67,0.08,0,0,3,m,1800,1800,1800
+633,Arabica,,,Colombia,,,2010,7.5,7.42,7.33,7.33,7.67,7.83,10,10,10,7.58,82.67,0.21,0,0,2,m,NA,NA,NA
+634,Arabica,Green,Washed / Wet,Guatemala,oriente,JESUS RAMIREZ,2017,7.5,7.42,7.42,7.75,7.5,7.5,10,10,10,7.5,82.58,0.1,0,1,2,ft,1219.2,1219.2,1219.2
+635,Arabica,Green,Pulped natural / honey,Taiwan,國姓鄉 guoshing township,林文弘 Lin Wen Hong,2016,7.67,7.42,7.5,7.42,7.58,7.5,10,10,10,7.5,82.58,0.11,0,5,0,m,1050,1050,1050
+636,Arabica,Green,Pulped natural / honey,Brazil,south of minas,,2016,7.5,7.58,7.42,7.5,7.75,7.33,10,10,10,7.5,82.58,0.11,0,0,7,m,NA,NA,NA
+637,Arabica,Blue-Green,,Taiwan,changhua baguashan 彰化市八卦山,陳勝樂0912326001,2016,7.25,7.25,7,7.08,7,7,10,10,10,10,82.58,0.11,0,0,0,m,200,200,200
+638,Arabica,Green,,Brazil,campos altos - cerrado,,2016,7.42,7.42,7.5,7.33,7.25,7.67,10,10,10,8,82.58,0,1,9,2,m,NA,NA,NA
+639,Arabica,Blue-Green,Semi-washed / Semi-pulped,Indonesia,aceh,SMALL HOLDERS FARMER,2015,7.83,7.58,7.42,7.33,7.42,7.5,10,10,10,7.5,82.58,0.13,0,0,6,m,1200,1300,1250
+640,Arabica,Green,Washed / Wet,Thailand,thailand,Doi Tung Development Project,2014,7.75,7.33,7.42,7.67,7.42,7.5,10,10,10,7.5,82.58,0.12,0,0,0,m,800,800,800
+641,Arabica,Blue-Green,Washed / Wet,Thailand,chiangrai,"Coffeas Co., Ltd.",2014,7.42,7.58,7.58,7.42,7.58,7.5,10,10,10,7.5,82.58,0.12,0,0,1,m,1400,1500,1450
+642,Arabica,,Washed / Wet,"Tanzania, United Republic Of",ikand village,Tembo Coffee Company Ltd,2014,7.75,7.42,7.33,7.5,7.58,7.5,10,10,10,7.5,82.58,0.12,0,0,1,m,1317,1317,1317
+643,Arabica,Green,Natural / Dry,Uganda,eastern,Sipi organic coffee project,2013,7.83,7.5,7.42,7.58,7.42,7.42,10,10,10,7.42,82.58,0.12,0,0,0,m,1400,1900,1650
+644,Arabica,Green,Washed / Wet,Costa Rica,central valley,VARIOS,2013,7.67,7.42,7.5,7.67,7,7.75,10,10,10,7.58,82.58,0.11,0,0,3,m,1200,1400,1300
+645,Arabica,Green,Washed / Wet,Mexico,veracruz,Huatusco,2014,7.58,7.58,7.42,7.75,7.67,7.67,9.33,10,10,7.58,82.58,0,0,0,11,m,NA,NA,NA
+646,Arabica,Blue-Green,Natural / Dry,Guatemala,,,2012,7.5,7.58,7.42,7.58,7.42,7.58,10,10,10,7.5,82.58,0,0,0,4,m,NA,NA,NA
+647,Arabica,Blue-Green,Washed / Wet,Colombia,huila,varios,2013,7.75,7.25,7.33,7.42,7.5,7.83,10,10,10,7.5,82.58,0.11,0,0,3,m,1750,1750,1750
+648,Arabica,,Washed / Wet,Colombia,huila,varios,2012,7.75,7.5,7.75,7.25,7.33,7.58,10,10,10,7.42,82.58,0.11,0,0,3,m,1750,1750,1750
+649,Arabica,Green,Washed / Wet,Colombia,huila,,2013,7.58,7.5,7.42,7.58,7.67,7.42,10,10,10,7.42,82.58,0.11,0,0,0,m,1750,1750,1750
+650,Arabica,Green,Washed / Wet,Mexico,oaxaca,GUILLERMO ROJAS SALDAÑA,2012,7.5,7.58,7.5,7.5,7.42,7.5,10,10,10,7.58,82.58,0.1,0,0,6,m,1250,1250,1250
+651,Arabica,Green,Washed / Wet,Mexico,colima,FEDERICO ENCISO MICHEL; LEODAN ENCISO FIGUEROA; JAIME LOPEZ LOPEZ,2012,7.67,7.58,7.58,7.75,7.67,6.83,10,10,10,7.5,82.58,0.12,0,0,0,m,1150,1150,1150
+652,Arabica,Green,Washed / Wet,Colombia,huila,LA PLATA,2012,7.33,7.42,7.58,7.42,7.67,7.5,10,10,10,7.67,82.58,0.11,2,0,2,m,1600,1950,1775
+653,Arabica,,,Brazil,south of minas,Mario Garcia Reis Neto,2011,7.58,7.5,7.33,7.75,7.5,7.5,10,10,10,7.42,82.58,0,0,0,4,m,900,1050,975
+654,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola S.A,2017,7.5,7.5,7.5,7.5,7.58,7.5,10,10,10,7.42,82.5,0.11,0,0,4,m,890,890,890
+655,Arabica,Green,Washed / Wet,Indonesia,bali,vary,2017,7.83,7.75,7.25,7.5,7.42,7.33,10,10,10,7.42,82.5,0.11,0,0,5,m,1250,1250,1250
+656,Arabica,Green,Washed / Wet,Honduras,comayagua,Nahun Maldonado,2017,7.58,7.58,7.33,7.5,7.5,7.5,10,10,10,7.5,82.5,0.1,0,0,4,m,1400,1400,1400
+657,Arabica,Green,Washed / Wet,Guatemala,oriente,MARGARITA AVILA DE NUYENS,2016,7.5,7.5,7.33,7.5,7.67,7.5,10,10,10,7.5,82.5,0.1,0,2,2,ft,1219.2,1219.2,1219.2
+658,Arabica,Green,Washed / Wet,Thailand,thailand,Doi Tung Development Project,2014,7.5,7.83,7.5,7.75,7.33,7.42,9.33,10,10,7.83,82.5,0.12,0,0,0,m,800,800,800
+659,Arabica,,Washed / Wet,Thailand,chiangrai,"Coffeas Co., Ltd.",2014,7.33,7.5,7.5,7.5,7.67,7.5,10,10,10,7.5,82.5,0.11,0,0,0,m,1400,1500,1450
+660,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",karatu arusha,Shah Plantations,2014,7.67,7.42,7.33,7.58,7.5,7.5,10,10,10,7.5,82.5,0.12,0,0,1,m,1600,1600,1600
+661,Arabica,Bluish-Green,Washed / Wet,"Tanzania, United Republic Of",moshi,Amkeni Gourmet Coffee Group,2014,7.75,7,7.42,7.58,7.58,7.58,10,10,10,7.58,82.5,0.12,0,0,3,m,NA,NA,NA
+662,Arabica,Green,Washed / Wet,Mexico,chiapas,Santiago & Rosaura Arguello Campos,2013,7.42,7.58,7.5,7.67,7.25,7.5,10,10,10,7.58,82.5,0,0,0,1,m,1500,1700,1600
+663,Arabica,Bluish-Green,Semi-washed / Semi-pulped,Brazil,south of minas,Ipanema Coffees,2013,7.42,7.5,7.67,7.33,7.42,7.67,10,10,10,7.5,82.5,0.11,0,0,0,m,1260,1260,1260
+664,Arabica,Green,Washed / Wet,Guatemala,oriente,"AGRICOLA MONTE VERDE, S.A.",2013,7.83,7.42,7.33,7.67,7.42,7.5,10,10,10,7.33,82.5,0.12,0,0,4,ft,1310.64,1310.64,1310.64
+665,Arabica,Green,Washed / Wet,Colombia,huila,,2013,7.5,7.5,7.42,7.42,7.58,7.58,10,10,10,7.5,82.5,0.11,0,0,1,m,1750,1750,1750
+666,Arabica,Green,Washed / Wet,Guatemala,oriente,MARGARITA DE NUYENS,2013,7.83,7.67,7.17,7.33,7.5,7.67,10,10,10,7.33,82.5,0.11,0,0,0,ft,1310.64,1310.64,1310.64
+667,Arabica,None,Washed / Wet,Mexico,san bartolo tutotepec,"VELASCO SAN AGUSTIN, NAZARIO",2012,7.5,7.58,7.5,7.5,7.42,7.42,10,10,10,7.58,82.5,0.13,0,0,10,m,1679,1679,1679
+668,Arabica,Green,Washed / Wet,Mexico,zapotitlan de mendez,ENRIQUE MITRE LOPEZ,2012,7.67,7.5,7.33,7.67,7.5,7.33,10,10,10,7.5,82.5,0.12,0,0,5,m,1100,1100,1100
+669,Arabica,,Semi-washed / Semi-pulped,Mexico,la concordia,SUSANA LETICIA LOPEZ AGUILAR,2012,7.92,7.5,7.33,7.58,7.25,7.42,10,10,10,7.5,82.5,0.11,0,0,2,m,1650,1650,1650
+670,Arabica,Green,Natural / Dry,Guatemala,oriente,VARIOUS,2012,7.67,7.33,7.33,7.33,7.5,7.83,10,10,10,7.5,82.5,0.11,0,0,5,m,NA,NA,NA
+671,Arabica,Blue-Green,Semi-washed / Semi-pulped,Brazil,carmo de minas,Nazareth Dias Pereira,2012,7.67,7.42,7.33,7.67,7.5,7.5,10,10,10,7.42,82.5,0,0,0,4,m,1250,1250,1250
+672,Arabica,Green,Washed / Wet,Colombia,huila,LA PLATA,2012,7.67,7.5,7.33,7.5,7.25,7.67,10,10,10,7.58,82.5,0.11,1,0,3,m,1600,1950,1775
+673,Arabica,Green,Washed / Wet,United States (Hawaii),kona,,2012,7.33,7.42,7.33,7.75,7.42,7.67,10,10,10,7.58,82.5,0.12,2,0,3,ft,NA,NA,NA
+674,Arabica,,,Guatemala,huehuetenango,,,7.75,7.58,7.67,7.67,7.58,7.58,9.33,10,10,7.33,82.5,0.01,1,0,14,m,1600,1600,1600
+675,Arabica,Green,Washed / Wet,Honduras,"comayagua, honduras",Danilo Carrillo,2017,7.42,7.67,7.17,7.58,7.58,7.5,10,10,10,7.5,82.42,0.12,0,1,6,m,1500,1500,1500
+676,Arabica,Green,Washed / Wet,Guatemala,san marcos,JORGE LEAL,2017,7.58,7.5,7.33,7.75,7.33,7.5,10,10,10,7.42,82.42,0.1,0,1,2,m,1700,1700,1700
+677,Arabica,Green,Washed / Wet,Guatemala,san marcos,ANGEL DE LEON,2016,7.67,7.58,7.25,7.67,7.42,7.33,10,10,10,7.5,82.42,0.12,0,0,0,m,1700,1700,1700
+678,Arabica,Green,Washed / Wet,Guatemala,el progreso,JESUS RAMIREZ,2017,7.58,7.5,7.25,7.67,7.5,7.5,10,10,10,7.42,82.42,0.12,0,0,0,ft,157.8864,157.8864,157.8864
+679,Arabica,Green,Washed / Wet,Guatemala,santa rosa,"PLANTACIONES AGROPECUARIAS, S.A.",2017,7.5,7.42,7.08,7.75,7.67,7.5,10,10,10,7.5,82.42,0.11,0,2,3,m,NA,NA,NA
+680,Arabica,Green,Washed / Wet,Colombia,guayata,,2016,5.08,7.75,7.83,7.75,7.83,8.08,10,10,10,8.08,82.42,0.11,0,0,1,m,1600,1600,1600
+681,Arabica,Green,Washed / Wet,China,yunnan,Menglian Gao Sanlin Coffee Factory,2015,7.67,7.42,7.42,7.5,7.42,7.42,10,10,10,7.58,82.42,0.1,0,0,0,m,1600,1600,1600
+682,Arabica,Green,,Brazil,campos altos - cerrado,,2016,7.42,7.5,7.33,7.5,7.25,7.42,10,10,10,8,82.42,0.11,0,1,0,m,NA,NA,NA
+683,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",arusha meru,GLADNESS OBED PALLANGYO,2015,7.67,7.25,7.42,7.42,7.67,7.42,10,10,10,7.58,82.42,0.13,0,0,7,m,2285,2285,2285
+684,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agrícola SA,2015,7.17,7.83,7.33,7.5,7.75,7.42,10,10,10,7.42,82.42,0,0,0,0,m,1,1,1
+685,Arabica,Green,Washed / Wet,Guatemala,atitlan,UNEX,2013,7.5,7.5,7.5,7.67,7.42,7.5,10,10,10,7.33,82.42,0.1,0,0,0,m,1400,1400,1400
+686,Arabica,Green,Washed / Wet,Mexico,la yerba,AVELINO CHAVEZ REYNA,2014,7.42,7.5,7.42,7.58,7.42,7.5,10,10,10,7.58,82.42,0.11,0,0,0,m,1296,1296,1296
+687,Arabica,Blue-Green,Semi-washed / Semi-pulped,Brazil,south of minas,Betina Vilela Reis,2012,7.58,7.67,7.33,7.5,7.5,7.42,10,10,10,7.42,82.42,0.12,0,0,1,m,1000,1000,1000
+688,Arabica,Green,Washed / Wet,Peru,peru,,2013,7.58,7.58,7.58,7.75,7.5,7.58,9.33,10,10,7.5,82.42,0,0,0,3,m,NA,NA,NA
+689,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Coffees,2013,7.25,7.33,7.25,7.5,7.42,7.5,10,10,10,8.17,82.42,0,0,0,0,m,1260,1260,1260
+690,Arabica,Green,Washed / Wet,Mexico,veracruz,MANUEL HERRERA JUAREZ,2013,7.5,7.58,7.5,7.92,7.42,7.67,9.33,10,10,7.5,82.42,0.12,0,0,0,m,1170,1170,1170
+691,Arabica,None,Washed / Wet,Honduras,,,2012,7.25,7.67,7.42,7.17,7.75,7.5,10,10,10,7.67,82.42,0.09,0,0,2,m,NA,NA,NA
+692,Arabica,Green,Washed / Wet,Colombia,huila,,2013,7.67,7.42,7.33,7.5,7.58,7.5,10,10,10,7.42,82.42,0.11,0,0,9,m,1600,1950,1775
+693,Arabica,Green,Washed / Wet,Mexico,chiapas,EMPERATRIZ GARCIA MUÑOZ,2013,7.5,7.42,7.42,7.67,7.42,7.58,10,10,10,7.42,82.42,0.12,0,0,5,m,1560,1560,1560
+694,Arabica,Green,Semi-washed / Semi-pulped,Mexico,san pedro cotzilnam,VICTOR MANUEL LOPEZ VAZQUEZ,2012,7.42,7.58,7.5,7.42,7.58,7.5,10,10,10,7.42,82.42,0.13,0,0,2,m,1400,1400,1400
+695,Arabica,Green,Washed / Wet,Mexico,coatepec,GIBRAN LEONARDO CERVANTES COVARRUBIAS,2012,7.42,7.58,7.33,7.58,7.5,7.5,10,10,10,7.5,82.42,0.14,0,0,9,m,1300,1300,1300
+696,Arabica,Green,Washed / Wet,Mexico,xalapa,MANUEL HERRERA JUAREZ,2012,7.75,7.33,7.25,7.58,7.58,7.33,10,10,10,7.58,82.42,0.13,0,0,1,m,1170,1170,1170
+697,Arabica,Green,Washed / Wet,Mexico,zihuatanejo de azueta,DARIO FRANCISCO GALEANA SOLIS,2012,7.5,7.58,7.33,7.5,7.5,7.5,10,10,10,7.5,82.42,0.11,0,0,0,m,1300,1300,1300
+698,Arabica,Green,Washed / Wet,Mexico,veracruz,JOSE DANIEL COBILT CASTRO,2012,7.58,7.58,7.17,7.5,7.5,7.5,10,10,10,7.58,82.42,0.14,0,0,6,m,1350,1350,1350
+699,Arabica,Green,Washed / Wet,Mexico,xicotepec de juarez,"ALVARO QUIROS PEREZ, MIGUEL QUIROZ PEREZ",2012,7.58,7.33,7.33,7.58,7.5,7.5,10,10,10,7.58,82.42,0.11,0,0,0,m,1150,1150,1150
+700,Arabica,,Washed / Wet,Mexico,progreso santa rosa teocelo,OLIVIA HERNANDEZ VIRVES,2012,7.67,7.58,7.33,7.42,7.58,7.33,10,10,10,7.5,82.42,0.13,0,0,4,m,1250,1250,1250
+701,Arabica,Bluish-Green,Washed / Wet,Mexico,fln mirador,ROBIN CLEAVER,2012,7.83,7.5,7.42,7.67,7.17,7.33,10,10,10,7.5,82.42,0.12,0,0,0,m,1450,1450,1450
+702,Arabica,,Natural / Dry,Colombia,huila,JAIME PULIDO / ALBINO MAHECHA / FREDDY MENDEZ,2012,7.67,7.33,7.25,7.42,7.5,7.67,10,10,10,7.58,82.42,0,0,0,2,m,442,442,442
+703,Arabica,Blue-Green,Natural / Dry,Brazil,south of minas,Glycia Maria,2012,7.75,7.5,7.42,7.42,7.5,7.42,10,10,10,7.42,82.42,0.11,0,0,2,m,NA,NA,NA
+704,Arabica,Green,Washed / Wet,Colombia,huila,,2011,7.33,7.58,7.17,7.58,7.42,7.58,10,10,10,7.75,82.42,0,0,0,2,m,1750,1750,1750
+705,Arabica,,,Colombia,huila,,2011,7.58,7.25,7.42,7.25,7.58,7.83,10,10,10,7.5,82.42,0.02,0,0,1,m,1750,1750,1750
+706,Arabica,Green,Washed / Wet,Honduras,comayagua,Reinerio Zepeda,2017,7.5,7.58,7.33,7.5,7.42,7.42,10,10,10,7.58,82.33,0.1,0,1,8,m,1396,1396,1396
+707,Arabica,Green,Natural / Dry,Brazil,cerrado,Tulio Taft Bovaretto,2016,7.33,7.5,7.5,7.33,7.5,7.5,10,10,10,7.67,82.33,0.11,0,3,11,m,982,982,982
+708,Arabica,Green,Natural / Dry,Brazil,cerrado,,2016,7.42,7.42,7.42,7.5,7.5,7.58,10,10,10,7.5,82.33,0.11,0,4,14,m,NA,NA,NA
+709,Arabica,Bluish-Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola,2016,7.5,7.5,7.42,7.5,7.42,7.5,10,10,10,7.5,82.33,0.11,0,2,3,m,934,934,934
+710,Arabica,Bluish-Green,Washed / Wet,Costa Rica,tarrazu,Martin Gutierrez,2015,7.75,7.5,7.25,7.25,7.42,7.67,10,10,10,7.5,82.33,0.1,6,1,3,m,1850,1850,1850
+711,Arabica,Green,Washed / Wet,Costa Rica,tarrazu,Johanna,2015,7.75,7.33,7.5,7.5,7.33,7.58,10,10,10,7.33,82.33,0,0,2,0,m,1550,1550,1550
+712,Arabica,Green,Pulped natural / honey,China,xishuangbanna prefecture,Yun Lan Coffee Co. Ltd,2015,7.5,7.58,7.42,7.5,7.42,7.42,10,10,10,7.5,82.33,0.12,0,6,2,m,1580,1580,1580
+713,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agrícola SA,2015,8.25,7.83,7.25,8.33,8.17,8.08,10,6.67,10,7.75,82.33,0.07,0,0,0,m,1268,1268,1268
+714,Arabica,Green,Natural / Dry,Brazil,chapadão de ferro (cerrado mineiro),,2015,7.42,7.5,7.5,7.42,7.5,7.58,10,10,10,7.42,82.33,0.11,0,0,10,m,NA,NA,NA
+715,Arabica,Green,Washed / Wet,Guatemala,huehuetenango,AMANCIO DEL VALLE CARRILLO,2015,7.5,7.42,7.17,7.83,7.5,7.5,10,10,10,7.42,82.33,0.1,0,0,6,ft,1676.4,1676.4,1676.4
+716,Arabica,Green,Washed / Wet,Malawi,mzuzu,Mzuzu Coffee Planters Coop Union,2014,7.33,7.58,7.42,7.58,7.33,7.5,10,10,10,7.58,82.33,0.12,0,0,0,m,1450,1450,1450
+717,Arabica,Blue-Green,Natural / Dry,Brazil,south of minas,Ipanema Agrícola SA,2014,7.75,8.08,7.67,8.08,8.08,8,10,10,6.67,8,82.33,0.11,0,0,0,m,1100,1100,1100
+718,Arabica,Green,Washed / Wet,Guatemala,jalapa,ROBERTO MONTERROSO,2014,7.58,7.67,7.5,7.58,7.75,7.5,9.33,10,10,7.42,82.33,0.12,0,0,3,ft,1524,1524,1524
+719,Arabica,Green,Washed / Wet,Mexico,veracruz,Huatusco,2014,7.33,7.58,7.42,7.5,7.5,7.5,10,10,10,7.5,82.33,0.11,0,0,0,m,NA,NA,NA
+720,Arabica,Green,Washed / Wet,Colombia,antioquia,SEVERAL,2013,7.42,7.33,7.5,7.17,7.08,8.33,10,10,10,7.5,82.33,0.1,0,0,2,m,1300,1300,1300
+721,Arabica,Green,Semi-washed / Semi-pulped,Taiwan,changhua baguashan 彰化市八卦山,Zhang shui sheng 張水勝,2013,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,7.33,82.33,0.11,0,0,0,m,200,200,200
+722,Arabica,Green,Washed / Wet,Taiwan,taichung xinshe 台中市新社區,Lin yu ding 林玉定,2013,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,7.33,82.33,0.11,0,0,0,m,600,600,600
+723,Arabica,Green,Washed / Wet,Guatemala,oriente,ROBERTO MONTERROSO,2013,7.5,7.42,7.58,7.5,7.5,7.58,10,10,10,7.25,82.33,0.12,2,0,1,ft,1310.64,1310.64,1310.64
+724,Arabica,Green,Washed / Wet,Colombia,huila,,2013,7.5,7.42,7.5,7.5,7.5,7.58,10,10,10,7.33,82.33,0,0,0,1,m,1750,1750,1750
+725,Arabica,Green,Washed / Wet,Mexico,"la concordia, chiapas",AGROINDUSTRIAS UNIDAS DE MEXICO SA DE CV,2013,7.67,7.5,7.42,7.5,7.42,7.42,10,10,10,7.42,82.33,0.12,0,0,3,m,1300,1300,1300
+726,Arabica,Green,Washed / Wet,Costa Rica,central valley,,2012,7.92,7.58,7.25,7.75,7.92,7.58,9.33,9.33,10,7.67,82.33,0,0,0,14,m,NA,NA,NA
+727,Arabica,Green,Washed / Wet,Guatemala,jalapa,"CAFE MOLINO MONTERROSO P,J. ROBERTO",2012,7.67,7.5,7.33,7.67,7.5,7.33,10,10,10,7.33,82.33,0.11,0,0,3,ft,1676.4,1828.8,1752.6
+728,Arabica,None,Natural / Dry,Mexico,"jaltocan, hidalgo","SALAZAR HERNANDEZ, ROBERTO",2012,7.58,7.67,7.58,7.33,7,7.58,10,10,10,7.58,82.33,0.15,1,0,8,m,441,441,441
+729,Arabica,Green,Washed / Wet,Mexico,veracruz,MANUEL HERRERA JUAREZ,2012,7.67,7.58,7.5,7.58,7.5,7.5,10,10,10,7,82.33,0.13,0,0,9,m,1170,1170,1170
+730,Arabica,Green,Washed / Wet,Guatemala,oriente,AGROPECUARIA QUIAGRAL,2012,7.5,7.67,7.33,7.5,7.33,7.5,10,10,10,7.5,82.33,0.1,2,0,5,ft,1310.64,1310.64,1310.64
+731,Arabica,Green,Natural / Dry,Brazil,grama valley,José Malagutti,2012,7.58,7.5,7.42,7.5,7.5,7.42,10,10,10,7.42,82.33,0.12,0,0,2,m,1100,1100,1100
+732,Arabica,Green,Washed / Wet,Mexico,santa catarina juquila,MARIA LUISA DELCARMEN ROJAS NARVAEZ,2012,8,7.75,7.33,7.33,7.08,7.67,9.33,10,10,7.83,82.33,0.11,0,0,0,m,1200,1400,1300
+733,Arabica,Green,Washed / Wet,Brazil,south of minas,José Alberto dos Santos,2012,7.58,7.58,7.25,7.58,7.42,7.5,10,10,10,7.42,82.33,0.11,0,0,2,m,950,950,950
+734,Arabica,Green,Natural / Dry,Colombia,huila,JAIME PULIDO / ERMILSON RAMOS,2012,7.83,7.58,7.33,7.25,7.58,7.42,10,10,10,7.33,82.33,0,0,0,0,m,442,442,442
+735,Arabica,Green,Washed / Wet,Brazil,brazil matas de minas,NAGIPE VIANA KLEM,,7.58,7.5,7.25,7.42,7.67,7.33,10,10,10,7.5,82.25,0.09,2,6,10,m,1100,1100,1100
+736,Arabica,Blue-Green,,Taiwan,,林玲美0918232039        ,2016,7,7.08,7,7.17,7,7,10,10,10,10,82.25,0.1,0,0,0,m,NA,NA,NA
+737,Arabica,Green,Washed / Wet,Guatemala,nuevo oriente,PABLO CHUY,2016,7.67,7.5,7.25,7.67,7.42,7.42,10,10,10,7.33,82.25,0.11,0,2,2,m,1450,1450,1450
+738,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agrícola SA,2015,7.42,7.67,7.5,7.08,7.5,7.42,10,10,10,7.67,82.25,0,0,0,9,m,1,1,1
+739,Arabica,Green,Washed / Wet,El Salvador,apaneca,"Tropical Farm Management El Salvador, S.A. de C.V.",2014,7.58,7.67,7.5,7.67,7.83,8.42,9.33,9.33,9.33,7.58,82.25,0.12,0,0,0,m,1500,1500,1500
+740,Arabica,Green,Washed / Wet,Honduras,marcala,Omar Acosta,2015,7.58,7.5,7.42,7.58,7.42,7.42,10,10,10,7.33,82.25,0.11,0,0,2,m,1350,1350,1350
+741,Arabica,Blue-Green,Washed / Wet,Malawi,mzuzu,Mzuzu Coffee Coop Union,2014,7.58,7.42,7.33,7.42,7.58,7.5,10,10,10,7.42,82.25,0.13,0,0,0,m,1180,1180,1180
+742,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agrícola SA,2014,7.75,7.58,7.42,7.42,7.33,7.33,10,10,10,7.42,82.25,0.11,0,0,0,m,1100,1100,1100
+743,Arabica,Green,Washed / Wet,Taiwan,nantou,Lin yu tang 林玉堂,2013,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,7.25,82.25,0.11,0,0,0,m,650,650,650
+744,Arabica,Blue-Green,Washed / Wet,Mexico,veracruz,MARIA DEL ROSARIO IRAIS VALDIVIA ORTIZ,2013,7.58,7.58,7.42,7.42,7.42,7.42,10,10,10,7.42,82.25,0.12,0,0,4,m,1338,1338,1338
+745,Arabica,Bluish-Green,Natural / Dry,United States (Hawaii),kona,,2013,7.33,7.42,7.5,7.67,7.5,7.42,10,10,10,7.42,82.25,0,0,0,1,ft,NA,NA,NA
+746,Arabica,None,Washed / Wet,Mexico,"calnali, hidalgo",FELIX DE LA CRUZ CASIMIRO,2012,7.58,7.58,7.5,7.17,7.42,7.42,10,10,10,7.58,82.25,0.16,3,0,8,m,533,533,533
+747,Arabica,Green,Washed / Wet,Guatemala,antigua,"SIEMBRAS VISION, S.A.",2012,7.5,7.5,7.33,7.58,7.67,7.33,10,10,10,7.33,82.25,0.11,0,0,2,ft,1390.8024,1390.8024,1390.8024
+748,Arabica,Green,Washed / Wet,Mexico,veracruz,MANUEL HERRERA JUAREZ,2012,7.5,7.58,7.42,7.67,7.33,7.42,10,10,10,7.33,82.25,0.13,0,0,3,m,1170,1170,1170
+749,Arabica,Green,Washed / Wet,Mexico,juquila,GUILLERMO ROJAS SALDAÑA,2012,7.67,7.58,7.33,7.5,7.42,7.42,10,10,10,7.33,82.25,0.12,0,0,13,m,1250,1250,1250
+750,Arabica,Green,Washed / Wet,El Salvador,,,2012,7.75,7.33,7.33,7.5,7.5,7.5,10,10,10,7.33,82.25,0,2,0,5,m,NA,NA,NA
+751,Arabica,Green,Washed / Wet,Mexico,veracruz,SERGIO DE LA VEQUIA BERNARDI,2012,7.33,7.58,7.42,7.67,7.33,7.5,10,10,10,7.42,82.25,0.11,0,0,0,m,1100,1100,1100
+752,Arabica,Green,Washed / Wet,Mexico,canoas,COOP,2012,7.42,7.5,7.42,7.58,7.42,7.5,10,10,10,7.42,82.25,0.1,0,0,3,m,900,900,900
+753,Arabica,Green,Washed / Wet,Colombia,huila,,2012,7.5,7.42,7.67,7.33,7.58,7.33,10,10,10,7.42,82.25,0.12,0,0,1,m,1750,1750,1750
+754,Arabica,Green,Washed / Wet,Colombia,huila,La Plata,2012,7.67,7.33,7.33,7.33,7.5,7.5,10,10,10,7.58,82.25,0.11,0,0,0,m,1600,1950,1775
+755,Arabica,Green,Natural / Dry,Brazil,,Carmem Lucia Chaves de Brito,2012,7.67,7.58,7.42,7,7.5,7.58,10,10,10,7.5,82.25,0.12,0,0,1,m,NA,NA,NA
+756,Arabica,,,Colombia,cauca,,,7.17,7.25,7.58,7.25,7.58,7.67,10,10,10,7.75,82.25,0.22,0,0,2,m,NA,NA,NA
+757,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola,2016,7.42,7.42,7.5,7.42,7.42,7.5,10,10,10,7.5,82.17,0.11,0,1,5,m,934,934,934
+758,Arabica,Bluish-Green,Washed / Wet,Honduras,comayagua,Nahun Maldonado,2015,7.5,7.5,7.17,7.42,7.5,7.5,10,10,10,7.58,82.17,0.11,0,1,2,m,1500,1500,1500
+759,Arabica,Green,,Nicaragua,jinotega,MARCIO ALBERTO RIVERA CASTELLON,,7.5,7.5,7.33,7.42,7.5,7.42,10,10,10,7.5,82.17,0.1,0,0,1,m,1000,1000,1000
+760,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",ruvuma,Langiro farm group,2015,7.58,7.42,7.42,7.33,7.5,7.42,10,10,10,7.5,82.17,0.13,1,0,6,m,1500,1800,1650
+761,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",northern,,2015,7.42,7.42,7.42,7.5,7.5,7.33,10,10,10,7.58,82.17,0.12,0,0,1,m,1600,1600,1600
+762,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agrícola SA,2015,6.92,7.58,7.42,7.33,7.83,7.5,10,10,10,7.58,82.17,0,0,0,1,m,1,1,1
+763,Arabica,Bluish-Green,Washed / Wet,Thailand,thailand,Doi Tung Development Project,2014,7.42,7.42,7.17,7.75,7.25,7.67,10,10,10,7.5,82.17,0.12,0,0,0,m,800,800,800
+764,Arabica,Green,Washed / Wet,Honduras,marcala,Omar Acosta,2015,7.67,7.5,7.25,7.42,7.58,7.42,10,10,10,7.33,82.17,0.11,0,0,2,m,1350,1350,1350
+765,Arabica,Blue-Green,Washed / Wet,Guatemala,atitlan,,2014,7.42,7.42,7.5,7.5,7.42,7.5,10,10,10,7.42,82.17,0.09,0,0,4,m,1500,1500,1500
+766,Arabica,Green,Natural / Dry,Brazil,cerrado,,2014,7.58,7.5,7.42,7.25,7.5,7.42,10,10,10,7.5,82.17,0.12,0,0,1,m,NA,NA,NA
+767,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of","ilomba vilage, mbozi",Tembo Coffee Company Ltd,2014,7.75,7.42,7.42,7.58,7.33,7.42,10,10,10,7.25,82.17,0.12,0,0,1,m,1700,1700,1700
+768,Arabica,Green,Washed / Wet,Mexico,veracruz,JOSÉ LUIS ANDRADE SANDARA,2013,7.42,7.33,7.17,7.42,7.33,8.17,10,10,10,7.33,82.17,0.12,0,0,0,m,1100,1100,1100
+769,Arabica,None,Washed / Wet,Mexico,"la concordia, chiapas",Union Ramal Santa Cruz,2013,7.5,7.5,7.33,7.42,7.5,7.42,10,10,10,7.5,82.17,0.1,1,0,1,m,1200,1600,1400
+770,Arabica,Green,Other,Taiwan,yunlin 雲林縣石壁,Guo Zhang Sheng 郭章盛,2014,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,7.17,82.17,0.11,0,0,0,m,1200,1200,1200
+771,Arabica,Green,Washed / Wet,Taiwan,"dongshan dist., tainan city 臺南市東山區",Jufeng-Tseng 曾如楓,2012,7.67,7.5,7.5,7.17,7.17,7.58,10,10,10,7.58,82.17,0,0,0,0,m,800,800,800
+772,Arabica,Bluish-Green,Washed / Wet,Colombia,huila,,2013,7.33,7.25,7.25,7.58,7.75,7.5,10,10,10,7.5,82.17,0,0,0,1,m,1750,1750,1750
+773,Arabica,None,Washed / Wet,Mexico,san bartolo tutotepec,AVILA MARTINEZ ADOLFO,2012,7.5,7.67,7,7.5,7.33,7.5,10,10,10,7.67,82.17,0.15,1,0,9,m,1144,1144,1144
+774,Arabica,None,Washed / Wet,Guatemala,oriente,Several producers,2012,7.25,7.75,7,7.75,8.17,7.75,10,10,9.33,7.17,82.17,0.12,0,0,2,m,1350,1350,1350
+775,Arabica,Green,Washed / Wet,Mexico,altotonga,SALVADOR CARO CARRION,2012,7.5,7.58,7.25,7.5,7.5,7.33,10,10,10,7.5,82.17,0.12,0,0,4,m,1000,1000,1000
+776,Arabica,Green,Washed / Wet,Mexico,colima,"OSCAR TORRES OCHOCA, GENARO MATA CAMBEROS, MANUEL DUARTE MUNGUIA",2012,7,7.67,7.5,7.5,7.42,7.5,10,10,10,7.58,82.17,0.1,0,0,1,m,1200,1200,1200
+777,Arabica,,,Colombia,huila,,2010,7.58,7.67,7.42,7.17,7.17,7.75,10,10,10,7.42,82.17,0.08,0,0,0,m,1800,1800,1800
+778,Arabica,,Washed / Wet,Indonesia,aceh gayo,Various Farms,2017,7.5,7.5,7.42,7.42,7.5,7.42,10,10,10,7.33,82.08,0.15,0,0,3,m,1300,1300,1300
+779,Arabica,Green,Washed / Wet,Colombia,huila,,2016,7.75,7.58,7.42,7.67,7.83,7.58,9.33,9.33,10,7.58,82.08,0,0,7,6,m,NA,NA,NA
+780,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola,2016,7.42,7.58,7.42,7.5,7.42,7.25,10,10,10,7.5,82.08,0.11,0,1,3,m,894,894,894
+781,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agrícola SA,2015,7.25,7.25,7.58,7.58,7.25,7.92,10,10,10,7.25,82.08,0,0,0,1,m,1,1,1
+782,Arabica,Blue-Green,Washed / Wet,Costa Rica,tres rios,JOSE FRANCISCO GONZALEZ,2015,7.75,7.42,7.42,7.25,7.17,7.42,10,10,10,7.67,82.08,0,0,0,0,m,1200,1400,1300
+783,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",kilimanjaro,AMPCG,2014,7.42,7.33,7.42,7.42,7.5,7.58,10,10,10,7.42,82.08,0.12,0,0,5,m,1500,1500,1500
+784,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",ngorogoro,Ngorogoro Convenant Estate,2014,7.42,7.5,7.5,7.33,7.33,7.5,10,10,10,7.5,82.08,0.12,0,0,3,m,1500,1700,1600
+785,Arabica,Green,Washed / Wet,Colombia,,,2013,7.5,7.42,7.42,7.42,7.67,7.42,10,10,10,7.25,82.08,0.11,1,0,0,m,NA,NA,NA
+786,Arabica,Green,Washed / Wet,Costa Rica,turrialba,Cafetalera Aquiares,2013,7.58,7.33,7.33,7.33,7.5,7.67,10,10,10,7.33,82.08,0.11,0,0,2,m,13,13,13
+787,Arabica,Bluish-Green,Natural / Dry,United States (Hawaii),kona,,2012,7.25,7.58,7.58,7.25,7.5,7.42,10,10,10,7.5,82.08,0.11,0,0,0,ft,NA,NA,NA
+788,Arabica,Green,Washed / Wet,Mexico,coatepec,GIBRAN LEONARDO CERVANTES COVARRUBIAS,2012,7.42,7.58,7.5,7.33,7.42,7.42,10,10,10,7.42,82.08,0.13,0,0,7,m,1300,1300,1300
+789,Arabica,Green,Washed / Wet,Mexico,tapachula,ISMAM SAN ISIDRO LABRADOR S. DE S.S.,2012,7.5,7.42,7.42,7.5,7.25,7.5,10,10,10,7.5,82.08,0.13,3,0,13,m,1800,1800,1800
+790,Arabica,Green,Washed / Wet,Mexico,coatepec,ROSA AURORA FALCON FERNANDEZ,2012,7.67,7.5,7.25,7.58,7.42,7.33,10,10,10,7.33,82.08,0.11,0,0,11,m,1250,1250,1250
+791,Arabica,Green,Natural / Dry,Vietnam,don duong,"Apollo Co., LTd.",2012,7.67,8,7.17,7.08,7.67,7.08,10,10,10,7.42,82.08,0.12,0,0,2,m,1040,1040,1040
+792,Arabica,Green,Washed / Wet,Mexico,veracruz,RAMIRO DE LA VEQUIA BERNARDI,2012,7.58,7.42,7.25,7.75,7.33,7.42,10,10,10,7.33,82.08,0.11,0,0,1,m,1250,1250,1250
+793,Arabica,Green,Washed / Wet,United States (Hawaii),kona,,2012,7.33,7.5,7.33,7.58,7.08,7.83,10,10,10,7.42,82.08,0.1,0,0,2,ft,NA,NA,NA
+794,Arabica,,,Colombia,cauca,Carlos Pechene / Jesús Pechene / Flor Chacón,,7.67,7.42,7.67,7.33,7.25,7.58,10,10,10,7.17,82.08,0.08,1,0,5,m,1600,1600,1600
+795,Arabica,Green,Washed / Wet,Honduras,el paraíso,Santos Fonseca,2017,7.5,7.5,7.17,7.5,7.5,7.42,10,10,10,7.42,82,0.12,0,0,1,m,1600,1600,1600
+796,Arabica,Green,Natural / Dry,Honduras,guinope el paraíso,Santos Fonseca,2016,7.5,7.5,7.25,7.33,7.42,7.5,10,10,10,7.5,82,0.1,0,1,7,m,1600,1600,1600
+797,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola,2016,7.5,7.33,7.42,7.5,7.33,7.42,10,10,10,7.5,82,0.11,0,2,3,m,944,944,944
+798,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",kilimanjaro,Mr & Mrs Didas Mallya,2015,7.67,7.33,7.33,7.42,7.42,7.42,10,10,10,7.42,82,0.13,0,0,20,m,1500,1800,1650
+799,Arabica,Blue-Green,Washed / Wet,Laos,lao p.d.r.,HanYong Choi,2015,7.42,7.5,7.25,7.33,7.5,7.5,10,10,10,7.5,82,0.12,0,0,0,m,1250,1250,1250
+800,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",meru,Finca Estate,2014,7.42,7.42,7.33,7.58,7.33,7.42,10,10,10,7.5,82,0.12,0,0,3,m,1300,1400,1350
+801,Arabica,Bluish-Green,Washed / Wet,Malawi,mzuzu,Mzuzu Coffee Coop Union,2014,7.5,7.42,7.33,7.58,7.33,7.5,10,10,10,7.33,82,0.13,0,0,1,m,2500,2500,2500
+802,Arabica,Green,Washed / Wet,Taiwan,"dongshan dist., tainan city 臺南市東山區",Chen Jin Lin 陳金璘,2013,7.33,7.5,7.17,7.42,7.5,7.33,10,10,10,7.75,82,0.09,0,0,0,m,600,600,600
+803,Arabica,Green,Washed / Wet,Thailand,thailand,Doi Tung Development Project,2013,7.58,7.5,7.42,7.42,7.33,7.42,10,10,10,7.33,82,0.11,0,0,0,m,800,800,800
+804,Arabica,Green,Washed / Wet,Costa Rica,central valley,VARIOS,2013,7.5,7.25,7.33,7.33,7.75,7.5,10,10,10,7.33,82,0.1,0,0,4,m,1200,1400,1300
+805,Arabica,Green,Washed / Wet,Honduras,occidental,BSR,2014,7.33,7.33,7.33,7.5,7.5,7.83,10,10,10,7.17,82,0.11,0,0,5,m,1400,1400,1400
+806,Arabica,Green,Washed / Wet,Colombia,huila,,2013,7.33,7.33,7.58,7.5,7.5,7.58,10,10,10,7.17,82,0.11,0,0,1,m,1800,2000,1900
+807,Arabica,Bluish-Green,Washed / Wet,Taiwan,"dongshan dist., tainan city 臺南市東山區","Lin Huang, A-Mien 黃阿綿",2012,7.42,7.58,7.33,7.42,8,7.5,9.33,10,10,7.42,82,0.12,0,0,0,m,600,700,650
+808,Arabica,Blue-Green,Natural / Dry,Brazil,"minas gerais, br",Café do Paraíso,2012,7.33,7.67,7.42,7.17,7.33,7.42,10,10,10,7.67,82,0.11,0,0,0,m,894,1183,1038.5
+809,Arabica,Green,Washed / Wet,Mexico,coscomatepec,JORGE OCTAVIO ESCAMILLA PRADO,2012,7.67,7.33,7.25,7.5,7.42,7.42,10,10,10,7.42,82,0.12,0,0,1,m,940,940,940
+810,Arabica,Green,Natural / Dry,Brazil,south of minas,Vander Bonaccorsi,2012,7.42,7.5,7.33,7.5,7.33,7.5,10,10,10,7.42,82,0.12,0,0,1,m,1000,1000,1000
+811,Arabica,Blue-Green,Semi-washed / Semi-pulped,Brazil,cerrado,José Hiroiti,2012,7.42,7.5,7.25,7.5,7.5,7.42,10,10,10,7.42,82,0.11,0,0,1,m,1050,1050,1050
+812,Arabica,Green,Natural / Dry,Guatemala,san marcos,PAUL STAUDER,2012,7.33,7.33,7.33,7.5,7.67,7.67,10,10,10,7.17,82,0.11,0,0,3,m,NA,NA,NA
+813,Arabica,Green,Semi-washed / Semi-pulped,Brazil,south of minas,Maria da Gloria Junqueira,2012,7.58,7.5,7.17,7.5,7.5,7.42,10,10,10,7.33,82,0.12,0,0,2,m,950,950,950
+814,Arabica,Green,Washed / Wet,Guatemala,oriente,Conquista/Morito,2012,7.75,7.33,7.33,7.42,7.75,7.67,10,10,9.33,7.42,82,0,0,0,10,ft,1402.08,1402.08,1402.08
+815,Arabica,,,Colombia,huila,"Grupo Monserrate, La Plata",Mayo a Julio,7.33,7,7.08,7.42,7.5,7.67,10,10,10,8,82,0.07,0,0,2,m,1600,1950,1775
+816,Arabica,Green,Washed / Wet,Guatemala,oriente,"AGRICOLA EL PILAR, S.A.",2017,7.58,7.5,7.25,7.58,7.58,7.5,9.33,10,10,7.58,81.92,0.1,0,0,1,m,1901,1901,1901
+817,Arabica,Green,Washed / Wet,Guatemala,santa rosa,OTTO BECKER,2017,7.5,7.5,7.25,7.42,7.42,7.42,10,10,10,7.42,81.92,0.11,0,2,0,ft,1219.2,1219.2,1219.2
+818,Arabica,Green,Washed / Wet,Honduras,comayagua,Reinerio Zepeda,2017,7.58,7.5,7.25,7.33,7.42,7.5,10,10,10,7.33,81.92,0.12,0,0,1,m,1400,1400,1400
+819,Arabica,Green,Natural / Dry,Brazil,monte carmelo,Múcio Cardoso,2016,7.42,7.33,7.33,7.5,7.5,7.33,10,10,10,7.5,81.92,0.11,0,0,4,m,1020,1020,1020
+820,Arabica,Green,Washed / Wet,El Salvador,"el balsamo, quezaltepec","Comercial Exportadora, S.A. de C.V.",2014,7.67,7.58,7.33,7.5,7.5,7.67,10,10,9.33,7.33,81.92,0.11,0,0,2,m,1250,1250,1250
+821,Arabica,Green,Washed / Wet,Guatemala,nuevo oriente,OVIDIO CARDONA,2015,7.58,7.58,7.17,7.83,7.17,7.33,10,10,10,7.25,81.92,0.11,0,0,7,m,1300,1800,1550
+822,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",mbeya,Mcomafa,2014,7.33,7.33,7.33,7.42,7.5,7.58,10,10,10,7.42,81.92,0.12,0,0,4,m,1877,1877,1877
+823,Arabica,Green,Washed / Wet,Nicaragua,,,2013,7.58,7.42,7.25,7.17,7.5,7.67,10,10,10,7.33,81.92,0.12,3,0,4,m,NA,NA,NA
+824,Arabica,,Washed / Wet,Zambia,mubuyu estate,,2014,7.67,7.08,7.42,7.33,7.75,7.42,10,10,10,7.25,81.92,0,1,0,3,m,1000,1500,1250
+825,Arabica,Green,Washed / Wet,Honduras,,,2012,7.42,7.33,7.33,7.58,7.33,7.5,10,10,10,7.42,81.92,0.11,0,0,0,m,NA,NA,NA
+826,Arabica,Green,Other,Taiwan,taichung xinshe 台中市新社區,Chen gui jiao 陳桂嬌,2012,7.5,7.5,7.42,7.25,7.5,7.5,10,10,10,7.25,81.92,0.11,0,0,0,m,1000,1000,1000
+827,Arabica,Green,Washed / Wet,Mexico,chiapas,VARIOS PRODUCTORES,2013,7.58,7.5,7.25,7.58,7.5,7.25,10,10,10,7.25,81.92,0.12,0,0,6,m,1300,1300,1300
+828,Arabica,None,Semi-washed / Semi-pulped,Mexico,"chapulhuacan, hidalgo","PONCE RUBIO, VENANCIO",2012,7.5,7.5,7.25,7.25,7.5,7.5,10,10,10,7.42,81.92,0.13,2,0,7,m,981,981,981
+829,Arabica,None,Washed / Wet,Mexico,"huazalingo, hidalgo","FRANCISCO SAENZ, FERNANDO",2012,7.5,7.42,7.25,7.5,7.33,7.33,10,10,10,7.58,81.92,0.14,2,0,8,m,690,690,690
+830,Arabica,Green,Washed / Wet,Mexico,veracruz,JUAN HERMILIO SAMPIERI CARCAMO,2012,7.33,7.58,7.17,7.58,7.42,7.33,10,10,10,7.5,81.92,0.12,0,0,4,m,1650,1650,1650
+831,Arabica,Green,Washed / Wet,Mexico,fortín de las flores,MODESTO LANDEROS FLORES,2012,7.67,7.42,7.33,7.83,7.5,7.5,9.33,10,10,7.33,81.92,0.12,0,0,0,m,1000,1000,1000
+832,Arabica,Green,Natural / Dry,Brazil,grama valley,Fioravante Malagutti,2012,7.42,7.58,7.25,7.5,7.33,7.5,10,10,10,7.33,81.92,0.12,0,0,3,m,1100,1100,1100
+833,Arabica,,,Colombia,cundinamarca,Exportadora de Café Cóndor S.A,2010,7.67,7.33,7.33,7.58,7.33,7.33,10,10,10,7.33,81.92,0.09,0,0,1,m,1600,1600,1600
+834,Arabica,Green,Washed / Wet,Guatemala,oriente,JESUS RAMIREZ,2017,7.42,7.5,7.25,7.5,7.33,7.42,10,10,10,7.42,81.83,0.1,1,0,1,ft,157.8864,157.8864,157.8864
+835,Arabica,Green,Pulped natural / honey,Costa Rica,tarrazu,Manuel Montero,2016,7.25,7.33,7.5,7.33,7.67,7.42,10,10,10,7.33,81.83,0,1,0,4,m,1900,1900,1900
+836,Arabica,Green,Natural / Dry,Brazil,monte carmelo,Helena Pingnatti Ricci,2016,7.42,7.5,7.42,7.5,7.42,7.25,10,10,10,7.33,81.83,0.11,0,1,3,m,973,973,973
+837,Arabica,Green,Other,Indonesia,bali,MUDAR,2015,7.75,7.83,7.58,7.75,7.92,7.83,10,10,10,5.17,81.83,0.11,0,1,0,m,1250,1250,1250
+838,Arabica,Green,Washed / Wet,Guatemala,norte,CHAPULTEPEC,2015,7.58,7.5,7.33,7.42,7.58,7.25,10,10,10,7.17,81.83,0.1,2,0,6,m,3280,3280,3280
+839,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agrícola SA,2015,7.17,7.58,6.83,7.5,7.75,7.25,10,10,10,7.75,81.83,0,0,0,1,m,1,1,1
+840,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agrícola SA,2015,7.58,7,6.92,6.92,7.67,7.5,10,10,10,8.25,81.83,0,0,0,0,m,1,1,1
+841,Arabica,Green,Washed / Wet,Myanmar,ywar ngan,U Mg Mg,2015,7.33,7.58,7.5,7.42,7.33,7.33,10,10,10,7.33,81.83,0,0,0,2,m,4001,4001,4001
+842,Arabica,Green,Washed / Wet,Mexico,chiapas,MARTINIANO A. MORENO ALVARADO,2015,7.58,7.5,7.33,7.5,7.17,7.33,10,10,10,7.42,81.83,0.11,0,0,7,m,1350,1500,1425
+843,Arabica,Green,Washed / Wet,Honduras,marcala,JOSE OMAR ACOSTA,2015,7.5,7.5,7.33,7.5,7.42,7.25,10,10,10,7.33,81.83,0.12,0,0,1,m,1400,1400,1400
+844,Arabica,Green,Washed / Wet,Costa Rica,tres rios,JOSE FRANCISCO GONZALEZ,2015,7.67,7.5,7.5,7.25,7.08,7.42,10,10,10,7.42,81.83,0.09,0,0,0,m,1200,1400,1300
+845,Arabica,Green,Washed / Wet,Taiwan,"dongshan dist., tainan city 臺南市東山區",LIN SIN JI 林信吉,2014,7.67,7.33,7.17,7.25,7.75,7.33,10,10,10,7.33,81.83,0,0,0,0,m,700,700,700
+846,Arabica,None,Other,Indonesia,lington nihuta,,2014,7.42,7.42,7.42,7.33,7.42,7.42,10,10,10,7.42,81.83,0.11,2,0,6,m,1300,1300,1300
+847,Arabica,Green,Washed / Wet,Malawi,kakoma,Mzuzu Coffee Coop Union,2014,7.58,7.42,7.33,7.33,7.33,7.42,10,10,10,7.42,81.83,0.13,0,0,0,m,1556,1556,1556
+848,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agrícola SA,2014,7.33,7.58,7.25,7.17,7.83,7.33,10,10,10,7.33,81.83,0.11,0,0,0,m,1100,1100,1100
+849,Arabica,Green,Natural / Dry,Honduras,comayagua,"Tomás Sosa, Juan Damaso",2014,7.5,7.5,7.33,7.33,7.33,7.33,10,10,10,7.5,81.83,0.1,0,0,4,m,1350,1350,1350
+850,Arabica,Green,Washed / Wet,Mexico,"siltepec el triunfo, chiapas, mexico",various small producers,2014,7.42,7.42,7.25,7.5,7.33,7.42,10,10,10,7.5,81.83,0.11,0,0,0,m,1550,1550,1550
+851,Arabica,Bluish-Green,Washed / Wet,Colombia,huila,LA PLATA,2013,7.5,7.5,7,7.42,7.5,7.58,10,10,10,7.33,81.83,0,2,0,0,m,1600,1950,1775
+852,Arabica,Bluish-Green,Natural / Dry,United States (Hawaii),kona,,2012,7.83,7.83,7.83,8,7.83,7.83,10,6.67,10,8,81.83,0,1,0,1,ft,NA,NA,NA
+853,Arabica,Bluish-Green,Semi-washed / Semi-pulped,Brazil,sul de minas,NAZARETH DIAS PEREIRA,2012,7.75,7.75,7.5,7.42,7.83,7.75,9.33,9.33,9.33,7.83,81.83,0.12,0,0,0,m,1250,1250,1250
+854,Arabica,Green,Washed / Wet,Guatemala,oriente,LUIS RODRIGUEZ,2013,7.83,7.67,7.33,7.33,7.67,7.83,9.33,10,9.33,7.5,81.83,0.11,0,0,1,ft,1310.64,1310.64,1310.64
+855,Arabica,Green,Washed / Wet,Mexico,veracruz,MARIA MAGDALENA LUETHJE Y GRIS,2012,7.83,7.33,7.25,7.58,7.25,7.33,10,10,10,7.25,81.83,0.12,0,0,2,m,1500,1500,1500
+856,Arabica,Green,Semi-washed / Semi-pulped,Mexico,coatepec,JORGE FRANCISCO MARTINEZ HACHITY,2012,7.33,7.33,7.25,7.5,7.5,7.5,10,10,10,7.42,81.83,0.12,0,0,10,m,1250,1250,1250
+857,Arabica,,,Brazil,cerrado,Marilsa de Fatima Peternela,2011,7.33,7.67,7.25,7.5,7.5,7.25,10,10,10,7.33,81.83,0.02,0,0,2,m,900,950,925
+858,Arabica,,,Colombia,huila,,2011,7.58,7.5,7.17,7.58,7.33,7.33,10,10,10,7.33,81.83,0.05,0,0,0,m,1600,1800,1700
+859,Arabica,,,United States (Hawaii),kona,,,7.25,7.58,7.83,7.67,7.75,7.75,9.33,9.33,10,7.33,81.83,0.02,3,0,12,ft,NA,NA,NA
+860,Arabica,Green,Washed / Wet,Guatemala,san marcos,ANGEL DE LEON,2017,7.5,7.5,7.25,7.42,7.42,7.33,10,10,10,7.33,81.75,0.11,0,1,1,m,1700,1700,1700
+861,Arabica,Bluish-Green,Washed / Wet,Vietnam,vietnam,Richard Yeh,2014,7,7.08,7.33,7.5,7.5,7.33,10,10,10,8,81.75,0.12,0,0,0,m,1040,1040,1040
+862,Arabica,Bluish-Green,Washed / Wet,"Tanzania, United Republic Of",ngorogoro,Ngorogoro Convenant Estate,2014,7.42,7.42,7.42,7.42,7.33,7.33,10,10,10,7.42,81.75,0.12,0,0,4,m,1500,1700,1600
+863,Arabica,Bluish-Green,Natural / Dry,Brazil,,,2013,7.17,7.25,7.17,7.25,7.42,8.25,10,10,10,7.25,81.75,0.1,0,0,1,m,NA,NA,NA
+864,Arabica,None,Washed / Wet,Mexico,"tenango de doria, hidalgo","PEREZ LEMUS, FELIX",2012,7.5,7.5,7.33,7.42,7.25,7.25,10,10,10,7.5,81.75,0.13,2,0,9,m,774,774,774
+865,Arabica,Green,Washed / Wet,Mexico,tepictla,SERGIO LANDA ALARCON,2012,7.42,7.5,7.17,7.67,7.33,7.42,10,10,10,7.25,81.75,0.13,0,0,23,m,1250,1250,1250
+866,Arabica,Green,Washed / Wet,Mexico,oaxaca,"CENEN TORRES CORTES, AVELINO TORES CORTES, JUAN VENTURA GUZMAN",2012,7.42,7.5,7.33,7.58,7.33,7.33,10,10,10,7.25,81.75,0.11,0,0,1,m,1100,1100,1100
+867,Arabica,Green,Washed / Wet,Mexico,la concordia,ARMANDO LUIS POHLENZ MARTINEZ,2012,7.33,7.42,7.33,7.67,7.42,7.25,10,10,10,7.33,81.75,0.12,10,0,14,m,1550,1550,1550
+868,Arabica,,Washed / Wet,Mexico,la concordia,GRACIELA AGUILAR PERALTA,2012,7.5,7.42,7.25,7.33,7.67,7.25,10,10,10,7.33,81.75,0.12,0,0,1,m,1650,1650,1650
+869,Arabica,Green,Washed / Wet,Colombia,huila,,2011,7.33,7.42,7.33,7.33,7.5,7.67,10,10,10,7.17,81.75,0,0,0,1,m,1750,1750,1750
+870,Arabica,,,Colombia,huila,La Plata,Mayo a Julio,7.42,7.58,6.92,7.08,7.25,8,10,10,10,7.5,81.75,0.08,0,0,0,m,1600,1950,1775
+871,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola S.A,2017,7.42,7.5,7.25,7.5,7.5,7.25,10,10,10,7.25,81.67,0.11,0,0,5,m,890,890,890
+872,Arabica,Green,Washed / Wet,Guatemala,san marcos,ANGEL DE LEON,2017,7.42,7.42,7.08,7.42,7.33,7.42,10,10,10,7.58,81.67,0.1,0,0,1,m,1700,1700,1700
+873,Arabica,Green,Washed / Wet,Guatemala,santa rosa,JESUS RAMIREZ,2017,7.42,7.33,7.17,7.67,7.33,7.42,10,10,10,7.33,81.67,0.12,0,1,3,ft,1219.2,1219.2,1219.2
+874,Arabica,Blue-Green,Washed / Wet,Honduras,marcala,JOSE OMAR ACOSTA,2016,7.58,7.5,7.33,7.33,7.42,7.25,10,10,10,7.25,81.67,0.11,0,0,2,m,1450,1450,1450
+875,Arabica,Green,,"Tanzania, United Republic Of",mbinga,Ngima Amcos,2016,7.17,7.33,7.33,7.42,7.5,7.33,10,10,10,7.58,81.67,0,0,0,1,m,1800,1800,1800
+876,Arabica,Green,,Nicaragua,jinotega,Rolando Lacayo Cardenal,,7.58,7.5,7.25,7.25,7.5,7.25,10,10,10,7.33,81.67,0.1,0,0,1,m,NA,NA,NA
+877,Arabica,,,Colombia,la plata,,2016,7.75,7.75,7.75,7.67,5.25,7.83,10,10,10,7.67,81.67,0,0,1,1,m,NA,NA,NA
+878,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agrícola SA,2015,7.25,7.75,6.92,7.42,7.5,7.58,10,10,10,7.25,81.67,0,0,0,0,m,1,1,1
+879,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",mbinga,DAE Ltd,2014,7.42,7.33,7.25,7.42,7.5,7.42,10,10,10,7.33,81.67,0.12,0,0,0,m,1200,1800,1500
+880,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of","ilomba vilage, mbozi",Tembo Coffee Company Ltd,2013,7.33,7.33,7.5,7.25,7.42,7.33,10,10,10,7.5,81.67,0.12,0,0,7,m,1700,1700,1700
+881,Arabica,Green,Washed / Wet,Brazil,south of minas,Ipanema Agrícola SA,2014,7.25,7.42,7.25,7.5,7.5,7.42,10,10,10,7.33,81.67,0.1,0,0,2,m,1260,1260,1260
+882,Arabica,Bluish-Green,Semi-washed / Semi-pulped,Indonesia,bener meriah,,2013,7.17,7.42,7.33,7.42,7.33,7.42,10,10,10,7.58,81.67,0.11,0,0,0,m,NA,NA,NA
+883,Arabica,Green,Natural / Dry,Honduras,comayagua,"Tomás Sosa, Juan Damaso",2014,7.5,7.33,7.5,7.5,7.17,7.17,10,10,10,7.5,81.67,0.1,0,0,5,m,1400,1400,1400
+884,Arabica,Green,Washed / Wet,Costa Rica,tarrazu,Martin Gutierrez,2013,7.5,7.17,7.17,7.17,7.5,7.08,10,10,10,8.08,81.67,0.11,0,0,3,m,1850,1850,1850
+885,Arabica,Green,Washed / Wet,Mexico,veracruz,Huatusco,2014,7.42,7.42,7.67,8,7.58,7.5,9.33,9.33,10,7.42,81.67,0,0,0,4,m,NA,NA,NA
+886,Arabica,Green,Semi-washed / Semi-pulped,Taiwan,changhua baguashan 彰化市八卦山,Zhang ming fu 張明福,2013,7.5,7.5,7.5,7.25,7.42,7.25,10,10,10,7.25,81.67,0.11,0,0,0,m,150,150,150
+887,Arabica,Green,Washed / Wet,Taiwan,nantou,Wu cai jin 吳蔡錦,2013,7.58,7.42,7.33,7.42,7.33,7.33,10,10,10,7.25,81.67,0.11,0,0,0,m,750,750,750
+888,Arabica,Green,Washed / Wet,Mexico,"la concordia, chiapas",UNION RAMAL SANTA CRUZ,2013,7.5,7.42,7.08,7.58,7.33,7.33,10,10,10,7.42,81.67,0.12,0,0,6,m,1400,1400,1400
+889,Arabica,Green,Washed / Wet,Guatemala,jalapa,"CAFE MOLINO MONTERROSO P,J. ROBERTO",2012,7.5,7.67,7.33,7.33,7.33,7.33,10,10,10,7.17,81.67,0.11,0,0,4,ft,1676.4,1828.8,1752.6
+890,Arabica,Green,Washed / Wet,Mexico,tuxtla gutierrez,PRODUCTORA AGRICOLA Y GANADERA FINCA LA SUIZA,2012,7.25,7.67,7.58,7.67,7.67,7.58,8.67,10,10,7.58,81.67,0.13,1,0,13,m,1650,1650,1650
+891,Arabica,Green,Washed / Wet,Mexico,yajalon,MAYA BINIK,2012,7.67,7.25,7.17,7.75,7.5,7.25,10,10,10,7.08,81.67,0.11,0,0,4,m,1400,1400,1400
+892,Arabica,Green,Washed / Wet,Mexico,veracruz,CESAR SANTIZ LOPEZ,2012,7.5,7.42,7.33,7.42,7.42,7.42,10,10,10,7.17,81.67,0.11,0,0,2,m,1200,1200,1200
+893,Arabica,Green,Washed / Wet,Mexico,"la concordia, chiapas",OCTAVIO MOGUEL FARRERA,2012,7.58,7.42,7.25,7.58,7.25,7.17,10,10,10,7.42,81.67,0.11,0,0,2,m,1400,1400,1400
+894,Arabica,Green,Semi-washed / Semi-pulped,Mexico,"sacún palma, municipio de chilón, chiapas",ARMANDO GUTIEREZ GUZMÁN,2012,7.75,7.58,7.25,7.17,7.58,7.33,9.33,10,10,7.67,81.67,0.11,0,0,4,m,940,940,940
+895,Arabica,Green,Washed / Wet,United States (Hawaii),kona,,2012,7.42,7.33,7.33,7.33,7.17,7.83,10,10,10,7.25,81.67,0.1,1,0,1,ft,NA,NA,NA
+896,Arabica,Blue-Green,Washed / Wet,Honduras,western region,Cafes Finos de Corquin,2018,7.5,7.42,7.08,7.42,7.5,7.33,10,10,10,7.33,81.58,0.11,0,1,3,m,1200,1200,1200
+897,Arabica,Green,Washed / Wet,Guatemala,huehuetenango,"AGRICOLA EL PILAR, SA.",2017,7.42,7.42,7.08,7.5,7.42,7.33,10,10,10,7.42,81.58,0.12,0,0,0,m,190164,190164,190164
+898,Arabica,Blue-Green,Washed / Wet,Taiwan,natou county,蘇晉寬 Su Jin Kuan,2016,7.42,7.42,7.25,7.67,7.33,7.25,10,10,10,7.25,81.58,0.1,0,0,0,m,800,800,800
+899,Arabica,Green,Washed / Wet,Costa Rica,turrialba,Cafetalera Aquiares,2015,7.58,7.42,7.5,7.17,7.08,7.58,10,10,10,7.25,81.58,0.12,0,0,1,m,13,13,13
+900,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of","oldeani , mongola",Acacia Hills Ltd,2014,7.42,7.42,7.33,7.42,7.42,7.33,10,10,10,7.25,81.58,0.12,0,0,5,m,1800,1800,1800
+901,Arabica,Green,Washed / Wet,Malawi,mzuzu,Mzuzu Coffee Coop Union,2014,7.42,7.42,7.17,7.58,7.33,7.33,10,10,10,7.33,81.58,0.13,0,0,0,m,1100,1100,1100
+902,Arabica,,Semi-washed / Semi-pulped,Taiwan,natou county,CHIU WEI LUN 邱偉倫,2014,7.33,7.17,7.08,7.08,8.33,8.25,10,10,9.33,7,81.58,0,0,0,0,m,850,850,850
+903,Arabica,Blue-Green,Washed / Wet,Brazil,south of minas,Ipanema Coffees,2013,7.42,7.42,7.33,7.33,7.5,7.25,10,10,10,7.33,81.58,0.12,0,0,3,m,1260,1260,1260
+904,Arabica,Green,Washed / Wet,Guatemala,oriente,ROBERTO MONTERROSO,2013,7.42,7.33,7.17,7.58,7.42,7.5,10,10,10,7.17,81.58,0.12,0,0,1,ft,1310.64,1310.64,1310.64
+905,Arabica,Green,Washed / Wet,Mexico,"la concordia, chiapas",UNION RAMAL SANTA CRUZ,2013,7.67,7.5,7.42,7.5,6.75,7.42,10,10,10,7.33,81.58,0.12,0,0,9,m,1400,1400,1400
+906,Arabica,,Natural / Dry,Mexico,la concordia,LUIS ANTONIO LOPEZ AGUILAR,2012,7.33,7.5,7.25,7.5,7.5,7.17,10,10,10,7.33,81.58,0.11,0,0,0,m,1600,1600,1600
+907,Arabica,,Natural / Dry,Mexico,la concordia,ENRIQUE EDUARDO LOPEZ AGUILAR,2012,7.67,7.58,7.42,7.58,7.58,7.42,10,10,8.67,7.67,81.58,0.11,0,0,2,m,1650,1650,1650
+908,Arabica,,,Thailand,"doi chaang village, chiang rai, thialand",Doi Chaang Community Enterprise Piko,2011,7.08,7.33,7.58,7.58,7.17,7.5,10,10,10,7.33,81.58,0.01,0,0,0,ft,1499.9208,1499.9208,1499.9208
+909,Arabica,,,Thailand,,,2011,7.33,7.33,7.17,7.5,7.58,7.33,10,10,10,7.33,81.58,0.2,0,0,0,m,NA,NA,NA
+910,Arabica,,,Costa Rica,tarrazu,CoopeTarrazu,,7.25,7.17,7.33,7.33,7.5,7.75,10,10,10,7.25,81.58,0,0,0,1,ft,1371.6,1828.8,1600.2
+911,Arabica,Green,Washed / Wet,Guatemala,santa rosa,OTTO BECKER,2017,7.67,7.58,7.17,7.42,7.33,7.42,9.33,10,10,7.58,81.5,0.1,0,0,0,ft,1219.2,1219.2,1219.2
+912,Arabica,Green,Other,Nicaragua,jalapa,Teófilo Narváez :,2017,7.5,7.42,7.33,7.33,7.25,7.33,10,10,10,7.33,81.5,0.11,0,0,3,m,1100,1100,1100
+913,Arabica,Green,Washed / Wet,Honduras,comayagua,NAHUN MALDONADO,2017,7.5,7.5,7.33,7.42,7.17,7.25,10,10,10,7.33,81.5,0.1,0,0,5,m,1400,1400,1400
+914,Arabica,Green,,Guatemala,santa rosa,AGRICOLA MONTE VERDE,2017,7.5,7.42,7.25,7.25,7.5,7.25,10,10,10,7.33,81.5,0.12,0,0,0,m,NA,NA,NA
+915,Arabica,Green,Natural / Dry,Taiwan,古坑鄉荷包村尖山坑60號,劉易騰,2015,7.5,7.42,7.33,7.08,7.58,7.25,10,10,10,7.33,81.5,0.12,0,0,2,m,160,200,180
+916,Arabica,Green,Washed / Wet,Myanmar,ywar ngan township,Genius Coffee Estate,2015,7.25,7.42,7.25,7.5,7.33,7.33,10,10,10,7.42,81.5,0,0,0,4,ft,1219.2,1219.2,1219.2
+917,Arabica,Green,Washed / Wet,Costa Rica,occidental,Beneficio la Eva S.A.,2014,7.83,7.33,7.08,7.08,7.33,7.5,10,10,10,7.33,81.5,0.12,1,0,2,m,1200,1200,1200
+918,Arabica,Green,Washed / Wet,Malawi,mzuzu,Mzuzu Coffee Coop Union        ,2014,7.67,7.42,6.92,7.5,7.5,7.17,10,10,10,7.33,81.5,0.12,0,0,0,m,1599,1599,1599
+919,Arabica,Green,Washed / Wet,Guatemala,oriente,VARIOS,2014,7.5,7.42,7.17,7.58,7.25,7.42,10,10,10,7.17,81.5,0.12,0,0,0,ft,1219.2,1219.2,1219.2
+920,Arabica,Blue-Green,Washed / Wet,Taiwan,natou county,HUANG MEI TAO 黃美桃        ,2014,7.42,7.33,7.67,7.33,7.42,7.5,10,10,9.33,7.5,81.5,0.11,0,0,0,m,900,900,900
+921,Arabica,Green,Semi-washed / Semi-pulped,Brazil,sul de minas,MARIA ROGERIA COSTA PEREIRA,2014,7.58,7.5,7.5,7.67,7.67,7.83,9.33,9.33,9.33,7.75,81.5,0,1,0,1,m,1200,1200,1200
+922,Arabica,Bluish-Green,Washed / Wet,Haiti,"dondon, haiti",Mixed,2013,7.42,7.33,7.25,7.42,7.42,7.33,10,10,10,7.33,81.5,0.11,0,0,0,m,400,1250,825
+923,Arabica,Green,Other,Taiwan,taichung xinshe 台中市新社區,Xu yuan zhang 徐源漳,2014,7.5,7.42,7.25,7.25,7.33,7.33,10,10,10,7.42,81.5,0.11,0,0,0,m,600,600,600
+924,Arabica,Green,Washed / Wet,Mexico,"la concordia, chiapas",AGROINDUSTRIAS UNIDAS DE MEXICO SA DE CV,2013,7.33,7.33,7.17,7.42,7.5,7.5,10,10,10,7.25,81.5,0.13,0,0,2,m,1150,1150,1150
+925,Arabica,Green,Washed / Wet,Mexico,amatenango de la frontera,JORGE HERNANDEZ MONTEJO,2012,7.58,7.42,7.25,7.42,7.33,7.33,10,10,10,7.17,81.5,0.12,0,0,5,m,1600,1600,1600
+926,Arabica,Green,Washed / Wet,Mexico,temaxcalapa,ZENOBIO MARTINEZ CANO,2012,7.42,7.25,7.17,7.42,7.17,8,10,10,10,7.08,81.5,0.12,0,0,10,m,1100,1100,1100
+927,Arabica,Green,Semi-washed / Semi-pulped,Mexico,manzanillo,MANUEL DUARTE MUNGUIA,2012,7.33,7.5,7.33,7.33,7.33,7.42,10,10,10,7.25,81.5,0.11,0,0,6,m,1000,1000,1000
+928,Arabica,Green,Washed / Wet,Mexico,tapachula,TOMAS EDELMANN BLASS,2012,7.42,7.42,7.33,7.17,7.25,7.42,10,10,10,7.5,81.5,0.13,0,0,5,m,1250,1250,1250
+929,Arabica,Green,Natural / Dry,Mexico,atoyac de alvarez,MARIA DE LA PAZ AGUILAR GUILLEN,2012,7.5,7.5,7.25,7.5,7.42,7.58,9.33,10,10,7.42,81.5,0.11,0,0,3,m,1100,1100,1100
+930,Arabica,Green,Washed / Wet,Indonesia,ijen,PT. Perkebunan Nusantara XII,2012,7.75,7.17,7.17,7.33,7.58,7.33,10,10,10,7.17,81.5,0.12,0,0,0,m,1200,1600,1400
+931,Arabica,Blue-Green,Semi-washed / Semi-pulped,Brazil,sul de minas,Nazareth Dias Pereira,2012,7.5,7.42,7.17,7.42,7.5,7.33,10,10,10,7.17,81.5,0.12,0,0,2,m,125,125,125
+932,Arabica,Green,Washed / Wet,Guatemala,oriente,CHIQUIMULJA / ALPHA CAFE / SENFRO,2012,7.33,7.5,7.33,7.42,7.17,7.33,10,10,10,7.42,81.5,0.11,0,0,1,m,NA,NA,NA
+933,Arabica,,,Colombia,cauca,,2011,7.42,7.42,7.17,7.42,7.42,7.33,10,10,10,7.33,81.5,0.06,1,0,0,m,1050,1850,1450
+934,Arabica,,,United States (Hawaii),kona,,,7.33,7.33,7.33,7.5,7.5,7.83,9.33,10,10,7.33,81.5,0,0,0,17,ft,NA,NA,NA
+935,Arabica,Green,Washed / Wet,Mexico,veracruz,Cafes tomari sa de cv,2017,7.58,7.33,7.08,7.33,7.5,7.33,10,10,10,7.25,81.42,0.12,1,5,17,m,1100,1100,1100
+936,Arabica,Green,Washed / Wet,Guatemala,san marcos,"AGRICOLA NUEVA GRANADA, S.A.",2016,7.42,7.33,7.08,7.58,7.33,7.25,10,10,10,7.42,81.42,0.1,0,0,0,ft,1371.6,1371.6,1371.6
+937,Arabica,Green,Natural / Dry,Brazil,cerrado,INACIO URBAN,2015,7.33,7.5,7.5,7.33,6.83,7.42,10,10,10,7.5,81.42,0.11,0,0,2,m,1100,1100,1100
+938,Arabica,Green,Washed / Wet,Honduras,marcala,Jose Omar Acosta,2015,7.5,7.33,7.17,7.25,7.5,7.42,10,10,10,7.25,81.42,0.12,0,0,1,m,1400,1400,1400
+939,Arabica,Green,Washed / Wet,Taiwan,苗栗三灣,謝文品,2014,7.83,7.75,7.42,7.17,7.08,7.08,10,10,10,7.08,81.42,0.12,0,0,0,m,110,110,110
+940,Arabica,Bluish-Green,Washed / Wet,Malawi,mzuzu,Mzuzu Coffee Coop Union,2014,7.58,7.17,7.33,7.42,7.08,7.42,10,10,10,7.42,81.42,0.12,0,0,0,m,1422,1422,1422
+941,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agrícola SA,2014,7.25,7.5,7.42,7.17,7.33,7.33,10,10,10,7.42,81.42,0,0,0,0,m,1100,1100,1100
+942,Arabica,Green,Washed / Wet,Guatemala,"san lucas toliman, solola","PACHUJ, S. A.",2014,7.42,7.5,7.17,7.42,7.42,7.42,10,10,10,7.08,81.42,0.1,0,0,6,m,1550,1550,1550
+943,Arabica,Green,Washed / Wet,Mexico,siltepec el triunfo,various small producers,2014,7.67,7.33,7.25,7.17,7.25,7.42,10,10,10,7.33,81.42,0,1,0,1,m,1550,1550,1550
+944,Arabica,Bluish-Green,Washed / Wet,Peru,puno,,2013,7.42,7.42,7.17,7.33,7.42,7.42,10,10,10,7.25,81.42,0.1,1,0,5,m,NA,NA,NA
+945,Arabica,Green,Washed / Wet,Guatemala,oriente,OTTO BECKER,2013,7.42,7.33,7.25,7.42,7.42,7.5,10,10,10,7.08,81.42,0.12,0,0,4,ft,1310.64,1310.64,1310.64
+946,Arabica,None,Washed / Wet,Mexico,"huazalingo, hidalgo","MARTINEZ BAUTISTA, NICOLAS",2012,7.42,7.33,7.25,7.17,7.25,7.42,10,10,10,7.58,81.42,0.13,1,0,8,m,763,763,763
+947,Arabica,,Washed / Wet,Mexico,"coatepec, coatepec",MARIA DE LOUDES ANCIRA ELIZONDO,2012,7.42,7.42,7.25,7.25,7.5,7.33,10,10,10,7.25,81.42,0.13,0,0,1,m,1100,1100,1100
+948,Arabica,Green,Natural / Dry,Colombia,huila,Exportadora de cafe condor s.a,2011,7.5,7.42,7.25,7.17,7.17,7.75,10,10,10,7.17,81.42,0.11,0,0,0,m,1750,1750,1750
+949,Arabica,,,Colombia,cauca,,2010,7.75,7.33,7.42,7,7.33,7.25,10,10,10,7.33,81.42,0.16,0,0,2,m,1880,1880,1880
+950,Arabica,,,United States (Hawaii),kona,,,7.83,7,7,7.58,7.58,7.5,10,10,10,6.92,81.42,0.01,0,0,10,ft,NA,NA,NA
+951,Arabica,,Washed / Wet,Colombia,huila,La Plata,2016,7.5,7.33,7.33,7.17,7.33,7.42,10,10,10,7.25,81.33,0,0,0,0,m,NA,NA,NA
+952,Arabica,Bluish-Green,Washed / Wet,Honduras,comayagua,Nahun Maldonado,2016,7.5,7.5,7,7.17,7.5,7.33,10,10,10,7.33,81.33,0.11,0,2,3,m,1500,1500,1500
+953,Arabica,Green,,Mexico,veracruz,Juan Hermilo Sampieri,2016,7.67,7.42,7,7.42,7.58,7.08,10,10,10,7.17,81.33,0.12,0,2,0,m,1130,1130,1130
+954,Arabica,Green,Natural / Dry,Brazil,cerrado,NELSON AZEVEDO FRANÇA,2015,7.25,7.33,7.33,7.33,7.33,7.42,10,10,10,7.33,81.33,0.11,0,0,14,m,1100,1100,1100
+955,Arabica,Green,Washed / Wet,Honduras,marcala,Jose Omar Acosta,2015,7.58,7.42,7.17,7.42,7.17,7.17,10,10,10,7.42,81.33,0.09,0,0,4,m,1350,1350,1350
+956,Arabica,Green,Other,Brazil,mantiqueira de minas,NAZARETH DIAS PEREIRA,2015,7.17,7.33,7.42,7.25,7.42,7.33,10,10,10,7.42,81.33,0.12,0,0,6,m,1200,1200,1200
+957,Arabica,Green,Washed / Wet,Philippines,"davao city, region 11","COFFEE FOR PEACE,INC.",2014,7.08,7.33,7.42,7.33,7.33,7.5,10,10,10,7.33,81.33,0.14,0,0,3,m,1400,1400,1400
+958,Arabica,Green,Washed / Wet,Malawi,mzuzu,Mzuzu Coffee Coop Union,2014,7.75,7.33,7.08,7.33,7.33,7.25,10,10,10,7.25,81.33,0.13,0,0,1,m,1200,1200,1200
+959,Arabica,Green,Washed / Wet,Honduras,san marcos,Nelson Melgar Melgar,2014,7.33,7.33,7.17,7.33,7.5,7.33,10,10,10,7.33,81.33,0.12,0,0,3,m,1450,1450,1450
+960,Arabica,Green,Washed / Wet,Mexico,tapachula,ISMAM SAN ISIDRO LABRADOR S. DE S.S.,2012,7.58,7.42,7.25,7.33,7.25,7.25,10,10,10,7.25,81.33,0.13,4,0,13,m,1800,1800,1800
+961,Arabica,None,Washed / Wet,Mexico,veracruz,HECTOR GABRIEL BARREDA NADER,2012,7.33,7.25,7.17,7.42,7.58,7.33,10,10,10,7.25,81.33,0.12,0,0,4,m,1000,1000,1000
+962,Arabica,Green,Natural / Dry,Brazil,matas de minas        ,NAGIPE VIANA KLEM       ,,7.5,7.58,7.5,7.5,7.75,7.83,9.33,9.33,9.33,7.58,81.33,0.11,0,0,0,m,1100,1100,1100
+963,Arabica,Green,Natural / Dry,Taiwan,"dongshan dist., tainan city 台南市東山區",Hu Guei Jing 胡桂青,2015,7.83,7.75,7.67,7.83,7.83,7.75,9.33,10,10,5.25,81.25,0.12,0,0,0,m,680,680,680
+964,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agrícola SA,2015,7.17,7.42,7.17,7.08,6.92,8.17,10,10,10,7.33,81.25,0,0,0,1,m,1,1,1
+965,Arabica,Green,Washed / Wet,Nicaragua,jinotega,Rolando Lacayo,2015,7.08,7.5,7.33,7.17,7.42,7.25,10,10,10,7.5,81.25,0.1,0,0,4,m,1100,1100,1100
+966,Arabica,Green,Washed / Wet,Honduras,marcala,JOSE OMAR ACOSTA,2015,7.42,7.17,7.17,7.5,7.33,7.25,10,10,10,7.42,81.25,0.12,0,0,1,m,1400,1400,1400
+967,Arabica,Bluish-Green,Washed / Wet,Guatemala,huehuetenango,El Injerto S.A.,2014,7.33,7.42,7.17,7.25,7.42,7.33,10,10,10,7.33,81.25,0.09,0,0,2,m,1700,1700,1700
+968,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",karatu ngorogoro,Shangrilla Estate,2014,7.33,7.17,7.17,7.5,7.25,7.42,10,10,10,7.42,81.25,0.13,0,0,5,m,1700,1700,1700
+969,Arabica,Green,Semi-washed / Semi-pulped,Taiwan,nantou,Liu ying wu 劉穎悟,2013,7.5,7.5,7.25,7.25,7.25,7.25,10,10,10,7.25,81.25,0.11,0,0,0,m,650,650,650
+970,Arabica,Green,Washed / Wet,Guatemala,"sacatepequez, guatemala","SIEMBRAS VISION, S.A.",2013,7.5,7.33,7.5,7.58,7,7.25,10,10,10,7.08,81.25,0.11,0,0,4,ft,1524,1524,1524
+971,Arabica,Green,Washed / Wet,Mexico,motozintla,FRANCISCO J. CONTRERAS MARTINEZ DE ESCOBAR,2012,7.42,7.42,7.33,7.33,7.5,7.42,9.33,10,10,7.5,81.25,0.12,0,0,1,m,1500,1500,1500
+972,Arabica,Green,Washed / Wet,Nicaragua,"dipilto, nueva segovia",GONZALO CASTILLO,2016,7.33,7.5,7.17,7.17,7.58,7.17,10,10,10,7.25,81.17,0.09,0,0,7,m,1200,1200,1200
+973,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of","ruvuma, mbinga",Immaculata John,2015,7.67,7.17,7.17,7.33,7.5,7.17,10,10,10,7.17,81.17,0.12,0,0,2,m,100,2000,1050
+974,Arabica,Green,Washed / Wet,Mexico,"chiapas, jaltenango",Exportadora Café California,2015,7.75,7.58,7.08,7.25,7.08,7.25,10,10,10,7.17,81.17,0.12,0,0,10,m,1200,1200,1200
+975,Arabica,Bluish-Green,Washed / Wet,Costa Rica,tres rios,JOSE FRANCISCO GONZALEZ,2015,7.5,7.5,7.33,7.17,7.08,7.17,10,10,10,7.42,81.17,0.11,0,0,0,m,1200,1400,1300
+976,Arabica,Green,Natural / Dry,Honduras,central region,Reinerio Zepeda,2015,7.42,7.33,7,7.42,7.33,7.33,10,10,10,7.33,81.17,0.13,0,0,1,m,1450,1450,1450
+977,Arabica,Blue-Green,Washed / Wet,Thailand,chiangrai,"Coffeas Co., Ltd.",2014,6.83,7.42,7.42,7.17,7.5,7.42,10,10,10,7.42,81.17,0.12,0,0,0,m,1400,1500,1450
+978,Arabica,None,Natural / Dry,Philippines,corillera administrative,"COFFEE FOR PEACE,INC.",2014,7.25,7.25,7.25,7.08,7.58,7.5,10,10,10,7.25,81.17,0,0,0,4,m,1200,1200,1200
+979,Arabica,Bluish-Green,Washed / Wet,"Tanzania, United Republic Of",mbinga,Taylor Winch (T) ltd,2014,7.58,7.17,7.17,7.33,7.33,7.25,10,10,10,7.33,81.17,0.12,0,0,2,m,1550,1550,1550
+980,Arabica,Green,Washed / Wet,Malawi,southern- zomba,R.W.J. Wallace Ltd,2014,7.58,7.25,7.33,7.08,7.33,7.33,10,10,10,7.25,81.17,0.12,0,0,12,m,990,1000,995
+981,Arabica,Green,Washed / Wet,Costa Rica,central valley,VARIOS,2014,7.33,7.08,7.33,7.25,7.33,7.58,10,10,10,7.25,81.17,0.11,0,0,3,m,1200,1400,1300
+982,Arabica,Green,Natural / Dry,Brazil,monte carmelo,JOSE RENATO BAIARDI,2013,7.42,7.42,7.17,7.42,7.33,7.25,10,10,10,7.17,81.17,0.11,0,0,3,m,NA,NA,NA
+983,Arabica,Green,Natural / Dry,Mexico,tapachula,ISMAM SAN ISIDRO LABRADOR S. DE S.S.,2012,7.42,7.25,7.08,7.75,7.42,7.17,10,10,10,7.08,81.17,0.13,3,0,7,m,1800,1800,1800
+984,Arabica,Green,Washed / Wet,Guatemala,oriente,Finca Quequesquez,2012,7.42,7.25,7.33,7.25,7.25,7.42,10,10,10,7.25,81.17,0.12,0,0,4,m,1450,1450,1450
+985,Arabica,Green,Natural / Dry,Brazil,south of minas,Bruno de Andrade Frota,2012,7.42,7.33,7.25,7.42,7.5,7.17,10,10,10,7.08,81.17,0.12,0,0,1,m,1000,1000,1000
+986,Arabica,,,United States (Hawaii),kona,,,7.25,7.75,7.67,7.67,7.42,7.67,8.67,9.33,10,7.75,81.17,0.04,3,0,0,ft,NA,NA,NA
+987,Arabica,,Natural / Dry,Ethiopia,sidamo,Kerchanshe trading plc,2016,7.42,7.33,7.17,7.33,7.42,7.17,10,10,10,7.25,81.08,0.11,0,0,1,m,NA,NA,NA
+988,Arabica,Green,Natural / Dry,Brazil,alta paulista (sao paulo),José Olavo Boechat,2016,7.58,7.42,7.5,7.25,7.75,7.58,9.33,10,9.33,7.33,81.08,0.11,5,0,8,m,695,695,695
+989,Arabica,,Washed / Wet,Nicaragua,jinotega,ROLANDO LACAYO,2015,7.33,7.33,7.33,7.42,7.33,7.33,10,10,10,7,81.08,0.11,0,0,1,m,1100,1100,1100
+990,Arabica,,Natural / Dry,United States,central america,JuanAna Coffee Association,2014,7.42,7.17,7.33,7.42,7.25,7.33,10,10,10,7.17,81.08,0,0,0,0,ft,1706.88,1706.88,1706.88
+991,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of","iwala village, mbeya rural",Taylor Winch (T) ltd,2014,7.42,7.33,7.33,7.25,7.25,7.33,10,10,10,7.17,81.08,0.13,0,0,2,m,1456,1456,1456
+992,Arabica,Green,Washed / Wet,Costa Rica,naranjo,Several,2014,7.42,7.25,7.17,7.25,7.25,7.58,10,10,10,7.17,81.08,0.13,0,0,0,m,1500,1500,1500
+993,Arabica,Green,Washed / Wet,United States (Puerto Rico),yauco region,Hacienda Alto Grande,2013,7.67,7.75,7.67,7.58,7.58,7.67,6.67,10,10,8.5,81.08,0,0,0,0,ft,853.44,853.44,853.44
+994,Arabica,None,Washed / Wet,Mexico,san fernando,MEDINA PEDRERO PRODUCTOS AGRÍCOLAS SA DE CV,2012,7.25,7.42,7.33,7.33,7.17,7.33,10,10,10,7.25,81.08,0.13,5,0,16,m,1650,1650,1650
+995,Arabica,Green,Washed / Wet,Mexico,santo reyes nopala,"DIEGO MANUEL WOOLRICH RAMIREZ, ALFREDO FERNANDO WOOLRICH RAMIREZ",2012,7.33,7.25,7.33,7.42,7.25,7.42,10,10,10,7.08,81.08,0.12,0,0,2,m,1300,1300,1300
+996,Arabica,Green,Washed / Wet,Mexico,santa maria sitepec,ETMAR DIDIER ROBLERO LOPEZ,2012,7.33,7.33,7.25,7.42,7.25,7.25,10,10,10,7.25,81.08,0.11,0,0,5,m,1642,1642,1642
+997,Arabica,Green,Washed / Wet,Mexico,talpa de allende,BALBINO RAMIREZ FLORES,2012,7.42,7.33,7.25,7.42,7.17,7.25,10,10,10,7.25,81.08,0.1,0,0,1,m,1200,1200,1200
+998,Arabica,Blue-Green,Washed / Wet,United States (Hawaii),,,2012,7.42,7.42,7.25,7.58,6.92,7.17,10,10,10,7.33,81.08,0.06,0,0,0,ft,NA,NA,NA
+999,Arabica,Green,Pulped natural / honey,Brazil,grama valley,GABRIEL CARVALHO DIAS,,7.25,7.25,7.17,7.5,7.33,7.17,10,10,10,7.33,81,0.11,0,6,9,m,NA,NA,NA
+1000,Arabica,Green,Washed / Wet,El Salvador,apaneca,"Balcanes Coffee Estates, S.A. de C.V.",2017,7.42,7.08,7.08,7.33,7.25,7.58,10,10,10,7.25,81,0,0,2,6,m,1450,1450,1450
+1001,Arabica,Bluish-Green,Pulped natural / honey,Brazil,grama valley,GABRIEL DE CARVALHO DIAS,2016,7.33,7.17,7.17,7.67,7.33,7.17,10,10,10,7.17,81,0.11,0,2,3,m,NA,NA,NA
+1002,Arabica,Green,Washed / Wet,Guatemala,norte,CHAPULTEPEC,2016,7.42,7.25,7.17,7.5,7.25,7.17,10,10,10,7.25,81,0.09,0,0,8,m,3280,3280,3280
+1003,Arabica,Green,Washed / Wet,Colombia,guayata,,2016,7.67,7.5,7.42,5.25,7.67,7.75,10,10,10,7.75,81,0,0,4,4,m,1600,1600,1600
+1004,Arabica,Green,Washed / Wet,Guatemala,oriente,AMILCAR LAPOLA,2015,7.5,7.25,7,7.25,7.5,7.25,10,10,10,7.25,81,0.11,0,0,1,ft,1219.2,1219.2,1219.2
+1005,Arabica,Bluish-Green,Washed / Wet,Taiwan,"dongshan dist., tainan city 臺南市東山區",HU KUEI CHING 胡桂青,2015,7.25,7.17,7.17,7.25,7.5,7.33,10,10,10,7.33,81,0.12,0,0,0,m,758,758,758
+1006,Arabica,Green,Natural / Dry,Honduras,san marcos,NELSON MELGAR & REGINO MELGAL,2014,7.42,7.25,7.25,7.33,7.25,7.17,10,10,10,7.33,81,0.12,0,0,1,m,1350,1350,1350
+1007,Arabica,Green,Natural / Dry,Brazil,cerrado,,2014,7.67,7.75,7.83,7.75,7.83,7.75,10,6.67,10,7.75,81,0.12,0,0,0,m,NA,NA,NA
+1008,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",arusha,Mlimani Ngarashi,2014,7.33,7.33,7.08,7.42,7.17,7.33,10,10,10,7.33,81,0.12,0,0,5,m,1525,1525,1525
+1009,Arabica,Green,Natural / Dry,Uganda,eastern,Kyagalanyi coffee Ltd,2013,7.33,6.92,7.17,7.33,7.42,7.42,10,10,10,7.42,81,0.12,0,0,3,m,1700,1700,1700
+1010,Arabica,Green,Semi-washed / Semi-pulped,Taiwan,nantou,Zhou hong xiu 周紅秀,2013,7.5,6.92,7.33,7.33,7.33,7.33,10,10,10,7.25,81,0.11,0,0,0,m,1100,1100,1100
+1011,Arabica,Green,Washed / Wet,Thailand,thailand,Doi Tung Development Project,2012,7.33,7.42,7.25,7.42,7.25,7.17,10,10,10,7.17,81,0,0,0,3,m,800,800,800
+1012,Arabica,Green,Washed / Wet,Mexico,"motozintla, chiapas",MARTHA PALACIOS,2012,7.08,7.33,7.33,7.33,7.42,7.25,10,10,10,7.25,81,0.12,0,0,12,m,950,950,950
+1013,Arabica,Green,Washed / Wet,Mexico,adolfo lopez mateos,COOP,2012,7.58,7.67,7.5,7.67,7.58,7.5,8,10,10,7.5,81,0,0,0,8,m,1100,1100,1100
+1014,Arabica,Blue-Green,Washed / Wet,Taiwan,taiwan,蕭閔家,2017,7.33,7.17,7.25,7.33,7.33,7.25,10,10,10,7.25,80.92,0,0,0,0,m,200,200,200
+1015,Arabica,Green,Washed / Wet,Guatemala,oriente,"AGRICOLA EL PILAR, S.A.",2017,7.67,7.67,7.33,7.58,7.67,7.5,9.33,9.33,9.33,7.5,80.92,0.1,0,0,2,m,1901,1901,1901
+1016,Arabica,Green,Washed / Wet,Kenya,kiambu,thiririka/Thima,2017,7.17,7.58,7.5,7.5,8,7.75,10,10,10,5.42,80.92,0.11,0,0,3,m,1600,1600,1600
+1017,Arabica,Green,Washed / Wet,Mexico,veracruz,Jose Oscar Garza Sardaneta,2017,7.5,7.33,7.17,7.42,7.5,7.33,9.33,10,10,7.33,80.92,0.11,0,0,11,m,1100,1100,1100
+1018,Arabica,,Other,Myanmar,pyinoolwin,Min Hlaing,2015,7.17,7.42,7,7.58,7.33,7,10,10,10,7.42,80.92,0,0,0,5,ft,1066.8,1066.8,1066.8
+1019,Arabica,Bluish-Green,Natural / Dry,United States (Hawaii),kona,,2014,7.42,7.08,7.17,7.17,7.58,7.25,10,10,10,7.25,80.92,0.1,2,0,5,ft,NA,NA,NA
+1020,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of","manyara, karatu",Karatu Estate,2014,7.33,7.17,7.17,7.25,7.42,7.33,10,10,10,7.25,80.92,0.12,0,0,0,m,1700,1700,1700
+1021,Arabica,Green,Natural / Dry,Brazil,mantiqueira de minas,NAZARETH DIAS PEREIRA,2014,7.25,7.33,7.25,7.25,7.25,7.33,10,10,10,7.25,80.92,0.12,0,0,8,m,1200,1200,1200
+1022,Arabica,Green,Washed / Wet,Taiwan,台中新社,張文進,2014,7.92,7.67,7.33,7.08,7.08,7.08,10,10,10,6.75,80.92,0.09,0,0,0,m,550,550,550
+1023,Arabica,None,Natural / Dry,Brazil,south of minas,Ipanema Agrícola SA,2014,7.17,7.42,7.17,7.25,7.25,7.33,10,10,10,7.33,80.92,0.1,0,0,0,m,1100,1100,1100
+1024,Arabica,Green,Washed / Wet,Nicaragua,matagalpa,,2013,7.33,7.08,7.25,7,7.5,7.42,10,10,10,7.33,80.92,0.1,1,0,3,m,700,1400,1050
+1025,Arabica,Green,Washed / Wet,Guatemala,jalapa,ROBERTO MONTERROSO,2014,7.58,7.42,6.92,7.5,7.25,7.17,10,10,10,7.08,80.92,0.12,2,0,5,ft,1524,1524,1524
+1026,Arabica,,Washed / Wet,Taiwan,taichung taiping 台中市太平區,Lu bi yun呂碧云,2013,7.42,7.25,7.25,7.25,7.25,7.25,10,10,10,7.25,80.92,0.11,0,0,0,m,900,900,900
+1027,Arabica,Green,Other,Taiwan,nantou,Ding jin cai 丁金財,2013,7.25,7.17,7.08,7.08,7.08,8.08,10,10,10,7.17,80.92,0.11,0,0,0,m,688,688,688
+1028,Arabica,Green,Washed / Wet,Taiwan,new taipei zhonghe 新北市中和區,Lu xing hui 呂星輝,2013,7.42,7.25,7.25,7.25,7.25,7.25,10,10,10,7.25,80.92,0.11,0,0,0,m,300,300,300
+1029,Arabica,Green,Washed / Wet,Mexico,ixhuatlan del cafe,EDUARDO LUIS AUGUSTO VELAZQUEZ SOLIS,2012,7.58,7.33,7.08,7.5,7.17,7.25,10,10,10,7,80.92,0.13,0,0,12,m,1186,1186,1186
+1030,Arabica,,,Thailand,,Doi Tung Development Project,,7.67,7.58,7.33,7.33,7.17,7,10,10,10,6.83,80.92,0,0,0,0,m,NA,NA,NA
+1031,Arabica,Green,Washed / Wet,Laos,"paksong,laos","Paksong,Laos",2016,7.42,7.33,7.17,7.17,7.17,7.25,10,10,10,7.33,80.83,0,0,0,0,m,1300,1300,1300
+1032,Arabica,Green,Washed / Wet,Guatemala,orient,several,2013,7.67,7.25,7.08,7.33,7.17,7.25,10,10,10,7.08,80.83,0.11,0,0,1,m,1200,1200,1200
+1033,Arabica,Green,Semi-washed / Semi-pulped,Mexico,motozintla,DOMINGO MUGUIRA REVUELTA,2012,7.17,7.08,7.25,7.42,7.25,7.33,10,10,10,7.33,80.83,0.13,0,0,7,m,1210,1210,1210
+1034,Arabica,Green,Washed / Wet,Mexico,oaxaca,JUAN JOSE CASAS BLANCO,2012,7.33,7.25,7.33,7.33,7.25,7.17,10,10,10,7.17,80.83,0.11,0,0,3,m,1100,1100,1100
+1035,Arabica,Green,Washed / Wet,Mexico,veracruz,MOISES GUILLERMO CARRERA MONTES,2012,7.5,7.17,7.33,7.25,7.17,7.17,10,10,10,7.25,80.83,0.13,0,0,1,m,100,100,100
+1036,Arabica,Blue-Green,Washed / Wet,United States (Hawaii),kona,,2012,7.42,7.33,7,7.25,7.33,7.5,10,10,10,7,80.83,0.1,2,0,0,ft,NA,NA,NA
+1037,Arabica,,,Colombia,huila,Exportadora de Café Cóndor S.A,2010,7.33,7.33,7,6.83,7.33,7.67,10,10,10,7.33,80.83,0.01,0,0,1,m,1800,1800,1800
+1038,Arabica,Green,Natural / Dry,Brazil,monte carmelo,DIOGO TUDELA NETO,2015,7.17,7.25,7.08,7.17,7.25,7.58,10,10,10,7.25,80.75,0,0,0,1,m,NA,NA,NA
+1039,Arabica,Green,Washed / Wet,Myanmar,ywar ngan,U Soe,2015,6.92,7.5,7,7.58,7.5,7.08,10,10,10,7.17,80.75,0,0,0,2,m,3825,3825,3825
+1040,Arabica,Green,Washed / Wet,Guatemala,huehuetenango,OTTONIEL VILLATORO LOPEZ,2015,7.5,7.33,7,7.42,7.17,7.17,10,10,10,7.17,80.75,0.12,0,0,1,ft,1658.112,1755.648,1706.88
+1041,Arabica,Green,Washed / Wet,Nicaragua,jinotega,ROLANDO LACAYO,2015,7.25,7.25,7.17,7.25,7.33,7.25,10,10,10,7.25,80.75,0.12,0,0,5,m,110000,110000,110000
+1042,Arabica,Green,Natural / Dry,Honduras,"siguatepeque, comayagua",La Gran Manzana,2015,7.5,7.33,7,7.42,7.25,7.17,10,10,10,7.08,80.75,0.11,0,0,2,m,1450,1450,1450
+1043,Arabica,Green,Other,Panama,boquete,Lamastus,2014,7.25,7.33,7.17,7.33,7.33,7.17,10,10,10,7.17,80.75,0.11,1,0,4,m,1680,1680,1680
+1044,Arabica,Green,Washed / Wet,Honduras,marcala,Jose Omar Acosta,2015,7.42,7.17,7.08,7.42,7.25,7.25,10,10,10,7.17,80.75,0.09,0,0,2,m,1350,1350,1350
+1045,Arabica,Green,Natural / Dry,Honduras,central region,Reinerio Zepeda,2015,7.25,7.33,7.08,7.5,7.25,7.33,10,10,10,7,80.75,0.13,0,0,1,m,1450,1450,1450
+1046,Arabica,Green,Washed / Wet,Costa Rica,san ramon,SEVERAL,2014,7.33,7.33,7.25,7.25,7.17,7.17,10,10,10,7.25,80.75,0.11,0,0,0,m,1300,1300,1300
+1047,Arabica,Green,Washed / Wet,Mexico,oaxaca,"JOSE RIOS LARA, APOLONIA FRANCO TORRES, JENARO GONZALES MENDOZA",2012,7.58,7.33,7.42,7.25,7.5,7.5,9.33,9.33,10,7.5,80.75,0.11,0,0,2,m,1200,1200,1200
+1048,Arabica,Green,Washed / Wet,Haiti,haiti,COOPAIMAR Copperative Agro Industriel de Marmelade,2012,7.42,7,7.42,7.25,7.08,7.33,10,10,10,7.25,80.75,0.12,0,0,0,m,1000,1000,1000
+1049,Arabica,Bluish-Green,Natural / Dry,United States (Hawaii),kona,,2011,7.08,7.33,7.17,7.25,7.33,7.67,10,10,10,6.92,80.75,0.13,0,0,6,ft,NA,NA,NA
+1050,Arabica,Green,Other,Taiwan,taiwan,唐權盛,2016,7.33,7.08,7.08,7.08,7.42,7.33,10,10,10,7.33,80.67,0,0,0,1,m,NA,NA,NA
+1051,Arabica,Blue-Green,Semi-washed / Semi-pulped,Indonesia,sumatra brastagi,Surbakti,2015,7.58,7.42,7,7.67,7.5,7.5,9.33,9.33,10,7.33,80.67,0.13,0,0,1,m,1200,1500,1350
+1052,Arabica,Green,Washed / Wet,Guatemala,antigua,FINCA MEDINA,2015,7.67,7.42,6.83,7.17,7.42,7.17,10,10,10,7,80.67,0.11,0,0,0,m,1500,1500,1500
+1053,Arabica,Blue-Green,Washed / Wet,Costa Rica,tarrazu,Martin Gutierrez,2015,7.83,7.5,7.67,7.67,7.83,7.5,6.67,10,10,8,80.67,0.11,0,0,4,m,185,185,185
+1054,Arabica,Bluish-Green,Washed / Wet,Malawi,southern- zomba,R.W.J. Wallace Ltd,2014,7.5,7.25,7.17,7.17,7.25,7.17,10,10,10,7.17,80.67,0.12,0,0,1,m,990,1000,995
+1055,Arabica,Green,Washed / Wet,Mexico,"el desmoronado, talpan de allende jalisco",BALBINO RAMIREZ FLORES,2014,7.25,7.17,7.17,7.25,7.17,7.42,10,10,10,7.25,80.67,0.12,0,0,4,m,1200,1200,1200
+1056,Arabica,,Natural / Dry,Colombia,santander,,2014,7.67,7.5,7.42,7.67,7.5,7.75,10,10,6.67,8.5,80.67,0,0,0,1,m,1550,1550,1550
+1057,Arabica,Green,Washed / Wet,Guatemala,"san lucas toliman, solola","PACHUJ, S.A",2013,7.67,7.17,7,7.5,7,7,10,10,10,7.33,80.67,0.12,0,0,5,m,1550,1550,1550
+1058,Arabica,Green,Washed / Wet,Guatemala,oriente,CHIQUIMULJA / ALPHA CAFE / SENFRO,2012,7,7.33,7.5,7.33,7,7.33,10,10,10,7.17,80.67,0.11,0,0,2,m,NA,NA,NA
+1059,Arabica,Green,Washed / Wet,Guatemala,oriente,CHIQUIMULJA / ALPHA CAFE / SENFRO,2012,7,7.5,7.33,7.17,7.17,7.17,10,10,10,7.33,80.67,0.11,0,0,3,m,NA,NA,NA
+1060,Arabica,,,Colombia,,,,7.17,7.25,7.08,7.42,7.08,7.42,10,10,10,7.25,80.67,0.18,0,0,2,m,NA,NA,NA
+1061,Arabica,Green,,Brazil,monte carmelo,MAX KEND TAKIUTI E OUTROS,2016,7.33,7.25,7.33,7.08,7.58,7.25,9.33,10,10,7.42,80.58,0.11,0,0,7,m,NA,NA,NA
+1062,Arabica,Green,,Nicaragua,nueva segovia,ADONIS JOSE ORTEZ BELTRAN,2016,7.08,7.5,7,7.25,7.42,7,10,10,10,7.33,80.58,0.11,0,1,0,m,NA,NA,NA
+1063,Arabica,Bluish-Green,Washed / Wet,"Tanzania, United Republic Of",arusha,Burka Coffee Estates,2014,7.25,7.08,7.08,7.33,7.33,7.25,10,10,10,7.25,80.58,0.12,0,0,1,m,1400,1400,1400
+1064,Arabica,Green,Semi-washed / Semi-pulped,Brazil,south of minas,Ipanema Agrícola SA,2014,7.42,7.25,7.33,7,7.08,7.25,10,10,10,7.25,80.58,0,0,0,3,m,1200,1200,1200
+1065,Arabica,Green,Washed / Wet,Honduras,occidental,BSR,2014,7.5,7.17,7,7.42,7.33,7,10,10,10,7.17,80.58,0.11,0,0,5,m,1400,1400,1400
+1066,Arabica,Green,Natural / Dry,Guatemala,huehuetenango,BYRON ALONZO SOLIS,2014,7.17,7.42,6.83,7.5,7.17,7.25,10,10,10,7.25,80.58,0.11,0,0,5,ft,1383.792,1383.792,1383.792
+1067,Arabica,,,United States (Hawaii),,,,7.42,7.58,7.5,7.92,7.83,7.83,8.67,8.67,9.33,7.83,80.58,0,0,0,0,ft,NA,NA,NA
+1068,Arabica,,,Colombia,,,,7.08,7.25,7,7.5,7.08,7.33,10,10,10,7.33,80.58,0,0,0,2,m,NA,NA,NA
+1069,Arabica,Blue-Green,Natural / Dry,Taiwan,taiwan,王秋金,2017,7.17,7.17,7.17,7.42,7.17,7.25,10,10,10,7.17,80.5,0,0,0,0,m,50,50,50
+1070,Arabica,Green,Washed / Wet,Guatemala,santa rosa,EDWIN MUÑOZ,2017,7.33,7.25,7.08,7.17,7.25,7.17,10,10,10,7.25,80.5,0.1,0,0,4,m,1500,1500,1500
+1071,Arabica,Green,Washed / Wet,Honduras,ocotepeque,Jorge Alfredo Pinto,2017,7.58,7.33,7,7.17,7.33,7.08,10,10,10,7,80.5,0.11,0,0,5,m,1650,1650,1650
+1072,Arabica,Green,,Mauritius,chamarel (south west),Case Noyale Ltd,2016,7.25,7.25,7.17,7.17,7.25,7.17,10,10,10,7.25,80.5,0.12,0,0,0,m,280,280,280
+1073,Arabica,Green,Semi-washed / Semi-pulped,Brazil,vale da grama,Lindolpho de Carvalho Dias,2015,7.25,7.33,7.17,7.5,7.33,7.25,9.33,10,10,7.33,80.5,0.11,0,0,3,m,1250,1250,1250
+1074,Arabica,Green,Washed / Wet,Myanmar,pyin oo lwin,Shwe Yin Mar,2015,7.17,7.33,7.17,7.42,7.25,7.08,10,10,10,7.08,80.5,0,0,0,2,m,3800,3800,3800
+1075,Arabica,Green,Washed / Wet,Guatemala,oriente,VARIOS,2014,7.5,7.17,6.83,7.5,7.17,7.17,10,10,10,7.17,80.5,0.11,0,0,3,ft,1219.2,1219.2,1219.2
+1076,Arabica,None,Semi-washed / Semi-pulped,Brazil,mantiqueira de minas,MARIA ROGERIA COSTA PEREIRA,2013,7.42,7.42,7.08,7.33,7.67,7.5,9.33,9.33,10,7.42,80.5,0.1,0,0,10,m,1250,1250,1250
+1077,Arabica,Green,Natural / Dry,United States (Hawaii),kona,,2013,7.42,7.33,7.33,7.58,7.58,7.42,8.67,10,10,7.17,80.5,0.11,1,0,0,ft,NA,NA,NA
+1078,Arabica,Green,Washed / Wet,Guatemala,huehuetenango,IDMAR DE JESUS VELASQUEZ CALDERON,2013,7.5,7.5,7,7.67,7.17,7,10,10,10,6.67,80.5,0.12,1,0,1,ft,1859.28,1859.28,1859.28
+1079,Arabica,None,Washed / Wet,Mexico,zaragoza itundujia,HERAS HERNANDEZ GAUDENCIO,2012,7.25,7.25,7.08,7.33,7.25,7.17,10,10,10,7.17,80.5,0.15,0,0,1,m,1450,1450,1450
+1080,Arabica,Green,,Honduras,marcala,Jose Omar Acosta,2016,7.25,7.42,7,7.42,7.33,7,10,10,10,7,80.42,0.1,0,0,0,m,1450,1450,1450
+1081,Arabica,Green,Washed / Wet,Taiwan,南投國姓,曾林春英,2014,7.58,7.17,7.17,7.17,7.17,7.17,10,10,10,7,80.42,0.14,0,0,0,m,600,600,600
+1082,Arabica,Green,Washed / Wet,El Salvador,"department of ahuachapan, municipality of apanecallamatepec mountain","Luis, Rafael and Carmen Silva Hoff",2013,7.33,7.17,7.08,7.08,7.33,7.17,10,10,10,7.25,80.42,0,0,0,1,m,1450,1450,1450
+1083,Arabica,Green,Washed / Wet,China,yunnan,Alicia's Farm,2013,7.25,7.08,7.25,7.17,7.33,7.17,10,10,10,7.17,80.42,0.17,0,0,14,m,1700,1700,1700
+1084,Arabica,Green,Washed / Wet,Taiwan,nantou,Huang san lang 黃三郎        ,2013,7.25,7.25,7.17,7.25,7.25,7.25,10,10,10,7,80.42,0.11,0,0,0,m,600,600,600
+1085,Arabica,Green,Washed / Wet,Mexico,pochutla,CARLOS ALBERTO GOMEZ,2012,6.92,7.17,7.08,7.5,7.33,7.17,10,10,10,7.25,80.42,0.1,2,0,4,m,1050,1050,1050
+1086,Arabica,Green,Washed / Wet,Mexico,la concordia,ARMANDO LUIS POHLENZ MARTINEZ,2012,7.42,7.08,7.08,7.33,7.25,7.17,10,10,10,7.08,80.42,0.12,4,0,16,m,1550,1550,1550
+1087,Arabica,Green,,Burundi,mumirwa,SOGESTAL MUMIRWA,2016,7.08,7.25,7.17,7.33,7.08,7.08,10,10,10,7.33,80.33,0.12,0,0,0,m,1700,1700,1700
+1088,Arabica,Green,Washed / Wet,"Tanzania, United Republic Of",mkuu rombo,Delfina Leon Shine,2015,7.25,7.17,7,7.25,7.42,7.08,10,10,10,7.17,80.33,0.13,0,0,5,m,1700,1700,1700
+1089,Arabica,Bluish-Green,Washed / Wet,"Tanzania, United Republic Of",arusha,Kongoni Estate,2014,7.25,7.17,7.25,7.25,7.25,7.08,10,10,10,7.08,80.33,0.12,0,0,5,m,NA,NA,NA
+1090,Arabica,Green,Other,Taiwan,taichung xinshe 台中市新社區,Wu yi ting 吳伊婷,2013,7.25,7.25,7.08,7.25,7.25,7.25,10,10,10,7,80.33,0.11,0,0,0,m,600,600,600
+1091,Arabica,Green,Washed / Wet,Guatemala,oriente,AGRIPEC DE LA VEGA Y CIA.,2013,7.33,7.33,6.83,7.5,7,7.17,10,10,10,7.17,80.33,0.11,1,0,4,ft,1310.64,1310.64,1310.64
+1092,Arabica,Green,Semi-washed / Semi-pulped,Mexico,chilón,ARMANDO GUTIERREZ GUZMAN,2012,7.25,7.08,7.08,7.33,7.33,7.17,10,10,10,7.08,80.33,0.11,0,0,21,m,940,940,940
+1093,Arabica,Green,Washed / Wet,United States (Hawaii),kona,,2012,7.17,7.5,6.92,7.33,7.67,7.33,9.33,10,10,7.08,80.33,0.12,5,0,7,ft,NA,NA,NA
+1094,Arabica,,,Ethiopia,kelem welega,Exporter Name | Muluneh Kaka | Phone: 0114390290,2010,7.25,7.25,7.25,7.33,7.5,8,9.33,9.33,10,7.08,80.33,0.1,0,0,1,m,NA,NA,NA
+1095,Arabica,Green,Natural / Dry,Brazil,cerrado - monte carmelo - minas gerais,Luiz Augusto Pereira Moguilod,2017,7.17,7.33,7.42,7.08,7,7,10,10,10,7.25,80.25,0.11,0,1,1,m,995,995,995
+1096,Arabica,Green,Natural / Dry,Honduras,comayagua,Yamilet Lope,2016,7.25,7.25,7,7,7.42,7,10,10,10,7.33,80.25,0.1,0,0,4,m,1400,1400,1400
+1097,Arabica,Green,Washed / Wet,Mexico,sierra madre occidental,Balbino Ramirez Flores,2016,7.25,7.17,7,7.33,7.33,7,10,10,10,7.17,80.25,0.1,0,0,2,m,1600,1600,1600
+1098,Arabica,Green,Natural / Dry,Myanmar,"yauk sauk, shan state","Waylead Co, Ltd",2015,8,7.08,7,7.33,7.08,6.92,10,10,10,6.83,80.25,0.11,1,0,26,ft,914.4,914.4,914.4
+1099,Arabica,Green,Natural / Dry,Myanmar,ywar ngan,U Htun Htun,2014,7.42,7,7.08,7,7.17,7.33,10,10,10,7.25,80.25,0,0,0,1,m,4287,4287,4287
+1100,Arabica,Green,Washed / Wet,Nicaragua,matagalpa,GLORIA ANTONIETA ESCOBAR URRUTIA,2015,7.08,6.92,7,7.25,7.5,7.25,10,10,10,7.25,80.25,0.11,0,0,2,m,900,900,900
+1101,Arabica,Green,Natural / Dry,United States (Hawaii),kona,,2014,7.5,7.08,7.67,7.67,7.42,7.58,9.33,9.33,9.33,7.33,80.25,0.12,4,0,13,ft,NA,NA,NA
+1102,Arabica,Green,Washed / Wet,Colombia,,,2012,7.42,8,7.83,7.75,8.08,7.58,8.67,8.67,8.67,7.58,80.25,0.1,0,0,0,m,NA,NA,NA
+1103,Arabica,Green,Semi-washed / Semi-pulped,Taiwan,chiayi fanlu嘉義縣番路鄉,Weng hui ling 翁惠鈴,2013,7.25,7.08,7.25,7.25,7.17,7.25,10,10,10,7,80.25,0.11,0,0,0,m,700,700,700
+1104,Arabica,Green,Washed / Wet,Guatemala,oriente,UNEX,2012,7,7.17,7.33,7.33,7,7.17,10,10,10,7.25,80.25,0.11,1,0,12,m,1400,1400,1400
+1105,Arabica,None,Washed / Wet,Mexico,"calnali, hidalgo","HERNANDEZ PACHECO, TIMOTEO",2012,7.58,7.33,7.17,7.25,6.75,7,10,10,10,7.17,80.25,0.11,2,0,8,m,808,808,808
+1106,Arabica,,Other,Vietnam,dala,"Yeh, Li Chuan",2017,7.42,7.25,7.25,7.58,7.42,7.33,8.67,10,10,7.25,80.17,0,0,0,2,m,1550,1550,1550
+1107,Arabica,,Washed / Wet,Nicaragua,jinotega,Sheldom La rue,2015,7.17,7.08,7.08,7.33,7.25,7.08,10,10,10,7.17,80.17,0.11,0,0,2,m,1100,1275,1187.5
+1108,Arabica,Green,Washed / Wet,Honduras,marcala,Jose Omar Acosta,2015,7.25,7.25,7,7.17,7.08,7.08,10,10,10,7.33,80.17,0.11,0,0,0,m,1400,1400,1400
+1109,Arabica,Green,Washed / Wet,Guatemala,oriente,ROBERTO MONTERROSO,2013,7.33,7.33,7,7.17,7.17,7.17,10,10,10,7,80.17,0.11,0,0,2,ft,1310.64,1310.64,1310.64
+1110,Arabica,Green,Washed / Wet,Mexico,coatepec,PABLO ENRIQUE MARTINEZ GAMA,2012,7.33,7.08,6.92,7.42,7.25,7.08,10,10,10,7.08,80.17,0.11,0,0,2,m,1250,1250,1250
+1111,Arabica,Green,Washed / Wet,Mexico,zaragoza itundujia,CIRILO JOSE JOSE,2012,7.58,7.42,7.33,7.5,7.08,7.17,8.67,10,10,7.42,80.17,0.14,1,0,2,m,1550,1550,1550
+1112,Arabica,Green,Washed / Wet,Mexico,veracruz,MARCO VIRGILIO RAMIREZ TELIZ,2012,7.33,7.33,7.17,7.08,7.25,7,10,10,10,7,80.17,0.12,0,0,12,m,1000,1000,1000
+1113,Arabica,Green,Washed / Wet,Guatemala,oriente,AGROPECUARIA QUIAGRAL,2012,7.33,7.33,7,7.33,7,7,10,10,10,7.17,80.17,0.11,0,0,5,ft,1310.64,1310.64,1310.64
+1114,Arabica,,,United States (Hawaii),kona,,,7.58,7.5,7.33,7.33,7.67,7.33,9.33,9.33,9.33,7.42,80.17,0.05,12,0,1,ft,NA,NA,NA
+1115,Arabica,Green,Pulped natural / honey,Brazil,mantiqueira de minas,,2017,7.17,7.17,7,7.17,7.25,7.25,10,10,10,7.08,80.08,0.11,0,0,5,m,1100,1100,1100
+1116,Arabica,Green,Washed / Wet,Taiwan,苗栗泰安,簡義榮,2014,7.42,7.25,7.25,7.17,7,7,10,10,10,7,80.08,0.07,0,0,0,m,850,850,850
+1117,Arabica,Green,Natural / Dry,Nicaragua,,,2013,7.25,7.17,6.92,7.25,7.17,7.25,10,10,10,7.08,80.08,0.1,0,0,4,m,NA,NA,NA
+1118,Arabica,Green,Other,Taiwan,yunlin gukeng he bao 雲林縣古坑鄉荷苞村,Du zheng ru 杜政儒,2013,7.25,7.25,7.25,7.25,7.08,7,10,10,10,7,80.08,0.11,0,0,0,m,200,200,200
+1119,Arabica,Green,Washed / Wet,Taiwan,changhua baguashan 彰化市八卦山,Zheng zhao ming 鄭昭明,2013,7.25,7.25,7.25,7,7.25,7.08,10,10,10,7,80.08,0.11,0,0,0,m,150,150,150
+1120,Arabica,Green,Semi-washed / Semi-pulped,Taiwan,changhua baguashan 彰化市八卦山,Wu kun shan 吳焜山,2013,7.25,7.25,7.25,7.08,7.17,7.08,10,10,10,7,80.08,0.11,0,0,0,m,250,250,250
+1121,Arabica,None,Washed / Wet,Mexico,zaragoza itundujia,ALBERTA TEODORO ANALCO,2012,7.33,7.17,7.25,7.08,7.08,7.08,10,10,10,7.08,80.08,0.15,0,0,0,m,1300,1300,1300
+1122,Arabica,Green,Washed / Wet,Mexico,escuitla,FEDERICO PACHECO PEREZ,2012,7.25,7.08,7,7.17,7.33,7.17,10,10,10,7.08,80.08,0.14,1,0,17,m,1300,1300,1300
+1123,Arabica,Green,Washed / Wet,Nicaragua,jinotega,RONALDO LACAYO CARDENAL,2017,7.33,7.08,6.92,7.08,7.42,7.17,10,10,10,7,80,0.1,0,0,5,m,1250,1250,1250
+1124,Arabica,Green,Washed / Wet,Myanmar,"doe kwin, pyin oo lwin",Ngu Shwe Li Coffee Estate,2015,7.17,7.33,7,7.42,7.17,7,10,10,10,6.92,80,0,0,0,4,m,3845,3845,3845
+1125,Arabica,Green,Washed / Wet,Mexico,"sierra fraylesca, chiapas",various small producers,2014,7.58,7.75,7.42,7.5,7.5,7.5,8.67,8.67,10,7.42,80,0,0,0,2,m,1300,1500,1400
+1126,Arabica,Green,Washed / Wet,Taiwan,changhua baguashan 彰化市八卦山,Zhang xian tong 張献銅,2013,7.25,7.25,7.25,7,7.25,7,10,10,10,7,80,0.11,0,0,0,m,250,250,250
+1127,Arabica,Green,Washed / Wet,Thailand,thailand,Doi Tung Development Project,2012,7.33,6.67,7.08,7.42,7.42,7.08,10,10,10,7,80,0,0,0,0,m,800,800,800
+1128,Arabica,Green,Washed / Wet,Mexico,coatepec,PABLO ENRIQUE MARTINEZ GAMA,2012,7.25,7.25,7.08,7.17,7.33,7.33,9.33,10,10,7.25,80,0.12,0,0,9,m,1250,1250,1250
+1129,Arabica,Green,Washed / Wet,Mexico,san miguel del puerto,SEMIRAMIS CASAS VELAZQUEZ,2012,7.08,7.33,7,7.33,7.08,7,10,10,10,7.17,80,0.11,0,0,12,m,1100,1100,1100
+1130,Arabica,,,Ethiopia,limu,Contact name | ATO Teshome Belamo,2010,7.42,7.42,7.5,7.92,7.75,7.58,8.67,9.33,8.67,7.75,80,0.05,0,0,2,m,NA,NA,NA
+1131,Arabica,Green,Washed / Wet,Colombia,huila,,2015,7.83,7.67,7.58,7.75,7.83,7.17,6.67,10,10,7.42,79.92,0,0,0,1,m,NA,NA,NA
+1132,Arabica,Green,Natural / Dry,United States (Hawaii),kona,,2014,7.5,7,7,6.92,7.33,7.17,10,10,10,7,79.92,0.11,1,0,3,ft,NA,NA,NA
+1133,Arabica,Green,Washed / Wet,Mexico,chiapas,VARIOS PRODUCTORES,2013,7.33,7.08,7.08,7.33,7.42,7.17,9.33,10,10,7.17,79.92,0.12,0,0,4,m,1300,1300,1300
+1134,Arabica,Green,Washed / Wet,Mexico,"motozintla, chiapas",MARTHA PALACIOS,2012,7.17,7.17,6.92,7.25,7.33,7.08,10,10,10,7,79.92,0.12,1,0,7,m,1100,1100,1100
+1135,Arabica,,Washed / Wet,Mexico,veracruz,DELMAR MORENO GUILLEN,2012,7.5,7.17,7,7.17,7.25,7.08,10,10,10,6.75,79.92,0,0,0,0,m,1100,1100,1100
+1136,Arabica,Green,Washed / Wet,Mexico,jaltenango,MARIA ELENA TERESA FERNANDEZ CEJA,2012,7.17,7.08,7.08,7.08,7.5,7.33,9.33,10,10,7.33,79.92,0.11,0,0,3,m,1100,1100,1100
+1137,Arabica,Green,Natural / Dry,Mexico,coatepec,PABLO ENRIQUE MARTINEZ GAMA,2012,7.33,7.25,7,7.42,7.17,7.17,9.33,10,10,7.25,79.92,0.12,0,0,6,m,1250,1250,1250
+1138,Arabica,Green,Washed / Wet,Mexico,veracruz,MARIA DEL ROSARIO IRAIS VALDIVIA ORTIZ,2012,7.17,7.33,7.08,7.58,7.33,7.08,10,9.33,10,7,79.92,0.11,0,0,0,m,1250,1250,1250
+1139,Arabica,,,United States (Hawaii),kona,,,7.5,7.42,7.58,7.42,7.5,7.58,8.67,8.67,10,7.58,79.92,0.05,3,0,0,ft,NA,NA,NA
+1140,Arabica,,Washed / Wet,Kenya,kiambu,YARA / BENVAR,2017,7,7.08,7,7.17,7.25,7.25,10,10,10,7.08,79.83,0.11,0,1,5,m,1500,1500,1500
+1141,Arabica,Green,Washed / Wet,Guatemala,san marcos,JORGE LEAL,2017,7.33,7.25,6.92,7.33,7.25,7.33,9.33,10,10,7.08,79.83,0.1,0,0,2,m,1700,1700,1700
+1142,Arabica,Green,Washed / Wet,Nicaragua,jinotega,Asociación Aldea Global Jinotega,2014,6.83,7.17,7.17,6.92,7.5,7.08,10,10,10,7.17,79.83,0.11,0,0,0,m,1250,1250,1250
+1143,Arabica,Green,Washed / Wet,Mexico,veracruz,CIRO DE LA VEQUIA CESSA,2012,7.17,7.08,7,7.25,7.5,7,10,10,10,6.83,79.83,0.12,0,0,3,m,1300,1300,1300
+1144,Arabica,Blue-Green,Natural / Dry,United States (Hawaii),kona,,2012,7.58,7.08,6.83,7.17,7.5,7.17,9.33,10,10,7.17,79.83,0.12,7,0,10,ft,NA,NA,NA
+1145,Arabica,Green,Washed / Wet,Guatemala,oriente,"AGRICOLA EL PILAR, S.A.",2016,7.5,7.42,7.25,7.58,7.33,7.42,9.33,9.33,9.33,7.25,79.75,0.1,0,4,1,m,190164,190164,190164
+1146,Arabica,,Natural / Dry,Taiwan,"taiwu township , pingtung county 屏東縣泰武鄉",Wei-Chieh ( Jack ) Hua,2014,7.75,7.33,7.17,7.33,7.67,7.83,9.33,9.33,8.67,7.33,79.75,0,0,0,0,m,800,1200,1000
+1147,Arabica,Blue-Green,Washed / Wet,Taiwan,"baihe dist., tainan city 臺南市白河區",LIN REN FU 林人富,2013,7.08,7.08,7.25,7,7.17,7.17,10,10,10,7,79.75,0.1,0,0,0,m,500,700,600
+1148,Arabica,Green,Washed / Wet,Thailand,thailand,Doi Tung Development Project,2013,7.25,7.08,6.92,7.5,7.08,6.92,10,10,10,7,79.75,0.12,0,0,0,m,800,800,800
+1149,Arabica,Green,Washed / Wet,Peru,huanuco,,2013,7,7.08,7,7.25,7.5,7.42,9.33,10,10,7.17,79.75,0.12,1,0,2,m,NA,NA,NA
+1150,Arabica,Bluish-Green,Washed / Wet,Costa Rica,brunca,Coopeagri,2013,7.58,7.5,7.67,7.75,7.67,7.58,8,8,10,8,79.75,0.1,0,0,4,m,1100,1100,1100
+1151,Arabica,Green,Washed / Wet,Mexico,"la concordia, chiapas",UNION RAMAL SANTA CRUZ,2013,7.58,7.08,7,7,7.5,6.92,10,10,10,6.67,79.75,0.12,0,0,4,m,1400,1400,1400
+1152,Arabica,Green,Washed / Wet,Mexico,chiapas,COMONYAJ NOPTIC S DE SS,2013,7.58,7.08,6.92,7.58,7.5,6.92,10,9.33,10,6.83,79.75,0.13,0,0,4,m,1022,1022,1022
+1153,Arabica,Green,Washed / Wet,Mexico,chiapas,VARIOS PRODUCTORES,2013,7.25,7.08,7,7.17,7.17,7.08,10,10,10,7,79.75,0.12,0,0,5,m,1300,1300,1300
+1154,Arabica,None,Washed / Wet,Mexico,zaragoza itundujia,MINERVA ZUÑIGA GARCIA,2012,7.25,7.17,7.17,7.08,7.17,7,10,10,10,6.92,79.75,0.14,0,0,0,m,1450,1450,1450
+1155,Arabica,Green,Washed / Wet,Mexico,pochutla,ANGEL GONZALES,2012,7.33,7.25,7,7.08,7.08,7,10,10,10,7,79.75,0.1,1,0,22,m,1050,1050,1050
+1156,Arabica,Green,Washed / Wet,Guatemala,antigua,Jorge Bolanos,2012,7.58,7.33,7.5,7.33,7,7.33,9.33,9.33,9.33,7.67,79.75,0,0,0,4,m,NA,NA,NA
+1157,Arabica,,Washed / Wet,Mexico,tuxtla gutierrez,ALFREDO MOISES CEJA,2012,7.25,6.83,6.92,7.08,7.25,7.08,10,10,10,7.33,79.75,0.12,0,0,7,m,1100,1100,1100
+1158,Arabica,Green,Washed / Wet,Guatemala,oriente,JESUS RAMIREZ,2016,7.42,7.42,7.25,7.58,7.42,7.33,9.33,9.33,9.33,7.25,79.67,0.1,0,2,1,ft,1219.2,1219.2,1219.2
+1159,Arabica,Bluish-Green,Washed / Wet,El Salvador,cacahuatique,Sociedad Cooperativa de Cafetaleros de Ciudad Barrios de R.L.,2016,7.25,7.08,7,6.83,7.33,7.17,10,10,10,7,79.67,0,0,0,12,m,1250,1250,1250
+1160,Arabica,Blue-Green,Washed / Wet,Thailand,thailand,Doi Tung Development Project,2013,6.92,7.17,6.83,7.42,7.17,7.08,10,10,10,7.08,79.67,0.12,0,0,0,m,800,800,800
+1161,Arabica,Green,Washed / Wet,Guatemala,oriente,AGRIPEC DE LA VEGA Y CIA.,2013,7.5,7,6.83,7.08,7.08,7.17,10,10,10,7,79.67,0.11,0,0,6,ft,1310.64,1310.64,1310.64
+1162,Arabica,Green,Washed / Wet,Mexico,"la concordia, chiapas",UNION RAMAL SANTA CRUZ,2013,7.42,7.25,6.83,7.58,7.17,6.58,10,10,10,6.83,79.67,0.12,0,0,6,m,1400,1400,1400
+1163,Arabica,None,Washed / Wet,Mexico,"tenango de doria, hidalgo","GOMEZ GRANILLO, VERONICO",2012,7.33,7.17,7,6.75,7.08,7,10,10,10,7.33,79.67,0.13,5,0,6,m,975,975,975
+1164,Arabica,,Washed / Wet,Mexico,"coatepec, coatepec",CECILIA AVILA CAMBEROS,2012,6.92,7.17,7.17,7.17,7.08,7.08,10,10,10,7.08,79.67,0,0,0,9,m,1264,1264,1264
+1165,Arabica,,,Thailand,,Doi Tung Development Project,,7.17,7.17,7,7,7.25,6.92,10,10,10,7.17,79.67,0,1,0,0,m,NA,NA,NA
+1166,Arabica,None,Washed / Wet,Mexico,tepetzingo,ROGELIO JACOME MORALES,2012,7.08,7,6.92,7.33,7.25,7.08,10,10,10,6.92,79.58,0.12,0,0,11,m,1250,1250,1250
+1167,Arabica,Green,Washed / Wet,Mexico,la concordia,ARMANDO LUIS POHLENZ MARTINEZ,2012,7.25,6.92,6.92,7.33,7.25,7,10,10,10,6.92,79.58,0.13,0,0,5,m,1550,1550,1550
+1168,Arabica,,,Colombia,huila,,2010,7.25,7.17,7,6.75,7.17,7.33,10,10,10,6.92,79.58,0.1,0,0,4,m,1800,1800,1800
+1169,Arabica,,,Guatemala,"chuva, san marcos",Federico Weller,2010,7.08,7,6.83,7.33,7.25,7,10,10,10,7.08,79.58,0.17,1,0,19,ft,1066.8,1584.96,1325.88
+1170,Arabica,Green,Natural / Dry,Nicaragua,jinotega,Cooperativa de Servicio Múltiples el Gorrión R.L,2015,6.92,6.92,7,7.42,7.25,7,10,10,10,7,79.5,0.12,0,0,6,m,1050,1050,1050
+1171,Arabica,,Natural / Dry,Taiwan,nantou,張素真,2014,6.92,7,7.17,7,7.42,7,10,10,10,7,79.5,0,0,0,1,m,700,700,700
+1172,Arabica,Green,Washed / Wet,Colombia,cundinamarca,,2013,7.83,7.5,7.42,7.42,7.67,7.5,10,6.67,10,7.5,79.5,0,0,0,2,m,1550,1550,1550
+1173,Arabica,Green,Washed / Wet,Mexico,la concordia,ARMANDO LUIS POHLENZ MARTINEZ,2012,7.25,7.08,6.92,7.25,7.58,7.08,9.33,10,10,7,79.5,0.12,1,0,20,m,1550,1550,1550
+1174,Arabica,Bluish-Green,Washed / Wet,Mexico,"coatepec, coatepec",MARIA DE LA LUZ SANCHEZ TODD,2012,7.25,7.33,7,7.25,7.17,7.17,9.33,10,10,7,79.5,0.12,0,0,5,m,1100,1100,1100
+1175,Arabica,Green,Washed / Wet,Guatemala,oriente,AMILCAR LAPOLA,2013,7.08,7.33,7.25,7.58,7.33,7.42,9.33,9.33,9.33,7.42,79.42,0.1,0,0,2,ft,1219.2,1219.2,1219.2
+1176,Arabica,Green,Washed / Wet,Guatemala,oriente,VARIOS,2014,7.25,7.33,6.83,7,7,7.17,10,10,10,6.83,79.42,0.1,1,0,4,ft,1219.2,1219.2,1219.2
+1177,Arabica,Green,Washed / Wet,Mexico,xicotepec de juarez,ADRIANA TORRES RICO QUEVEDO,2012,7,6.83,6.83,7.42,7.33,7.17,10,10,10,6.83,79.42,0.13,0,0,30,m,800,800,800
+1178,Arabica,Bluish-Green,Washed / Wet,Cote d?Ivoire,cnra station of divo,CNRA,2016,7.42,7.25,6.83,7,7.33,7.08,9.33,10,10,7.08,79.33,0.13,1,0,2,m,200,200,200
+1179,Arabica,Green,Washed / Wet,Colombia,pereira,Spot,2013,7.42,7.25,6.75,7.25,7.42,7.25,9.33,9.33,10,7.33,79.33,0,0,0,3,m,1200,1200,1200
+1180,Arabica,None,Washed / Wet,Mexico,zentla,ERIC JESUS CORDOBA ARROYO,2012,7,7,6.83,7.33,7.42,6.92,10,10,10,6.83,79.33,0.14,0,0,23,m,950,950,950
+1181,Arabica,Green,Washed / Wet,Mexico,zentla,ANTONIO CORDOBA MURILLO,2012,7.42,7.17,7.08,7.17,7.08,7.08,9.33,10,10,7,79.33,0.14,0,0,19,m,750,750,750
+1182,Arabica,Green,Washed / Wet,Guatemala,oriente,Conquista/ Morito,2012,7.17,6.5,6.33,7.25,7.58,7.33,10,10,10,7.17,79.33,0.11,0,0,6,m,NA,NA,NA
+1183,Arabica,Blue-Green,Washed / Wet,Taiwan,natou county,WU SHU YI 巫叔憶,2014,7.08,6.83,6.83,7.25,7.42,7.08,10,10,10,6.75,79.25,0.11,0,0,0,m,850,850,850
+1184,Arabica,Green,Washed / Wet,Mexico,veracruz,MARCO VIRGILIO RAMIREZ TELIZ,2012,7,7,6.92,7.17,7.17,7.08,10,10,10,6.92,79.25,0.13,0,0,10,m,1000,1000,1000
+1185,Arabica,Green,Washed / Wet,Guatemala,santa rosa,OTTO BECKER,2017,7.33,7.42,7.33,7.42,7.5,7.42,8.67,9.33,9.33,7.42,79.17,0.1,0,0,0,ft,1219.2,1219.2,1219.2
+1186,Arabica,Green,Washed / Wet,Honduras,ocotepeque,Jorge Alfredo Pinto,2017,7.58,7,6.75,6.92,7,6.92,10,10,10,7,79.17,0.11,0,0,5,m,1650,1650,1650
+1187,Arabica,Green,Washed / Wet,Guatemala,occidente,CHAPULTEPEC,2016,7.08,7,6.92,7.42,7,6.92,10,10,10,6.83,79.17,0.11,0,8,6,m,1320,1320,1320
+1188,Arabica,Green,Washed / Wet,Guatemala,nuevo oriente,OVIDIO CARDONA,2015,7.25,7.17,6.75,7.25,7,6.92,10,10,10,6.83,79.17,0.11,0,0,6,m,1300,1800,1550
+1189,Arabica,None,Washed / Wet,Costa Rica,san rafael,,2012,7.17,7.42,7.5,8,7.25,7.83,10,10,6.67,7.33,79.17,0.1,5,0,20,m,NA,NA,NA
+1190,Arabica,None,Washed / Wet,Mexico,zaragoza itundujia,HILARIO GARCÍA SANDOVAL,2012,7.25,7.08,6.92,7.08,7.17,7.17,9.33,10,10,7.17,79.17,0.14,0,0,8,m,1550,1550,1550
+1191,Arabica,Green,Washed / Wet,Mexico,yajalon,SOCIEADAD COOPERATIVA INDUSTRIAL CAFES YAJALON S. C. L.,2012,7.17,6.92,6.92,7.08,7.17,7,10,10,10,6.92,79.17,0.14,0,0,34,m,1450,1450,1450
+1192,Arabica,,,Mexico,"pluma hidalogo, oaxaca",Various smallholders,2009,6.75,6.75,6.83,7.25,7.58,7.08,10,10,10,6.92,79.17,0.01,0,0,8,m,1200,1200,1200
+1193,Arabica,Green,Washed / Wet,Guatemala,san marcos,ANGEL DE LEON,2017,7.58,7.67,7.42,7.42,7.67,7.67,8.67,8.67,8.67,7.67,79.08,0.1,0,0,1,m,1700,1700,1700
+1194,Arabica,Green,Washed / Wet,United States (Puerto Rico),yauco region,Hacienda Alto Grande,2013,7.42,7.08,6.75,7.33,7.33,6.92,10,9.33,10,6.92,79.08,0.13,0,0,0,ft,853.44,853.44,853.44
+1195,Arabica,None,Washed / Wet,Mexico,zaragoza itundujia,GUADALUPE HERAS HERNANDEZ,2012,7.33,7,6.92,7.25,7.33,7.08,9.33,10,10,6.83,79.08,0.16,0,0,2,m,1500,1500,1500
+1196,Arabica,Green,Washed / Wet,Mexico,tlacuilotepec,JUANA RODRIGUEZ GUTIERREZ,2012,7.25,7.08,6.75,7.33,7.42,7,9.33,10,10,6.92,79.08,0.11,0,0,45,m,1100,1100,1100
+1197,Arabica,Bluish-Green,Washed / Wet,Mexico,talpa de allende,BALBINO RAMIREZ FLORES,2012,7.17,7.25,7.25,7.17,7.25,7.08,9.33,9.33,10,7.25,79.08,0.1,0,0,0,m,1200,1200,1200
+1198,Arabica,,,,,,,6.75,6.75,6.42,6.83,7.58,7.5,10,10,10,7.25,79.08,0.1,0,0,3,m,NA,NA,NA
+1199,Arabica,Green,Washed / Wet,Guatemala,oriente,Varios,2014,7.33,7.17,6.58,7.42,7.08,6.83,10,10,10,6.58,79,0.12,0,0,3,ft,1219.2,1219.2,1219.2
+1200,Arabica,Green,Washed / Wet,Honduras,intibuca,Cooperativa Coaquil,2014,7,7,7,7,7,7,10,10,10,7,79,0.11,0,0,12,m,1350,1350,1350
+1201,Arabica,,Washed / Wet,Peru,san ignacio,Frontera,2012,7.67,7.17,7.08,7.25,8,7.5,8.67,9.33,9.33,7,79,0,0,0,4,m,1400,1400,1400
+1202,Arabica,None,Natural / Dry,Mexico,"iliatenco, guerrero",GONZALO DE AQUINO FLORES,2012,6.75,7.08,6.67,7.25,7.17,7.08,10,10,10,7,79,0.12,0,0,12,m,1300,1300,1300
+1203,Arabica,Green,Semi-washed / Semi-pulped,Mexico,zaragoza itundujia,JUAN CRUZ RIAÑO,2012,7.5,7.17,6.92,7.5,7.25,7,8.67,10,10,7,79,0.14,3,0,17,m,1550,1550,1550
+1204,Arabica,Green,Washed / Wet,Mexico,amatenango de la frontera,JUAN AVENAMAR RODRIGUEZ FUNEZ,2012,7.17,6.83,6.83,7.25,7.17,6.92,10,10,10,6.83,79,0.14,7,0,38,m,12,12,12
+1205,Arabica,Green,Washed / Wet,Mexico,"la concordia, chiapas",AGROINDUSTRIAS UNIDAS DE MEXICO SA DE CV,2013,7.33,7,6.75,7.08,7.17,7.25,9.33,10,10,7,78.92,0.12,0,0,8,m,1300,1300,1300
+1206,Arabica,None,Washed / Wet,Mexico,zaragoza itundujia,LUISA ZUÑIGA GARCÍA,2012,7.5,7,6.92,7.08,6.92,6.75,10,10,10,6.75,78.92,0.16,0,0,0,m,1400,1400,1400
+1207,Arabica,Green,Other,Nicaragua,jalapa,Teófilo Narváez,2016,7.17,7,6.92,7,7,7,10,10,10,6.75,78.83,0.1,0,2,4,m,1100,1100,1100
+1208,Arabica,Green,Natural / Dry,United States (Hawaii),kona,,2013,7.5,6.92,6.92,7.25,7.58,7.42,9.33,9.33,9.33,7.17,78.75,0.12,5,0,8,ft,NA,NA,NA
+1209,Arabica,Green,Washed / Wet,Guatemala,oriente,AGRIPEC DE LA VEGA Y CIA.,2013,7.33,7.08,6.33,7.25,7,7,10,10,10,6.75,78.75,0.12,1,0,8,ft,1310.64,1310.64,1310.64
+1210,Arabica,Green,Washed / Wet,Mexico,veracruz,"JOSE VAZQUEZ CANTON, JOSE ANTONIO JIMENEZ GONZALEZ, IRENEO GARCIA VALDIVIA",2012,7.25,6.83,6.83,7,7.17,7,10,10,10,6.67,78.75,0.14,0,0,0,m,1320,1320,1320
+1211,Arabica,None,Semi-washed / Semi-pulped,Mexico,veracruz,DAMASO MARTINEZ PEREZ,2012,7.25,7.33,7.17,7.25,7.08,7,8.67,10,10,7,78.75,0.14,0,0,0,m,1250,1250,1250
+1212,Arabica,,Washed / Wet,Mexico,"ohuapan, tlaltetela","PEDRO HERRERA GUZMAN, AURELIO GABRIEL HERNANDEZ ,MARIA DE LOURDES DERISTAIN TRESS",2012,7.67,7.17,6.83,7.33,7.58,7.17,9.33,10,8.67,7,78.75,0.12,0,0,0,m,1350,1350,1350
+1213,Arabica,Green,Washed / Wet,China,yunnan,Yunnan Louis Herbs R&D Center,2013,7,6.92,6.83,7.17,7.17,7.17,10,10,9.33,7.08,78.67,0,0,0,5,m,1850,1850,1850
+1214,Arabica,None,Washed / Wet,Mexico,yecuatla,JUAN GARCIA HERNANDEZ,2012,6.92,6.92,6.67,7.25,7.17,6.92,10,10,10,6.83,78.67,0.13,0,0,2,m,1150,1150,1150
+1215,Arabica,Green,,Nicaragua,nueva segovia,ADONIS JOSE ORTEZ BELTRAN,2016,7.08,7,6.75,6.83,7.08,6.92,10,10,10,6.92,78.58,0.1,1,5,7,m,NA,NA,NA
+1216,Arabica,Green,Natural / Dry,Nicaragua,,,2014,6.83,7.08,6.92,6.75,7.25,7.08,10,10,10,6.67,78.58,0.11,1,0,1,m,NA,NA,NA
+1217,Arabica,Green,Washed / Wet,Guatemala,oriente,VARIOS,2014,7.33,7.17,6.92,7.58,7.25,7.17,8.67,9.33,10,7.17,78.58,0.12,0,0,3,ft,1219.2,1219.2,1219.2
+1218,Arabica,Green,Washed / Wet,Taiwan,"dongshan dist., tainan city 臺南市東山區",GUO JIUN HUNG 郭俊宏 & TSENG RU FENG 曾如楓,2013,6.83,6.75,7.17,7.25,7,6.92,10,10,10,6.67,78.58,0.1,0,0,0,m,800,800,800
+1219,Arabica,Green,Washed / Wet,Mexico,tapachula,EPIFANIO GARCIA DE MIGUEL,2012,7,7,6.75,7.33,6.92,6.92,10,10,10,6.67,78.58,0.13,0,0,1,m,1400,1400,1400
+1220,Arabica,,Washed / Wet,Mexico,cofradia de suchitlan,"J. CARMEN GUZMAN CONCEPCION, IGNACIO RAMIREZ BARAJAS, DIONICIO GARCIA RAMIREZ",2012,7.92,7.58,7.58,7.92,7.92,7.5,8,6.67,10,7.5,78.58,0.1,0,0,1,m,1300,1300,1300
+1221,Arabica,,,United States (Hawaii),kona,,,7.92,6.83,7.08,7.42,6.75,7.33,8.67,9.33,10,7.25,78.58,0,0,0,0,ft,NA,NA,NA
+1222,Arabica,Green,Washed / Wet,Mexico,"sierra, chiapas",Various small producers,2014,7.25,6.75,6.92,6.92,7.25,7.58,9.33,9.33,10,7.17,78.5,0,0,0,0,m,1600,1600,1600
+1223,Arabica,None,Washed / Wet,Mexico,villa talea de castro,REYNALDO OLIVERA RIOS,2012,7.08,6.83,6.83,7,7,6.92,10,10,10,6.83,78.5,0.12,0,0,14,m,1400,1400,1400
+1224,Arabica,Green,Washed / Wet,Mexico,los angeles,FRANCISCO RUIZ NUÑEZ,2012,7.25,7.17,7,6.83,7.58,7.08,8.67,10,10,6.92,78.5,0.13,1,0,3,m,1200,1200,1200
+1225,Arabica,Green,Natural / Dry,Brazil,monte carmelo,Manoel Cardoso and Galileo Cardoso,2014,6.83,7,6.92,7.08,6.92,6.83,10,10,10,6.83,78.42,0.12,3,0,4,m,NA,NA,NA
+1226,Arabica,None,Washed / Wet,Mexico,zaragoza itundujia,LAMBERTO JOSÉ GARCÍA,2012,7.58,7.17,7,7.17,7.33,7,8,10,10,7.17,78.42,0.14,0,0,0,m,1500,1500,1500
+1227,Arabica,Bluish-Green,Natural / Dry,United States (Hawaii),kona,,2014,7.5,7.75,7.58,7.83,7.92,7.92,7.33,8,8.67,7.83,78.33,0.1,0,0,0,ft,NA,NA,NA
+1228,Arabica,Green,Washed / Wet,Guatemala,oriente,VARIOS,2014,7.17,6.5,6.67,7,7.17,7.17,10,10,10,6.67,78.33,0.1,0,0,2,ft,1219.2,1219.2,1219.2
+1229,Arabica,Green,Washed / Wet,Guatemala,oriente,LUIS RODRIGUEZ,2012,7.17,7.17,6.5,7.17,7,6.83,10,10,10,6.5,78.33,0.11,1,0,4,ft,1310.64,1310.64,1310.64
+1230,Arabica,Green,Natural / Dry,Mexico,"xochitonalco, huautla        ",PABLO CERVANTES MORELOS        ,2012,7.25,7.25,7,7.5,7.33,7.42,8,9.33,10,7.75,78.33,0.13,31,0,47,m,1300,1300,1300
+1231,Arabica,Green,Washed / Wet,Guatemala,oriente,Conquista/ Morito,2012,7.17,6.08,6.17,7.25,7.33,7.33,10,10,10,7,78.33,0.11,0,0,9,m,NA,NA,NA
+1232,Arabica,Green,Natural / Dry,United States (Hawaii),kona,,2014,7.5,7.5,7.33,7.58,7.5,7.42,8.67,8.67,8.67,7.42,78.25,0.11,2,0,8,ft,NA,NA,NA
+1233,Arabica,Green,Natural / Dry,United States (Hawaii),kona,,2012,7.42,7.33,7.33,7.5,7.67,7.75,8,8.67,9.33,7.25,78.25,0.11,4,0,31,ft,NA,NA,NA
+1234,Arabica,,Washed / Wet,Indonesia,ijen,vary farms,2016,6.92,6.83,6.92,6.92,6.92,6.83,10,10,10,6.83,78.17,0.13,0,0,1,m,1300,1300,1300
+1235,Arabica,Green,Washed / Wet,Mexico,cordoba,CONSUELO GONZALEZ GOMEZ,2012,7.08,6.83,6.67,7.25,7.25,6.92,10,9.33,10,6.75,78.08,0.11,0,0,3,m,1050,1050,1050
+1236,Arabica,Green,Washed / Wet,Taiwan,"台南市東山區( dongshan dist., tainan city)","林俊吉( Lin, Chun-Chi)",2016,7.5,7.08,7.33,7.17,7.5,7.5,6.67,10,10,7.25,78,0,3,0,4,m,650,650,650
+1237,Arabica,Green,Natural / Dry,Honduras,intibuca,Cooperativa Coaquil,2014,6.83,7,6.67,7,7,6.83,10,10,10,6.67,78,0.11,2,0,6,m,1350,1350,1350
+1238,Arabica,Green,Natural / Dry,United States (Hawaii),kona,,2014,7.58,7.33,7.5,7.42,7.5,7.33,8,8.67,9.33,7.33,78,0.12,2,0,3,ft,NA,NA,NA
+1239,Arabica,Green,Washed / Wet,Guatemala,oriente,VARIOS,2014,7.42,7.25,6.83,7.33,7,6.92,9.33,9.33,9.33,7.25,78,0.1,1,0,2,ft,1219.2,1219.2,1219.2
+1240,Arabica,Green,Washed / Wet,China,yunnan,GreenHouse Coffee,2013,7.33,7.17,6.92,7.08,7.33,7,9.33,9.33,9.33,7.17,78,0.1,0,0,28,m,1200,1200,1200
+1241,Arabica,Green,Washed / Wet,Guatemala,oriente,"AGRICOLA MONTE VERDE, S.A.",2013,7,6.83,6.83,7.17,6.67,6.83,10,10,10,6.67,78,0.11,3,0,9,ft,1310.64,1310.64,1310.64
+1242,Arabica,Green,Washed / Wet,Mexico,"motozintla, chiapas",MARIO GARCÍA,2012,7.25,7.33,7,7,7.25,7.08,10,10,8,7.08,78,0.12,2,0,7,m,850,850,850
+1243,Arabica,Green,,Colombia,,,,7.42,7.17,7,7.17,7.67,7.17,8.67,9.33,9.33,7.08,78,0.1,1,0,3,m,NA,NA,NA
+1244,Arabica,Green,Washed / Wet,Costa Rica,occidental,Beneficio la Eva S.A.,2014,7.5,7.25,7.42,7,7.08,6.83,8.67,9.33,10,6.83,77.92,0.12,2,0,4,m,1200,1200,1200
+1245,Arabica,Green,Washed / Wet,Mexico,petatlan,GUSTAVO ABARCA SOLIS,2012,7.42,7.25,7,7,7.25,7.08,8,10,10,6.92,77.92,0.11,0,0,3,m,1248,1248,1248
+1246,Arabica,Green,Washed / Wet,Guatemala,oriente,Conquista/ Morito,2012,7.17,6.17,6.17,7.08,7.33,6.83,10,10,10,7.17,77.92,0.11,0,0,7,m,NA,NA,NA
+1247,Arabica,Bluish-Green,,Nicaragua,jinotega,MARCIO ALBERTO RIVERA CASTELLON,2016,7.42,7,7,7.17,7.08,7,9.33,8.67,10,7.17,77.83,0.1,0,0,0,m,1000,1000,1000
+1248,Arabica,,Washed / Wet,Brazil,,n/a,2014,7,6.75,6.67,6.83,7.08,6.83,10,10,10,6.67,77.83,0.11,0,0,2,m,NA,NA,NA
+1249,Arabica,Green,Washed / Wet,Guatemala,oriente,LUIS RODRIGUEZ,2013,7,6.83,6.67,7.17,6.83,6.83,10,10,10,6.5,77.83,0.11,0,0,2,ft,1310.64,1310.64,1310.64
+1250,Arabica,Bluish-Green,Washed / Wet,Taiwan,"dongshan dist., tainan city 臺南市東山區",Chen Shuei Lian 陳水連,2012,7.17,6.75,6.58,7.33,7.33,7.17,9.33,9.33,10,6.67,77.67,0.11,0,0,0,m,750,800,775
+1251,Arabica,Green,Natural / Dry,United States (Hawaii),kona,,2013,7.58,7.67,7.58,7.67,7.42,7.42,9.33,9.33,6,7.58,77.58,0.12,1,0,5,ft,NA,NA,NA
+1252,Arabica,Green,Washed / Wet,Mexico,coatepec,RUBRIA OCHOA BELLO,2012,7.17,6.75,6.58,6.75,6.83,6.75,10,10,10,6.67,77.5,0.13,0,0,3,m,1300,1300,1300
+1253,Arabica,Green,Washed / Wet,Guatemala,oriente,MARGARITA DE NUYENS Y/O CARLOS NUYENS,2013,7.08,6.92,6.33,7,6.92,7,10,10,10,6.17,77.42,0.11,2,0,15,ft,1310.64,1310.64,1310.64
+1254,Arabica,Green,Natural / Dry,Brazil,south of minas,Ipanema Agricola S.A,2018,7.5,7.33,7.42,7.58,7.58,6.92,8,8,10,7,77.33,0,0,0,3,m,890,890,890
+1255,Arabica,Green,Washed / Wet,Guatemala,oriente,VARIOS,2014,7.33,7,6.83,7.17,7.17,7.17,9.33,9.33,9.33,6.67,77.33,0.1,1,0,2,ft,1219.2,1219.2,1219.2
+1256,Arabica,None,Washed / Wet,Mexico,zaragoza itundujia,AQUILINO GARCÍA RIAÑO,2012,7.33,7,6.67,7,6.92,6.92,9.33,9.33,10,6.83,77.33,0.15,4,0,5,m,1500,1500,1500
+1257,Arabica,,Washed / Wet,Haiti,"dondon, haiti",Mixed,2013,6.83,6.83,6.83,6.75,6.92,6.92,9.33,10,10,6.83,77.25,0.1,0,0,1,m,400,1250,825
+1258,Arabica,Green,Natural / Dry,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,2013,7.08,6.92,6.83,6.67,7.58,7.42,8.67,9.33,10,6.75,77.25,0.12,1,0,5,ft,NA,NA,NA
+1259,Arabica,Green,Washed / Wet,Mexico,"motozintla, chiapas",ALEJANDRO GARCÍA PALACIOS,2012,7.08,7,7,7.25,7.33,7.25,8.67,8.67,10,6.92,77.17,0.12,1,0,11,m,1200,1200,1200
+1260,Arabica,Green,Washed / Wet,Peru,san ignacio,Sol y Cafe,2014,7.42,7.75,7.42,7.67,7.92,7.83,8.67,5.33,9.33,7.67,77,0,7,0,9,m,900,1500,1200
+1261,Arabica,Green,Natural / Dry,India,chickmangalore,Aspinwall & CO. LTD,2016,7.67,7.33,7.17,6.67,7.17,7.42,9.33,10,6.67,7.42,76.83,0,0,7,0,m,NA,NA,NA
+1262,Arabica,,,Mexico,"pluma hidalogo, oaxaca",Various smallholders,2009,6.67,6.33,6.42,6.83,7,6.92,10,10,10,6.58,76.75,0,0,0,0,m,1200,1200,1200
+1263,Arabica,None,Washed / Wet,Guatemala,oriente,Conquista/Morito,2012,6.42,6.5,6.5,7.33,6.33,6.92,10,10,10,6.5,76.5,0.12,0,0,4,m,NA,NA,NA
+1264,Arabica,Green,Washed / Wet,Mexico,coatepec,CASTULO GUTIERREZ,2012,7.17,6.58,6.58,7,7.25,6.58,9.33,9.33,10,6.58,76.42,0.13,0,0,14,m,1100,1100,1100
+1265,Arabica,Green,Washed / Wet,Guatemala,oriente,AGROPECUARIA QUIAGRAL,2012,7.5,7,6.83,7.5,7.17,7.33,8.67,8.67,8.67,7,76.33,0.11,0,0,8,ft,1310.64,1310.64,1310.64
+1266,Arabica,,Washed / Wet,Guatemala,oriente,Conquista/Morito,2011,6.17,6.5,6.5,7.17,7,6.83,10,10,10,6.17,76.33,0.11,0,0,5,m,NA,NA,NA
+1267,Arabica,Green,Natural / Dry,United States (Hawaii),kona,,2014,7.25,7.08,6.83,7.17,7.33,6.83,8.67,8.67,9.33,7.08,76.25,0,0,0,0,ft,NA,NA,NA
+1268,Arabica,Bluish-Green,Natural / Dry,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,2013,7.5,7.33,7.33,7.58,7.67,7.25,8,8,8,7.5,76.17,0,0,0,3,ft,NA,NA,NA
+1269,Arabica,None,Washed / Wet,Mexico,zaragoza itundujia,ISIDORA HERAS HERNANDEZ,2012,7.42,7,6.83,7.08,6.92,6.83,7.33,10,10,6.75,76.17,0.16,2,0,4,m,1400,1400,1400
+1270,Arabica,None,Natural / Dry,Indonesia,indonesia,1,2011,7.33,7,6.5,6.08,7.58,6.33,9.33,10,9.33,6.67,76.17,0.12,4,0,26,m,3500,3500,3500
+1271,Arabica,Green,Washed / Wet,Mexico,tepictla,GUILLERMO EDUARDO BOBADILLA MUGUIRA,2012,7.08,6.83,6.83,7.17,7.17,7.08,10,7.33,10,6.58,76.08,0.12,0,0,12,m,1250,1250,1250
+1272,Arabica,Green,Natural / Dry,Honduras,intibuca,Cooperativa Coaquil,2014,6.83,6.83,6.67,6.83,7,6.83,9.33,8.67,10,7,76,0.11,0,0,7,m,1350,1350,1350
+1273,Arabica,Green,Washed / Wet,Philippines,"benguet, mountain province",various smallholders,2012,6.83,6.5,6.5,6.92,6.75,7,9.33,10,9.33,6.67,75.83,0.12,0,0,2,m,1000,1000,1000
+1274,Arabica,Green,Natural / Dry,Brazil,monte carmelo,,2017,7.17,7,6.83,7.5,7.17,7,8,8,10,7,75.67,0.11,0,1,6,m,NA,NA,NA
+1275,Arabica,Green,Washed / Wet,Guatemala,oriente,AGROPECUARIA QUIAGRAL,2012,7.92,7.58,7.17,7.58,7.33,7.17,8,8,8,6.83,75.58,0.11,0,0,15,ft,1310.64,1310.64,1310.64
+1276,Arabica,,Washed / Wet,Guatemala,oriente,Conquista / Morito,2012,6.67,6.5,6.33,7,7.17,6.75,8.67,10,10,6.5,75.58,0.12,0,0,10,m,NA,NA,NA
+1277,Arabica,Green,Washed / Wet,Mexico,tlacuilotepec,JUANA RODRIGUEZ GUTIERREZ,2012,7.5,7.25,6.92,7,7.17,6.83,8,8,10,6.83,75.5,0.11,4,0,20,m,1100,1100,1100
+1278,Arabica,Green,Washed / Wet,Mexico,ocosingo,SPOSEL S. DE S.S.,2012,7.17,6.92,6.67,6.83,7.25,7.75,10,6,10,6.58,75.17,0.11,0,0,20,m,1200,1200,1200
+1279,Arabica,,Washed / Wet,Mexico,,SURAYA MAGDALENA LOTFE CALDERON,2012,7.25,6.83,6.67,7.08,7.17,6.83,10,6.67,10,6.67,75.17,0.12,0,0,8,m,1100,1100,1100
+1280,Arabica,Bluish-Green,Washed / Wet,Mexico,huautla de jimenez,"MARTÍN JIMENEZ CASIANO, PAULINA CERQUEDA ALVAREZ, JULIO MARTINEZ TERAN",2012,7.17,7.17,6.83,7.17,7.42,6.67,8.67,7.33,10,6.75,75.17,0.13,23,0,29,m,1280,1280,1280
+1281,Arabica,Green,Washed / Wet,Mexico,menglian,MIGUEL LOPEZ TIRZO,2012,7,6.92,6.75,6.92,7.17,6.83,10,6.67,10,6.75,75,0.14,15,0,7,m,850,850,850
+1282,Arabica,None,Washed / Wet,Mexico,zaragoza itundujia,GEREMIAS RIAÑO LOPEZ,2012,7.08,6.75,6.58,7,7,6.75,8.67,8.67,10,6.42,74.92,0.17,0,0,6,m,1500,1500,1500
+1283,Arabica,Green,Washed / Wet,Mexico,coatepec,PABLO ENRIQUE MARTINEZ GAMA,2012,7.33,6.75,6.67,7.25,7.5,7,10,5.33,10,7,74.83,0.12,0,0,30,m,1250,1250,1250
+1284,Arabica,,Washed / Wet,Guatemala,oriente,Conquista / Morito,2012,6.75,6.5,6.17,7,7.25,6.75,8,10,10,6.33,74.75,0.11,0,0,8,m,NA,NA,NA
+1285,Arabica,,Washed / Wet,Guatemala,oriente,Conquista/Morito,2012,6.75,6.67,6.17,7.17,7,6.58,8,10,10,6.42,74.75,0.11,0,0,10,m,NA,NA,NA
+1286,Arabica,Green,Washed / Wet,Mexico,chiapas,CESMACH (VARIOS),2013,7.08,7,6.83,7.5,7.33,6.83,8,7.33,10,6.75,74.67,0.12,0,0,7,m,1700,1700,1700
+1287,Arabica,Blue-Green,Natural / Dry,United States (Hawaii),kona,,2014,7.5,7.25,7,7.25,7.42,7.33,8,8.67,6.67,7.33,74.42,0,1,0,2,ft,NA,NA,NA
+1288,Arabica,Green,Washed / Wet,Guatemala,oriente,AGRIPEC DE LA VEGA Y CIA.,2013,6.5,6.33,6.5,7.5,7.33,6.83,8.67,10,8.67,6,74.33,0.11,1,0,1,ft,1310.64,1310.64,1310.64
+1289,Arabica,Green,Washed / Wet,Mexico,"chocaman, veracruz",JORGE OCTAVIO ESCAMILLA PRADO,2012,7,6.58,6.67,6.83,7.08,6.83,10,6.67,10,6.67,74.33,0.14,3,0,11,m,1140,1140,1140
+1290,Arabica,None,Washed / Wet,Mexico,xalapa,MYRNA ROXANA GÁLVEZ GONZÁLEZ,2012,6.92,6.42,6.17,7.33,7.25,6.75,10,6.67,10,6.5,74,0.13,0,0,27,m,1200,1200,1200
+1291,Arabica,Green,Washed / Wet,Mexico,coatepec,EUGENE HOLMAN PEW,2012,7.67,7,7.17,7.58,7.33,7.33,10,2.67,10,7.08,73.83,0.12,0,0,19,m,1250,1250,1250
+1292,Arabica,,Natural / Dry,United States (Hawaii),kona,,2012,7.17,7.17,7.17,7.58,7.67,6.92,9.33,6.67,6.67,7.33,73.67,0,9,0,17,ft,NA,NA,NA
+1293,Arabica,Green,,Brazil,campos altos - cerrado,,2016,7.25,6.58,6.58,7,7,6.42,8,8,10,6.67,73.5,0.11,0,1,0,m,NA,NA,NA
+1294,Arabica,Green,Washed / Wet,Honduras,intibuca,Cooperativa Coaquil,2014,7,7.17,6.83,7.17,7,7.17,8,8,8,7.08,73.42,0.11,1,0,16,m,1350,1350,1350
+1295,Arabica,,Washed / Wet,Mexico,sierra alta mixe y zapoteca,various small producers,2014,7.08,7.08,6.92,7.08,6.92,6.92,8,8,8,6.92,72.92,0,1,0,1,m,1200,1200,1200
+1296,Arabica,Bluish-Green,Natural / Dry,Colombia,,,2013,8,7.33,7.75,7.33,7.42,7.67,6.67,6.67,6.67,7.33,72.83,0,0,0,15,m,NA,NA,NA
+1297,Arabica,Green,Natural / Dry,United States (Hawaii),kona,,2014,6.92,6.92,6.92,7.5,7.58,7.17,6.67,6.67,9.33,6.92,72.58,0.11,5,0,9,ft,NA,NA,NA
+1298,Arabica,,,Haiti,marmelade,Asosyasyon Plantè Kafe Krètapen (APCAP) ;Asosyasyon plantè Kafe Basen (APKBA);Asosyasyon Plantè Kafe,2010,6.92,6.75,7.08,7.17,7.33,6.67,10,5.33,8.67,6.42,72.33,0.08,1,0,0,m,640,1400,1020
+1299,Arabica,Green,Washed / Wet,Costa Rica,occidental,Beneficio la Eva S.A.,2014,6.33,6.5,6.33,6.83,6.33,6.5,10,6.67,10,6.25,71.75,0.11,0,0,7,m,1200,1200,1200
+1300,Arabica,Green,Washed / Wet,Mexico,tlatlauquitepec,JOSÉ ARMANDO NORBERTO BORZANI LEMINI,2012,6.92,6.92,6.92,6.92,7.17,7,10,2.67,10,6.58,71.08,0.12,4,0,24,m,800,800,800
+1301,Arabica,Green,Washed / Wet,Mexico,veracruz,RICARDO AARON SAMPIERI MARINI,2012,6.5,6.67,6.42,7.17,7.33,6.5,8,6,10,6.42,71,0.11,0,0,0,m,1800,1800,1800
+1302,Arabica,Green,Washed / Wet,Mexico,"sierra norte yajalon, chiapas",various small producers,2014,6.92,7,6.83,6.92,7.42,6.92,6,6,10,6.75,70.75,0.12,0,0,1,m,1000,1000,1000
+1303,Arabica,Green,Natural / Dry,Brazil,cerrado,,2017,7,7,6.83,7,7.33,6.83,6,6,10,6.67,70.67,0.11,0,1,55,m,NA,NA,NA
+1304,Arabica,Green,Washed / Wet,Honduras,marcala,Omar Acosta,2014,6.67,6.5,6.17,6.67,6.83,6.17,8,8,8,6.33,69.33,0.1,0,0,4,m,1450,1450,1450
+1305,Arabica,Green,Washed / Wet,Honduras,marcala,Omar Acosta,2014,7,6.17,6.17,6.67,6.5,6.17,8,8,8,6.5,69.17,0.1,0,0,3,m,1450,1450,1450
+1306,Arabica,Green,Washed / Wet,Honduras,marcala,Omar Acosta,2014,7,6.33,6.17,6.5,6.67,6.17,8,8,8,6.33,69.17,0.1,0,0,4,m,1450,1450,1450
+1307,Arabica,None,Washed / Wet,Mexico,juchique de ferrer,JUAN CARLOS GARCÍA LOPEZ,2012,7.08,6.83,6.25,7.42,7.25,6.75,10,0,10,6.75,68.33,0.11,0,0,20,m,900,900,900
+1308,Arabica,Blue-Green,Natural / Dry,Haiti,"department d'artibonite , haiti",COEB Koperativ Ekselsyo Basen,2012,6.75,6.58,6.42,6.67,7.08,6.67,9.33,6,6,6.42,67.92,0.14,8,0,16,m,350,350,350
+1309,Arabica,Green,Other,Nicaragua,jalapa,Teófilo Narváez,2016,7.25,6.58,6.33,6.25,6.42,6.08,6,6,6,6.17,63.08,0.13,1,0,5,m,1100,1100,1100
+1310,Arabica,Green,Washed / Wet,Guatemala,nuevo oriente,WILLIAM ESTUARDO MARTINEZ PACHECO,2012,7.5,6.67,6.67,7.67,7.33,6.67,8,1.33,1.33,6.67,59.83,0.1,0,0,4,ft,1417.32,1417.32,1417.32
+1312,Arabica,Green,,Honduras,comayagua,Reinerio Zepeda,2017,0,0,0,0,0,0,0,0,0,0,0,0.12,0,0,2,m,1400,1400,1400
